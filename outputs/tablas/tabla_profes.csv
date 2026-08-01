@@ -1,0 +1,211 @@
+semestre,codigo,curso,profesor
+1,EE0107,Dibujo técnico,Luis Felipe Córdoba Ramírez
+1,EE0107,Dibujo técnico,Christopher Vega Sánchez
+1,EE0107,Dibujo técnico,Noel Jacob Ureña Sandí
+1,EE0107,Dibujo técnico,Juan Luis Guerrero Fernández
+1,EE0107,Dibujo técnico,Herberth Jackson Quirós
+1,EE0107,Dibujo técnico,Carlos Otárola Zúñiga
+1,EE0107,Dibujo técnico,Víctor Julio Hernández
+1,EE0107,Dibujo técnico,Francisco Bonilla Guido
+1,EE0107,Dibujo técnico,Joshua Guzmán Conejo
+1,EE0107,Dibujo técnico,Julio César Rojas Gómez
+1,EE0107,Dibujo técnico,Laura Salas Moya
+1,EE0107,Dibujo técnico,Manuel Francisco Mata Coto
+1,EE0107,Dibujo técnico,Frank Marín Guillén
+1,EE0107,Dibujo técnico,Luis Chévez Gómez
+1,EE0107,Dibujo técnico,Maximino Jiménez Ceciliano
+1,EE0107,Dibujo técnico,Marvin Bermúdez Chacón
+1,EE0108,Introducción a la ingeniería electromecánica,Alberto Garro Zavaleta
+1,EE0108,Introducción a la ingeniería electromecánica,Juan José Montero Jiménez
+1,EE0108,Introducción a la ingeniería electromecánica,Laura Salas Moya
+2,EE0207,Estática,Christopher Vega Sánchez
+2,EE0207,Estática,Laura Salas Moya
+2,EE0207,Estática,Luis Felipe Córdoba Ramírez
+2,EE0207,Estática,Marvin Bermúdez Chacón
+2,EE0207,Estática,Juan Francisco Piedra Segura
+2,EE0207,Estática,Juan Luis Guerrero Fernández
+2,EE0207,Estática,Manuel Francisco Mata Coto
+2,EE0207,Estática,Julio Andrés Morera Hidalgo
+2,EE0207,Estática,Gustavo Richmond Navarro
+3,EE0303,Análisis de circuitos I,Lisandro Araya Rodriguez
+3,EE0303,Análisis de circuitos I,Nicolás Vaquerano Pineda
+3,EE0303,Análisis de circuitos I,Osvaldo Guerrero Castro
+3,EE0303,Análisis de circuitos I,Greivin Barahona Guzmán
+3,EE0304,Laboratorio de circuitos I,Lisandro Araya Rodriguez
+3,EE0304,Laboratorio de circuitos I,Nicolás Vaquerano Pineda
+3,EE0304,Laboratorio de circuitos I,Luis Gómez Gutierrez
+3,EE0304,Laboratorio de circuitos I,Suzanne Melara Cruz
+3,EE0305,Transductores,Juan José Rojas Hernández
+3,EE0305,Transductores,Luis Diego Murillo Soto
+3,EE0307,Dinámica,Juan José Montero Jiménez
+3,EE0307,Dinámica,Carlos Otárola Zúñiga
+3,EE0307,Dinámica,Frank Marín Guillén
+3,EE0307,Dinámica,Gustavo Richmond Navarro
+4,EE0403,Análisis de circuitos II,Nicolás Vaquerano Pineda
+4,EE0403,Análisis de circuitos II,Osvaldo Guerrero Castro
+4,EE0403,Análisis de circuitos II,Lisandro Araya Rodriguez
+4,EE0403,Análisis de circuitos II,Greivin Barahona Guzmán
+4,EE0404,Laboratorio de circuitos II,Nicolás Vaquerano Pineda
+4,EE0404,Laboratorio de circuitos II,Osvaldo Guerrero Castro
+4,EE0404,Laboratorio de circuitos II,Lisandro Araya Rodriguez
+4,EE0404,Laboratorio de circuitos II,Greivin Barahona Guzmán
+4,EE0405,Instrumentación,Juan José Rojas Hernández
+4,EE0405,Instrumentación,Luis Diego Murillo Soto
+4,EE0407,Termodinámica,Ignacio del Valle Granados
+4,EE0407,Termodinámica,Rodolfo Elizondo Hernandez
+5,EE0503,Sistemas analógicos,Nicolás Vaquerano Pineda
+5,EE0503,Sistemas analógicos,Lisandro Araya Rodriguez
+5,EE0504,Modelado y simulación de sistemas,Juan Luis Guerrero Fernández
+5,EE0504,Modelado y simulación de sistemas,Luis Diego Murillo Soto
+5,EE0507,Manufactura,Julio César Rojas Gómez
+5,EE0507,Manufactura,Francisco Bonilla Guido
+5,EE0507,Manufactura,Carlos Otárola Zúñiga
+5,EE0507,Manufactura,Luis Felipe Córdoba Ramírez
+5,EE0508,Laboratorio de manufactura,Julio César Rojas Gómez
+5,EE0508,Laboratorio de manufactura,Francisco Bonilla Guido
+5,EE0508,Laboratorio de manufactura,Luis Felipe Córdoba Ramírez
+6,EE0602,Fiabilidad y disponibilidad de sistemas electromecánicos,Sebastián Mata Ortega
+6,EE0602,Fiabilidad y disponibilidad de sistemas electromecánicos,Carlos Piedra Santamaria
+6,EE0602,Fiabilidad y disponibilidad de sistemas electromecánicos,Juan José Montero Jiménez
+6,EE0602,Fiabilidad y disponibilidad de sistemas electromecánicos,Juan Pablo Arias Cartín
+6,EE0604,Sistemas digitales,Nicolás Vaquerano Pineda
+6,EE0604,Sistemas digitales,Lisandro Araya Rodriguez
+6,EE0604,Sistemas digitales,Luis Gómez Gutierrez
+6,EE0605,Resistencia de materiales,Noel Jacob Ureña Sandí
+6,EE0605,Resistencia de materiales,Manuel Francisco Mata Coto
+6,EE0605,Resistencia de materiales,Julio Andrés Morera Hidalgo
+6,EE0605,Resistencia de materiales,Luis Chévez Gómez
+6,EE0607,Mecánica de fluidos,Rodolfo Elizondo Hernandez
+6,EE0607,Mecánica de fluidos,Gustavo Richmond Navarro
+6,EE0608,Laboratorio de mecánica de fluidos,Oscar Monge Ruiz
+6,EE0608,Laboratorio de mecánica de fluidos,Joshua Guzmán Conejo
+6,EE0608,Laboratorio de mecánica de fluidos,Juan Pablo Arias Cartín
+6,EE0608,Laboratorio de mecánica de fluidos,Ignacio del Valle Granados
+6,EE0609,Dibujo industrial,Laura Salas Moya
+6,EE0609,Dibujo industrial,Francisco Bonilla Guido
+6,EE0609,Dibujo industrial,Julio César Rojas Gómez
+6,EE0609,Dibujo industrial,Víctor Julio Hernández
+6,EE0609,Dibujo industrial,Herberth Jackson Quirós
+7,EE0701,Administración de proyectos,Sebastián Mata Ortega
+7,EE0701,Administración de proyectos,Carlos Piedra Santamaria
+7,EE0702,Máquinas eléctricas I,Osvaldo Guerrero Castro
+7,EE0702,Máquinas eléctricas I,Greivin Barahona Guzmán
+7,EE0702,Máquinas eléctricas I,Gustavo Gomez Ramirez
+7,EE0702,Máquinas eléctricas I,Nicolás Vaquerano Pineda
+7,EE0703,Laboratorio de máquinas eléctricas I,Osvaldo Guerrero Castro
+7,EE0703,Laboratorio de máquinas eléctricas I,Greivin Barahona Guzmán
+7,EE0703,Laboratorio de máquinas eléctricas I,Gustavo Gomez Ramirez
+7,EE0703,Laboratorio de máquinas eléctricas I,Nicolás Vaquerano Pineda
+7,EE0703,Laboratorio de máquinas eléctricas I,Sebastián Mata Ortega
+7,EE0704,Control automático,Juan Luis Guerrero Fernández
+7,EE0705,Microcontroladores,Nicolás Vaquerano Pineda
+7,EE0706,Elementos de máquinas,Noel Jacob Ureña Sandí
+7,EE0706,Elementos de máquinas,Manuel Francisco Mata Coto
+7,EE0706,Elementos de máquinas,Christopher Vega Sánchez
+7,EE0707,Sistemas térmicos,Ignacio del Valle Granados
+7,EE0707,Sistemas térmicos,Alberto Garro Zavaleta
+7,EE0708,Laboratorio de sistemas térmicos,Ignacio del Valle Granados
+7,EE0708,Laboratorio de sistemas térmicos,Alberto Garro Zavaleta
+8,EE0802,Máquinas eléctricas II,Osvaldo Guerrero Castro
+8,EE0802,Máquinas eléctricas II,Greivin Barahona Guzmán
+8,EE0802,Máquinas eléctricas II,Gustavo Gomez Ramirez
+8,EE0802,Máquinas eléctricas II,Nicolás Vaquerano Pineda
+8,EE0803,Laboratorio de máquinas eléctricas II,Osvaldo Guerrero Castro
+8,EE0803,Laboratorio de máquinas eléctricas II,Greivin Barahona Guzmán
+8,EE0803,Laboratorio de máquinas eléctricas II,Gustavo Gomez Ramirez
+8,EE0803,Laboratorio de máquinas eléctricas II,Nicolás Vaquerano Pineda
+8,EE0803,Laboratorio de máquinas eléctricas II,Sebastián Mata Ortega
+8,EE0804,Control por eventos discretos,Luis Gómez Gutierrez
+8,EE0804,Control por eventos discretos,Luis Diego Murillo Soto
+8,EE0805,Laboratorio de control,Luis Gómez Gutierrez
+8,EE0805,Laboratorio de control,Luis Diego Murillo Soto
+8,EE0805,Laboratorio de control,Juan José Rojas Hernández
+8,EE4801,Sistemas eléctricos de transmisión y distribución,Gustavo Gomez Ramirez
+8,EE4801,Sistemas eléctricos de transmisión y distribución,Greivin Barahona Guzmán
+8,EE4801,Sistemas eléctricos de transmisión y distribución,Gonzalo Mora Jiménez
+8,EE4801,Sistemas eléctricos de transmisión y distribución,Luis Carlos Muñoz Chacón
+8,EE4806,Instalaciones eléctricas,Gustavo Gomez Ramirez
+8,EE4806,Instalaciones eléctricas,Greivin Barahona Guzmán
+8,EE4806,Instalaciones eléctricas,Juan Francisco Piedra Segura
+8,EE4807,Ventilación y aire comprimido,Alberto Garro Zavaleta
+8,EE4807,Ventilación y aire comprimido,Ignacio del Valle Granados
+8,EE4807,Ventilación y aire comprimido,Oscar Monge Ruiz
+8,EE4808,Mantenimiento electromecánico,Sebastián Mata Ortega
+8,EE4808,Mantenimiento electromecánico,Carlos Piedra Santamaria
+8,EE4808,Mantenimiento electromecánico,Juan José Montero Jiménez
+8,EE4808,Mantenimiento electromecánico,Juan Pablo Arias Cartín
+9,EE4901,Sistemas de generación y almacenamiento de energía,Gustavo Gomez Ramirez
+9,EE4901,Sistemas de generación y almacenamiento de energía,Gonzalo Mora Jiménez
+9,EE4901,Sistemas de generación y almacenamiento de energía,Luis Carlos Muñoz Chacón
+9,EE4903,Sistemas de refrigeración y aire acondicionado,Ignacio del Valle Granados
+9,EE4903,Sistemas de refrigeración y aire acondicionado,Sebastián Mata Ortega
+9,EE4903,Sistemas de refrigeración y aire acondicionado,Oscar Monge Ruiz
+9,EE4904,Laboratorio de refrigeración y aire acondicionado,Oscar Monge Ruiz
+9,EE4904,Laboratorio de refrigeración y aire acondicionado,Juan Pablo Arias Cartín
+9,EE4904,Laboratorio de refrigeración y aire acondicionado,Joshua Guzmán Conejo
+9,EE1101,Seminario de graduación I,Sebastián Mata Ortega
+9,EE1101,Seminario de graduación I,Carlos Piedra Santamaria
+9,EE1101,Seminario de graduación I,Gustavo Gomez Ramirez
+9,EE4906,Instalaciones mecánico-sanitarias,Juan Pablo Arias Cartín
+9,EE4906,Instalaciones mecánico-sanitarias,Joshua Guzmán Conejo
+9,EE4906,Instalaciones mecánico-sanitarias,Alberto Garro Zavaleta
+9,EE4907,Laboratorio de sistemas de fluidos,Oscar Monge Ruiz
+9,EE4907,Laboratorio de sistemas de fluidos,Joshua Guzmán Conejo
+9,EE4907,Laboratorio de sistemas de fluidos,Juan Pablo Arias Cartín
+9,EE4908,Sistemas de vapor,Alberto Garro Zavaleta
+9,EE4909,Laboratorio de sistemas de vapor,Oscar Monge Ruiz
+9,EE4909,Laboratorio de sistemas de vapor,Juan Pablo Arias Cartín
+9,EE4909,Laboratorio de sistemas de vapor,Joshua Guzmán Conejo
+10,EE5003,Gestión de la energía,Osvaldo Guerrero Castro
+10,EE5003,Gestión de la energía,Greivin Barahona Guzmán
+10,EE5003,Gestión de la energía,Sebastián Mata Ortega
+10,EE5003,Gestión de la energía,Carlos Piedra Santamaria
+10,EE1102,Seminario de graduación II,Sebastián Mata Ortega
+10,EE1102,Seminario de graduación II,Ignacio del Valle Granados
+10,EE1102,Seminario de graduación II,Greivin Barahona Guzmán
+10,EE1102,Seminario de graduación II,Luis Gómez Gutierrez
+10,EE5006,Gestión del ciclo de vida de instalaciones electromecánicas,Sebastián Mata Ortega
+10,EE5006,Gestión del ciclo de vida de instalaciones electromecánicas,Carlos Piedra Santamaria
+10,EE5006,Gestión del ciclo de vida de instalaciones electromecánicas,Juan Pablo Arias Cartín
+10,EE5007,Neumática y oleohidráulica,Oscar Monge Ruiz
+10,EE5007,Neumática y oleohidráulica,Osvaldo Guerrero Castro
+12,EE5201,Sistemas de puesta a tierra,Luis Carlos Muñoz Chacón
+12,EE5201,Sistemas de puesta a tierra,Gustavo Gomez Ramirez
+12,EE5202,Sistemas contra incendios,Juan Pablo Arias Cartín
+12,EE5202,Sistemas contra incendios,Alberto Garro Zavaleta
+12,EE5203,Edificios inteligentes,Rosa Matarrita Chaves
+12,EE5203,Edificios inteligentes,Greivin Barahona Guzmán
+8,EE6801,Sistemas de la aeronave,Oscar Monge Ruiz
+8,EE6801,Sistemas de la aeronave,Víctor Julio Hernández
+8,EE6807,Materiales en aeronáutica,Noel Jacob Ureña Sandí
+8,EE6808,Metrología aeronáutica,Oscar Monge Ruiz
+9,EE6901,Aviónica,Nicolás Vaquerano Pineda
+9,EE6902,Aerodinámica,Gustavo Richmond Navarro
+9,EE6903,Dinámica de vuelo,Juan José Montero Jiménez
+9,EE6906,Análisis mecánico de estructuras de la aeronave,Víctor Julio Hernández
+9,EE6908,Seguridad aeronáutica y aeronavegabilidad,Oscar Monge Ruiz
+10,EE7001,Gestión del ciclo de vida de la aeronave,Carlos Piedra Santamaria
+10,EE7002,Sistemas de propulsión,Juan José Montero Jiménez
+10,EE7003,Control automático de vuelo,Joshua Guzmán Conejo
+12,EE7201,Infraestructura y servicios aeroportuarios,Víctor Julio Hernández
+12,EE7202,Telemetría y comunicaciones para aeronáutica,Nicolás Vaquerano Pineda
+12,EE7203,Manufactura en la cadena de valor aeroespacial,Víctor Julio Hernández
+8,EE8104,Ingeniería de sistemas,Juan José Montero Jiménez
+8,EE0806,Máquinas y mecanismos,Christopher Vega Sánchez
+8,EE0806,Máquinas y mecanismos,Manuel Francisco Mata Coto
+8,EE8807,Aplicaciones de sistemas embebidos,Nicolás Vaquerano Pineda
+8,EE8808,Fundamentos de ciberseguridad,Herson Esquivel Vargas
+9,EE8901,Modelado numérico y simulación computacional,Luis Felipe Córdoba Ramírez
+9,EE8901,Modelado numérico y simulación computacional,Frank Marín Guillén
+9,EE8902,Aplicaciones de circuitos integrados,Juan José Rojas Hernández
+9,EE8903,Aplicaciones de Inteligencia Artificial,Frank Marín Guillén
+9,EE8903,Aplicaciones de Inteligencia Artificial,Juan José Montero Jiménez
+9,EE8906,Robótica,Juan Luis Guerrero Fernández
+9,EE8907,Automatización y digitalización industrial,Luis Gómez Gutierrez
+9,EE8907,Automatización y digitalización industrial,Luis Diego Murillo Soto
+10,EE9001,Taller de integración de sistemas,Juan José Rojas Hernández
+10,EE9002,Diseño de interfaces humano-máquina,Luis Diego Murillo Soto
+10,EE9007,Visión de máquina,Luis Diego Murillo Soto
+12,EE9201,Sistemas autónomos y multiagente,Juan Luis Guerrero Fernández
+12,EE9202,Análisis predictivo de series temporales,Gustavo Gomez Ramirez
+12,EE9302,Desarrollo de software para aplicaciones críticas,Juan José Rojas Hernández

@@ -1,0 +1,398 @@
+id,consecutivo,objetivo
+CYD0107,0,"Aplicar de manera efectiva los fundamentos, normas y herramientas del dibujo técnico para elaborar e interpretar planos de cuerpos geométricos de forma clara y precisa, tanto en español como en inglés"
+CYD0107,1,"Desarrollar la inteligencia espacial y la capacidad de la elaboración de bocetos a mano alzada y el uso de instrumentos básicos de dibujo, con el fin de interpretar y comunicar eficazmente ideas en el ámbito de la ingeniería"
+CYD0107,2,"Comprender los fundamentos teóricos del dibujo técnico básico necesarios para la correcta construcción de proyecciones ortogonales y axonométricas, escalas y acotado de cuerpos geométricos"
+CYD0107,3,"Usar las normas de dibujo, en particular las normas INTE/ISO y ANSI, para construir planos técnicos que representen de forma clara y detallada cuerpos geométricos, incorporando toda la información necesaria para su correcta especificación geométrica y dimensional"
+CYD0107,4,"Utilizar herramientas de diseño asistido por computadora (CAD) de vanguardia, de forma integral para leer, diseñar y editar planos de ingeniería"
+FPH0108,0,"Comprender de manera integral la ingeniería electromecánica, incluyendo sus principios básicos, aplicaciones y metodologías de resolución de problemas, para el desarrollo un pensamiento analítico y una perspectiva interdisciplinaria sobre el diseño, análisis, seguridad y mantenimiento de sistemas electromecánicos"
+FPH0108,1,Contextualizar la ingeniería electromecánica dentro de las ciencias de la ingeniería y su impacto en la industria y la sociedad
+FPH0108,2,"Introducir conceptos fundamentales de mecánica, electricidad, termodinámica y control, resaltando sus interacciones en sistemas electromecánicos, enfatizando la importancia de la eficiencia energética y la sostenibilidad"
+FPH0108,3,"Familiarizar a los estudiantes con herramientas y metodologías de análisis y diseño utilizadas en la resolución de problemas técnicos, fomentando el pensamiento crítico e interdisciplinario"
+FPH0108,4,"Explorar aplicaciones prácticas en sectores clave como energía, manufactura, robótica y transporte, considerando aspectos de la normativa nacional y la responsabilidad profesional"
+IMM0207,0,Resolver problemas de equilibrio estático de partículas y cuerpos rígidos aplicando los principios fundamentales de la mecánica vectorial
+IMM0207,1,Comprender los principios fundamentales de la estática de partículas y cuerpos rígidos
+IMM0207,2,"Analizar diferentes tipos de sistemas mecánicos, como armaduras simples, marcos y máquinas, para la determinación de las fuerzas externas, internas y los efectos de la fricción en sus componentes"
+IMM0207,3,"Resolver problemas de equilibrio de cuerpos rígidos utilizando los conceptos centro de gravedad, centro de masa y centroide"
+IMM0207,4,Utilizar el principio de trabajo virtual para el estudio del equilibrio de un sistema mecánico
+IEE0303,0,"Analizar  los circuitos eléctricos en corriente directa, mediante métodos y teoremas, permitiendo su implementación y optimización en diversas aplicaciones de la ingeniería electromecánica"
+IEE0303,1,"Comprender la teoría de los circuitos eléctricos en corriente directa, incluyendo sus leyes y componentes principales"
+IEE0303,2,Aplicar métodos de análisis y simulación para la solución de circuitos eléctricos en corriente directa
+IEE0303,3,Evaluar circuitos en corriente directa para su uso en diversas aplicaciones de sistemas electromecánico
+IEE0304,0,Comprobar experimentalmente los métodos de análisis de circuitos eléctricos en corriente directa
+IEE0304,1,"Experimentar en circuitos de corriente directa, ejecutando y aplicando métodos de análisis de las pruebas y ensayos"
+IEE0304,2,"Medir parámetros eléctricos fundamentales (tensión, corriente, resistencia y potencia) con la instrumentación adecuada, asegurando precisión y repetibilidad en los resultados"
+IEE0304,3,"Interpretar los resultados, desarrollando informes y documentos de los experimentos"
+IEE0304,4,Evaluar el error en la mediciones electricas en corriente directa usando los principios de la metrología
+IEE0305,0,Evaluar transductores para su integración en sistemas de instrumentación dedicados a la medición y manipulación de variables físicas en sistemas electromecánicos
+IEE0305,1,"Comprender las características estáticas, dinámicas, eléctricas y de fabricación de los transductores"
+IEE0305,2,"Seleccionar transductores según su aplicación en sistemas específicos, considerando sus características y principios de funcionamiento"
+IEE0305,3,Experimentar con transductores mediante prácticas que permitan aprendizajes significativos y el desarrollo de habilidades aplicadas
+IMM0307,0,Aplicar los principios fundamentales de la mecánica clásica de manera clara y lógica para analizar y resolver problemas de sistemas físicos en movimiento
+IMM0307,1,Estudiar los principios fundamentales de la mecánica clásica necesarios para analizar y resolver problemas de cinemática y cinética de partículas y cuerpos rígidos
+IMM0307,2,Estudiar los efectos de las fuerzas y vibraciones en partículas y cuerpos rígidos en movimiento
+IMM0307,3,"Determinar los parámetros de movimiento de cuerpos rígidos y partículas, incluyendo posición, velocidad y aceleración, a partir de las leyes de Newton, los principios de trabajo-energía y conservación de la cantidad de movimiento"
+IEE0403,0,"Analizar los circuitos eléctricos en corriente alterna, permitiendo su implementación y optimización en diversas aplicaciones de la ingeniería electromecánica"
+IEE0403,1,"Identificar los fundamentos de los circuitos eléctricos en corriente alterna, incluyendo sus leyes y componentes principales"
+IEE0403,2,Aplicar métodos de análisis y simulación para la solución de circuitos eléctricos en corriente alterna
+IEE0403,3,Evaluar circuitos en corriente alterna para su uso en diversas aplicaciones de sistemas electromecánicos
+IEE0404,0,Comprobar experimentalmente los métodos de análisis de circuitos eléctricos en corriente alterna
+IEE0404,1,"Experimentar en circuitos de corriente alterna, ejecutando y aplicando métodos de análisis de las pruebas y ensayos"
+IEE0404,2,"Medir parámetros eléctricos fundamentales (tensión, corriente, resistencia y potencia) con la instrumentación adecuada, asegurando precisión y repetibilidad en los resultados."
+IEE0404,3,"Interpretar los resultados, desarrollando informes y documentos de los experimentos"
+IEE0404,4,Evaluar el error en la mediciones electricas en corriente alterna usando los principios de la metrología
+IEE0403,4,Determinar el funcionamiento de circuitos en equipos y sistemas eléctricos en diversas aplicaciones para la identificación de su eficiencia y desempeño
+IEE0405,0,Implementar sistemas de instrumentación precisos y confiables para la medición y manipulación de variables físicas en sistemas electromecánicos
+IEE0405,1,"Integrar transductores, sistemas de adquisición de datos e instrumentos virtuales para la implementación de sistemas de instrumentación"
+IEE0405,2,"Automatizar la adquisición, el procesamiento, la visualización y el control de señales usando instrumentos virtuales"
+IEE0405,3,Evaluar el error en la medición y manipulación de variables físicas usando los principios de la metrología
+IMM0407,0,"Evaluar los principios básicos de la termodinámica clásica en el análisis energético del comportamiento de los sistemas electromecánicos, desarrollando un enfoque integral en la comprensión y gestión de estos sistemas"
+IMM0407,1,Aplicar los conceptos fundamentales de la termodinámica en el análisis energético de sistemas térmicos
+IMM0407,2,Analizar las propiedades termodinámicas de las sustancias puras y su impacto en el diseño y operación de sistemas térmicos
+IMM0407,3,"Evaluar el desempeño de los diferentes ciclos termodinámicos y su aplicación en la conversión de energía en sistemas de potencia, refrigeración y otros procesos industriales"
+IMM0407,4,Comprender el uso de la primera y segunda ley de la termodinámica en la solución de problemas de ingeniería
+IEE0503,0,"Desarrollar competencias en el análisis, selección y aplicación de dispositivos y circuitos electrónicos analógicos, con el fin de diseñar soluciones electrónicas funcionales en diversas aplicaciones prácticas"
+IEE0503,1,"Comprender las características de operación y principios fundamentales de dispositivos y circuitos electrónicos analógicos, tales como amplificadores operacionales, comparadores, reguladores, convertidores y dispositivos de electrónica de potencia"
+IEE0503,2,Analizar el comportamiento y las configuraciones típicas de circuitos integrados para identificar su funcionalidad y condiciones óptimas de operación en diferentes contextos
+IEE0503,3,"Seleccionar adecuadamente los componentes electrónicos según sus especificaciones técnicas, criterios de eficiencia, confiabilidad y aplicación en sistemas analógicos y de potencia"
+IEE0503,4,"Diseñar soluciones electrónicas funcionales mediante la integración de circuitos integrados y dispositivos electrónicos, aplicando criterios de desempeño, seguridad y viabilidad técnica"
+AUT0504,0,"Modelar sistemas electromecánicos, utilizando herramientas matemáticas y computacionales que permitan analizar su comportamiento en diferentes escenarios operativos"
+AUT0504,1,Aplicar herramientas matemáticas de transformación entre el dominio del tiempo y frecuencia
+AUT0504,2,"Aplicar herramientas de modelado matemático para representar sistemas electromecánicos, integrando conceptos físicos de sistemas eléctricos, mecánicos, hidráulicos y térmicos"
+AUT0504,3,Implementar simulaciones computacionales que permitan analizar el comportamiento de los sistemas electromecánicos bajo distintas condiciones de operación
+AUT0504,4,Evaluar el resultado de las simulaciones para garantizar su validez
+IMM0507,0,"Seleccionar los procesos de manufactura necesarios para la creación de productos a partir de la comprensión de las características de los materiales, los recursos disponibles y los procesos de manufactura utilizados en la industria electromecánica y su relación con las etapas de diseño e inspección"
+IMM0507,1,Analizar las características de los materiales y su influencia en la selección de procesos de manufactura para la fabricación de productos
+IMM0507,2,Clasificar los diferentes procesos de manufactura con base en su aplicabilidad y su relación con las etapas de diseño e inspección
+IMM0507,3,"Determinar las técnicas de manufactura más adecuadas según los requerimientos de diseño, funcionalidad y costos"
+IMM0508,0,"Comprender los principales procesos de manufactura en la industria electromecánica mediante demostraciones, prácticas dirigidas y análisis de datos, resaltando su relación con las características de los materiales y las etapas de diseño e inspección"
+IMM0508,1,"Explorar, mediante demostraciones y prácticas dirigidas, el funcionamiento y aplicación de los procesos de manufactura más relevantes en la industria electromecánica, y su relación con las características de los materiales"
+IMM0508,2,"Evaluar los datos obtenidos de los procesos de manufactura para comprender su impacto en la calidad, eficiencia y viabilidad del producto final"
+IMM0508,3,"Relacionar los procesos de manufactura con las etapas de diseño e inspección, destacando su influencia en la optimización y mejora del desarrollo de productos"
+ADD0602,0,"Aplicar las herramientas estadísticas, metodologías de análisis de fallos y estrategias de mantenimiento, para el análisis y mejora de la confiabilidad, disponibilidad, mantenibilidad y seguridad (RAMS), de sistemas electromecánicos que garanticen el funcionamiento seguro y eficiente"
+ADD0602,1,"Comprender los fundamentos de confiabilidad, disponibilidad, mantenibilidad y seguridad (RAMS) en sistemas electromecánicos, así como su importancia en la industria"
+ADD0602,2,"Modelar modos de falla, utilizando metodologías como FMEA (Análisis de Modos y Efectos de Falla) y FTA (Análisis de Árbol de Fallas)"
+ADD0602,3,"Diseñar estrategias de mantenimiento óptimo, incluyendo mantenimiento predictivo, preventivo y correctivo, basadas en criterios de disponibilidad y costos"
+ADD0602,4,"Elaborar planes de mitigación de riesgos que garanticen la seguridad operacional en sistemas electromecánicos, integrando normativas y mejores prácticas de la industria"
+IEE0604,0,Desarrollar circuitos digitales con circuitos integrados y/o componentes programados
+IEE0604,1,Aplicar técnicas de simplificación de variables en circuitos combinacionales
+IEE0604,2,Implementar conectivas lógicas en lógica digital y lógica programada en FPGA
+IEE0604,3,"Analizar el funcionamiento, diseño e implementación de contadores digitales, MUX y Decos y ADC"
+IEE0604,4,Implementar circuitos digitales combinacionales y secuenciales usando lenguajes como VHDL o Verilog
+IMM0605,0,"Resolver problemas de sólidos sometidos a esfuerzos y deformaciones, con énfasis en el diseño y evaluación de estructuras y componentes mecánicos sencillos, aplicando los principios fundamentales y normas de la mecánica de materiales"
+IMM0605,1,"Analizar los diferentes tipos de esfuerzos y deformaciones en materiales sólidos, bajo diversas condiciones de carga, aplicando principios de mecánica de materiales"
+IMM0605,2,"Determinar las deformaciones y esfuerzos resultantes en un cuerpo sólido, ocasionadas por una condición de carga dada o viceversa"
+IMM0605,3,"Seleccionar materiales adecuados, según sus propiedades mecánicas para aplicaciones de carga específicas"
+IMM0605,4,"Obtener de las dimensiones óptimas y/o factor de seguridad de un componente dúctil o frágil, dentro de sus límites de esfuerzo y deformación, aplicando las teorías de falla estática"
+IMM0607,0,"Analizar sistemas de transporte de fluidos aplicando sus propiedades, el comportamiento estático y dinámico, y las ecuaciones fundamentales que rigen su movimiento"
+IMM0607,1,"Conocer las ecuaciones que gobiernan el movimiento de los fluidos, con énfasis en las ecuaciones de Navier-Stokes y las simplificaciones necesarias para su aplicación en distintos contextos"
+IMM0607,2,Analizar las propiedades de los fluidos y su relación con el comportamiento de sistemas hidráulicos y neumáticos
+IMM0607,3,Aplicar los principios fundamentales de la estática y dinámica de fluidos en la solución de problemas de ingeniería
+IMM0607,4,"Evaluar la pérdida de energía en sistemas de flujo, diseñando sistemas de transporte de fluidos eficientes"
+IMM0607,5,Implementar herramientas computacionales y metodologías experimentales en el análisis de sistemas de flujo de fluidos
+IMM0608,0,"Aplicar los principios de la mecánica de fluidos para el análisis del comportamiento de los sistemas con fluidos a través de la experimentación en laboratorio, fortaleciendo la comprensión de los conceptos teóricos mediante la recolección y análisis de datos experimentales"
+IMM0608,1,Identificar las propiedades de los fluidos mediante técnicas experimentales
+IMM0608,2,Aplicar métodos de medición para la caracterización del flujo de fluidos en diversas condiciones
+IMM0608,3,"Evaluar experimentalmente la influencia de la viscosidad, presión y pérdidas de carga en sistemas hidráulicos"
+IMM0608,4,"Interpretar resultados experimentales a través de cálculos, gráficas y análisis de tendencias para validar principios fundamentales de la mecánica de fluidos"
+CYD0609,0,"Aplicar de manera efectiva los fundamentos, normas y herramientas del dibujo técnico para la elaboración e interpretación de planos constructivos de piezas, conjuntos mecánicos y sistemas electromecánicos de forma clara y precisa, tanto en español como en inglés"
+CYD0609,1,"Comprender los principios teóricos del dibujo técnico aplicados a vistas auxiliares, cortes, secciones y conjuntos mecánicos, esenciales para la representación gráfica precisa de componentes mecánicos y máquinas"
+CYD0609,2,"Implementar las normas de tolerancias geométricas y dimensionales, rugosidades y acabados superficiales, así como de elementos estandarizados, garantizando una representación gráfica adecuada de componentes mecánicos y máquinas"
+CYD0609,3,"Utilizar las normativas de dibujo para sistemas electromecánicos en la representación y especificación precisa de instalaciones electromecánicas, tanto de sistemas eléctricos, de transporte de fluidos y mecánico-sanitarios"
+CYD0609,4,"Emplear herramientas computacionales de manera integral, para la lectura, diseño y edición de planos técnicos de ingeniería, abarcando tanto máquinas como instalaciones electromecánicas"
+FPH0701,0,"Evaluar proyectos de ingeniería utilizando herramientas de planeamiento y gestión para la toma de decisiones alineadas con la estrategia de la organización, garantizando el cumplimiento de objetivos técnicos, financieros y de tiempo"
+FPH0701,1,"Definir las herramientas técnico-administrativas, legales y ambientales, para el análisis del entorno (contexto nacional e internacional) en la determinación de oportunidades innovadoras de desarrollo, alineadas con los objetivos y metas estratégicas de la organización"
+FPH0701,2,"Aplicar las herramientas de planificación, estimación, implementación, evaluación y seguimiento de proyectos para la adecuada gestión de un proyecto"
+FPH0701,3,"Emplear herramientas de optimización de recursos financieros, humanos, materiales y tiempo durante la ejecución de proyectos, estableciendo sus indicadores de gestión"
+FPH0701,4,Explorar las nuevas tendencias y desarrollos en el tema de la gestión de proyectos y su aplicación dependiendo del tipo de proyecto
+IEE0702,0,"Evaluar el comportamiento de los sistemas trifásicos, circuitos magnéticos, transformadores y máquinas de inducción para la comprensión de su funcionamiento, diseño y aplicaciones en sistemas eléctricos y de accionamiento"
+IEE0702,1,"Analizar los principios de operación de los sistemas trifásicos, circuitos magnéticos, transformadores y máquinas de inducción, comprendiendo su funcionamiento y modelado matemático"
+IEE0702,2,"Calcular el desempeño de las máquinas eléctricas y sus accionamientos bajo diferentes condiciones de carga y operación, identificando factores que afectan su eficiencia y estabilidad"
+IEE0702,3,"Aplicar métodos de análisis para la interpretación de las curvas características, circuitos equivalentes y parámetros clave en transformadores y motores de inducción"
+IEE0702,4,"Seleccionar máquinas eléctricas para aplicaciones específicas en la industria y sistemas de generación, transmisión y distribución de energía"
+IEE0703,0,"Realizar experimentos de sistemas trifásicos, transformadores y motores de inducción"
+IEE0703,1,"Aplicar métodos de medición y metrología para determinar variables eléctricas y mecánicas en sistemas trifásicos, transformadores y motores de inducción"
+IEE0703,2,"Evaluar el desempeño de los transformadores y los motores de inducción bajo diferentes condiciones de carga y operación, identificando factores que afectan su eficiencia"
+IEE0703,3,"Interpretar los resultados, desarrollando informes y documentos de los experimentos"
+AUT0704,0,Diseñar e implementar sistemas de control automático en sistemas electromecánicos integrando modelado y simulación
+AUT0704,1,"Comprender el concepto de sistema de control, el de lazo de control realimentado y definir la función de sus componentes"
+AUT0704,2,Analizar el control por realimentación frente al control en bucle abierto y las acciones básicas de control por realimentación
+AUT0704,3,Aplicar métodos en el dominio de la frecuencia de análisis y síntesis de controladores de sistemas realimentados
+AUT0704,4,Sintonizar sistemas de control discretos en autómatas programables
+AUT0705,0,Desarrollar soluciones de hardware usando microcontroladores para el control y procesamiento de datos en sistemas electromecánicos
+AUT0705,1,Comprender la arquitectura interna de un microcontrolador
+AUT0705,2,Programar microcontroladores en lenguaje C
+AUT0705,3,Aplicar microcontroladores para el control y procesamiento datos
+IMM0706,0,"Aplicar los fundamentos de la mecánica, para el diseño y selección de componentes mecánicos, enfocándose en los principios que rigen la elección y especificación de materiales y geometrías, el análisis de esfuerzos y deformaciones, factores de seguridad, la prevención de fallos y la optimización de componentes para aplicaciones de la ingeniería mecánica"
+IMM0706,1,"Analizar esfuerzos y deformaciones para la estimación de factores de seguridad en componentes mecánicos, utilizando teorías de falla estática y dinámica"
+IMM0706,2,"Seleccionar materiales adecuados para componentes mecánicos, teniendo en cuenta sus propiedades y el comportamiento frente a esfuerzos estáticos y dinámicos"
+IMM0706,3,"Evaluar la falla en componentes mecánicos, considerando factores como la fatiga, el desgaste y la fractura, garantizando la seguridad y durabilidad de los diseños"
+IMM0706,4,"Optimizar el diseño de componentes mecánicos, mediante el uso de métodos de análisis y simulación, mejorando su desempeño y la seguridad en aplicaciones de ingeniería"
+IMM0707,0,"Aplicar los principios de la mecánica de sólidos y fluidos, termodinámica y transferencia de calor analizando el comportamiento de los sistemas térmicos"
+IMM0707,1,Analizar el comportamiento de los sistemas térmicos según los principios de la termodinámica y la transferencia de calor
+IMM0707,2,Evaluar el desempeño y eficiencia de los sistemas electromecánicos relacionados con la mecánica de fluidos y transferencia de calor
+IMM0707,3,"Seleccionar elementos de ventilación, refrigeración y aire acondicionado"
+IMM0707,4,Aplicar metodologías de modelado y simulación para el análisis de sistemas térmicos en contextos industriales
+IMM0708,0,"Aplicar los principios de la mecánica de sólidos y fluidos, termodinámica y transferencia de calor analizando el comportamiento de los sistemas térmicos, al realizar experiencias prácticas de laboratorio"
+IMM0708,1,Ejecutar experimentos que validen los principios de la termodinámica y transferencia de calor en sistemas reales
+IMM0708,2,Aplicar principios de metrología para la medición y análisis de variables en sistemas térmicos
+IMM0708,3,"Interpretar los resultados experimentales mediante el uso de gráficas, tablas y análisis comparativos"
+IMM0708,4,"Elaborar informes técnicos que incluyan procedimientos, resultados y conclusiones fundamentadas"
+IEE0802,0,"Evaluar el comportamiento de las máquinas eléctricas sincrónicas y de corriente directa para la comprensión de su funcionamiento, diseño y aplicaciones en sistemas eléctricos y de accionamiento"
+IEE0802,1,"Analizar los principios de operación de las máquinas eléctricas sincrónicas y de corriente directa, comprendiendo su funcionamiento y modelado matemático"
+IEE0802,2,"Aplicar métodos de análisis para la interpretación de las curvas características, circuitos equivalentes y parámetros clave en máquinas eléctricas sincrónicas y de corriente directa"
+IEE0802,3,"Seleccionar máquinas eléctricas sincrónicas y de corriente directa para aplicaciones específicas en la industria y sistemas de generación, transmisión y distribución de energía"
+IEE0803,0,"Realizar experimentos de máquinas eléctricas sincrónicas y máquinas de corriente directa para la comprensión de su funcionamiento, diseño y aplicaciones en sistemas eléctricos y de accionamiento"
+IEE0803,1,Aplicar métodos de medición y metrología para la determinación de variables eléctricas y mecánicas en máquinas eléctricas sincrónicas y máquinas de corriente directa
+IEE0803,2,"Evaluar el desempeño de máquinas eléctricas sincrónicas y máquinas de corriente directa bajo diferentes condiciones de carga y operación, identificando factores que afectan su eficiencia"
+IEE0803,3,Analizar los resultados experimentales obtenidos en pruebas de máquinas eléctricas sincrónicas y máquinas de corriente directa
+IEE0803,4,"Interpretar los resultados, desarrollando informes y documentos de los experimentos a máquinas eléctricas sincrónicas y máquinas de corriente directa"
+AUT0804,0,Desarrollar sistemas de control por eventos discretos utilizando microcontroladores y controladores lógicos programables (PLC)
+AUT0804,1,"Modelar sistemas controlados por eventos discretos usando redes de Petri, haciendo énfasis en redes de colas y máquinas de estado"
+AUT0804,2,"Diseñar sistemas controlados por eventos discretos con base en máquinas de estado, Sequential Function Chart (SFC), Stateflow, redes de Petri"
+AUT0804,3,Implementar GRAFCET/SFC para la automatización de sistemas controlados por eventos discretos
+AUT0805,0,Desarrollar controladores automáticos para sistemas continuos y de eventos discretos
+AUT0805,1,"Crear soluciones de automatización utilizando técnicas y herramientas como lugar geométrico de las raíces, diagramas de Bode, técnicas de sintonización, máquinas de estado, Sequential Function Chart (SFC), y Stateflow"
+AUT0805,2,Implementar controladores proporcionales-integrales y derivativos (PID) para un proceso
+AUT0805,3,Diseñar sistemas de control utilizando controladores lógicos programables (PLC) según la norma IEC 61131-3
+AUT0805,4,Implementar sistemas de control utilizando microcontroladores
+INS0801,0,"Analizar el funcionamiento, modelado y operación de los sistemas de transmisión y distribución de energía eléctrica, considerando sus elementos fundamentales, métodos de análisis y tecnologías emergentes"
+INS0801,1,"Describir la estructura de los sistemas de transmisión y distribución de energía eléctrica, representando los componentes fundamentales de los sistemas eléctricos de potencia, incluyendo generadores, transformadores, líneas de transmisión y elementos de compensación de potencia reactiva"
+INS0801,2,Determinar los métodos de análisis de flujos de potencia y estudios de cortocircuito para la evaluación del desempeño de las redes eléctricas
+INS0801,3,"Examinar el impacto de tecnologías emergentes como generación distribuida, almacenamiento de energía y redes inteligentes en la operación de los sistemas eléctricos"
+INS0801,4,"Identificar las condiciones anormales en la red eléctrica y los mecanismos de protección, garantizando la seguridad y estabilidad operativa del sistema"
+INS0806,0,"Aplicar los principios del diseño, operación y mantenimiento en sistemas eléctricos en baja tensión, bajo consulta del Código Eléctrico Nacional (CEN) vigente, en redes monofásicas de tipo residencial y trifásicas de tipo comercial e industrial"
+INS0806,1,"Aplicar la norma CEN para el diseño y especificación de acometidas, conductores, conductos, protecciones, transformadores, barra de tierra, centros de carga, etc., en instalaciones residenciales, comerciales e industriales"
+INS0806,2,"Realizar estudios de corto circuito, factor de potencia y su corrección, iluminación, coordinación de protecciones y selectividad, calidad de energía en instalaciones eléctricas"
+INS0806,3,Especificar instalaciones mediante planos eléctricos con sus presupuestos
+INS0806,4,Utilizar software especializados de simulación de sistemas eléctricos e iluminación
+INS0807,0,"Diseñar sistemas electromecánicos de ventilación y aire comprimido, con un enfoque en la gestión eficiente de la energía y el cumplimiento normativo"
+INS0807,1,Analizar los principios de funcionamiento de los sistemas de ventilación y aire comprimido
+INS0807,2,Comprender la normativa nacional e internacional para el diseño de sistemas electromecánicos de ventilación y aire comprimido
+INS0807,3,"Implementar metodologías para la instalación, operación y mantenimiento de sistemas de ventilación y aire comprimido"
+INS0807,4,Desarrollar sistemas de ventilación y aire comprimido garantizando la eficiencia energética y la sostenibilidad
+INS0808,0,"Gestionar el mantenimiento electromecánico aplicando técnicas modernas, integrando herramientas digitales y estrategias de transformación digital que optimicen la disponibilidad, confiabilidad y eficiencia operativa de los activos industriales"
+INS0808,1,"Comprender el ciclo de vida de los activos industriales y su relación con la gestión del mantenimiento, identificando estrategias para que optimicen su desempeño y prolonguen su vida útil"
+INS0808,2,"Aplicar técnicas de mantenimiento basado en condición mediante el análisis de vibraciones, termografía y otras metodologías predictivas para la detección temprana de fallos en equipos industriales"
+INS0808,3,"Implementar herramientas digitales y estrategias de transformación digital en la gestión del mantenimiento, evaluando su impacto en la confiabilidad y eficiencia de los activos industriales"
+INS0808,4,"Desarrollar habilidades para el diagnóstico y pronóstico del mantenimiento, utilizando metodologías basadas en datos y normativas internacionales para la toma de decisiones fundamentadas alineadas con la estrategia del negocio"
+INS0901,0,"Desarrollar en los estudiantes las competencias necesarias para la evaluación de sistemas de generación y almacenamiento de energía, tanto para autoconsumo como para la venta de energía en pequeña y gran escala, utilizando tecnologías sostenibles y eficientes"
+INS0901,1,Comprender los principios fundamentales de las tecnologías de generación de energía renovable y no renovable
+INS0901,2,Analizar diferentes sistemas de almacenamiento de energía y su integración en redes eléctricas
+INS0901,3,Dimensionar soluciones de generación y almacenamiento de energía adaptadas a diferentes contextos y necesidades
+INS0901,4,"Aplicar técnicas de análisis de estabilidad para la evaluación de sistemas de generación y almacenamiento de energía, mediante el uso de herramientas de simulación y modelado"
+INS0903,0,"Desarrollar soluciones integrales para sistemas electromecánicos de refrigeración y aire acondicionado que optimicen la eficiencia energética, minimicen el impacto ambiental y promuevan la preservación de los recursos, garantizando al mismo tiempo la conservación de los equipos y el confort en todas las etapas de su ciclo de vida"
+INS0903,1,"Analizar los componentes principales de los sistemas de refrigeración, aire acondicionado y su funcionamiento"
+INS0903,2,Analizar los principios fundamentales de la refrigeración y el acondicionamiento del aire para su aplicación en sistemas industriales y comerciales
+INS0903,3,Evaluar el desempeño energético de los sistemas de refrigeración y aire acondicionado mediante herramientas de análisis y normativas vigentes
+INS0903,4,"Diseñar soluciones para la optimización de sistemas de refrigeración y aire acondicionado, considerando eficiencia, impacto ambiental y normativas"
+INS0904,0,"Aplicar principios y técnicas de refrigeración y aire acondicionado mediante prácticas experimentales, orientadas al análisis, operación y evaluación de sistemas reales, promoviendo la eficiencia energética, el confort térmico y la sostenibilidad"
+INS0904,1,Analizar los componentes principales de los sistemas de refrigeración y aire acondicionado en condiciones reales
+INS0904,2,Aplicar métodos experimentales para evaluar el desempeño de sistemas de refrigeración y aire acondicionado
+INS0904,3,Diagnosticar fallas en sistemas de refrigeración y aire acondicionado mediante herramientas y procedimientos técnicos
+INS0904,4,Implementar prácticas de mantenimiento preventivo y correctivo en equipos de refrigeración y aire acondicionado
+INS0905,0,"Desarrollar en el estudiante las competencias necesarias para la formulación, planificación y sustentación un anteproyecto de investigación en ingeniería, mediante la aplicación de principios metodológicos, éticos y técnicos que orienten el desarrollo del Trabajo Final de Graduación"
+INS0905,1,"Aplicar los conceptos fundamentales de la metodología científica para la definición del problema, objetivos y justificación de un proyecto de investigación en ingeniería"
+INS0905,2,"Desarrollar habilidades para la búsqueda, análisis y síntesis de información técnica y científica relevante mediante una revisión bibliográfica rigurosa"
+INS0905,3,"Elaborar un anteproyecto de investigación estructurado, técnicamente fundamentado y viable, incluyendo cronograma, metodología, y criterios éticos, que sirva como base para el Trabajo Final de Graduación"
+INS0906,0,"Diseñar sistemas de instalaciones mecánico-sanitarias, aplicando normativa nacional e internacional vigente logrando instalaciones eficientes y sostenibles"
+INS0906,1,"Diseñar sistemas de distribución y manejo de agua potable, de recolección de aguas negras, pluviales y jabonosas; y sistemas hidrónicos, evaluando distintas configuraciones y materiales para la optimización de la eficiencia y sostenibilidad del sistema, con base en normativa nacional e internacional"
+INS0906,2,Elaborar planos constructivos de sistemas mecánico-sanitarios utilizando herramientas computacionales de vanguardia y aplicando la normativa y códigos vigentes.
+INS0906,3,Realizar el análisis de costos y viabilidad económica en el diseño y mantenimiento de sistemas mecánico-sanitarios
+INS0906,4,Identificar aplicaciones de sistemas contra incendios en edificaciones e infraestructuras
+INS0907,0,"Experimentar con sistemas de fluidos aplicando los principios de la mecánica de fluidos, termodinámica y transferencia de calor analizando la operación de bombas, ventiladores y turbinas hidráulicas"
+INS0907,1,"Evaluar el rendimiento y eficiencia de bombas, ventiladores, compresores y turbinas a través de los laboratorios"
+INS0907,2,Aplicar metodologías experimentales para la medición y análisis de parámetros en sistemas de fluidos
+INS0907,3,"Registrar datos experimentales en bitácoras de laboratorio para su interpretación, elaborando informes técnicos fundamentados"
+INS0907,4,"Desarrollar habilidades en el desarme, montaje y mantenimiento de componentes de sistemas de fluidos, asegurando su correcto funcionamiento"
+INS0908,0,"Diseñar sistemas de vapor garantizando un transporte eficiente de masa y energía, con un enfoque en la gestión del ciclo de vida y el cumplimiento normativo"
+INS0908,1,"Estudiar los principios de combustión; y procesos de recuperación y tratamiento del agua en sistemas de vapor, con énfasis en el mejoramiento de la eficiencia del sistema"
+INS0908,2,Elaborar planos constructivos de sistemas de vapor utilizando herramientas computacionales de vanguardia y aplicando la normativa y códigos vigentes
+INS0908,3,Aplicar técnicas de mantenimiento y gestión de la energía en sistemas de vapor para garantizar su operación eficiente y sostenible
+INS0908,4,Desarrollar sistemas de vapor garantizando la eficiencia energética y la sostenibilidad
+INS0909,0,"Experimentar con sistemas de vapor aplicando los principios de la mecánica de fluidos, termodinámica y transferencia de calor, promoviendo la eficiencia energética y la sostenibilidad"
+INS0909,1,Analizar los componentes principales de los sistemas de vapor y su funcionamiento
+INS0909,2,"Aplicar métodos experimentales para la medición de temperatura, presión y eficiencia en sistemas de combustión y generación de vapor"
+INS0909,3,Evaluar el desempeño de las trampas de vapor y su impacto en la eficiencia del sistema
+INS0909,4,Implementar técnicas de inspección y diagnóstico de calderas y turbinas de vapor en condiciones operativas
+INS1003,0,"Gestionar la energía desde una perspectiva de la especificación, diseño, instalación, operación y mantenimiento de sistemas electromecánicos que promuevan la eficiencia, el uso racional de la energía, y la reducción del impacto ambiental en instalaciones industriales, comerciales o institucionales a través del uso de herramientas y estándares energéticos internacionales"
+INS1003,1,"Analizar los principales modelos de gestión energética y su aplicación práctica en organizaciones de distintos sectores, con base en el ciclo de mejora continua (PDCA) y buenas prácticas reconocidas a nivel internacional"
+INS1003,2,"Interpretar los requisitos normativos de la familia ISO 50000, en particular ISO 50001:2018, para establecer, implementar, mantener y mejorar un sistema de gestión de la energía (SGEn) conforme a estándares internacionales"
+INS1003,3,"Evaluar mejoras en la eficiencia de procesos productivos a través del cálculo de indicadores energéticos, balances de energía y masa, así como oportunidades de conservación de la energía."
+INS1003,4,"Evaluar el potencial de implementación de tecnologías de energía renovable y de reducción de impacto ambiental, considerando su influencia en la huella de carbono y la huella hídrica, desde un enfoque de sostenibilidad energética."
+INS1005,0,"Evaluar de forma crítica el estado de avance del Trabajo Final de Graduación (TFG) con base en los objetivos planteados, la metodología definida y los resultados obtenidos"
+INS1005,1,"Comunicar de manera clara y estructurada los avances técnicos y metodológicos del TFG, mediante informes escritos y presentaciones orales"
+INS1005,2,Integrar retroalimentación recibida del profesor y pares para mejorar el desarrollo del proyecto y fortalecer la argumentación técnica
+INS1005,3,"Aplicar criterios de calidad técnica, ética profesional y redacción académica en la elaboración del informe final del TFG"
+INS1005,4,"Preparar y sustentar la defensa oral del TFG, demostrando dominio del tema, claridad expositiva y capacidad de respuesta ante preguntas críticas"
+INS1006,0,"Gestionar de manera integral el ciclo de vida de instalaciones electromecánicas mediante la aplicación de principios de análisis de costo del ciclo de vida (LCCA), mantenimiento basado en condición, diagnóstico y pronóstico de fallos, estándares internacionales como los propuestos por INCOSE, modelos de mantenimiento, auditorías técnicas, análisis causa raíz y gestión del riesgo, para la optimización de la confiabilidad, disponibilidad y eficiencia operativa de los activos enfocado al impacto al negocio"
+INS1006,1,"Analizar el costo del ciclo de vida útil de las instalaciones electromecánicas mediante el uso de herramientas financieras y técnicas homologadas para la toma de decisiones informadas sobre adquisición, operación, mantenimiento y retiro de activos"
+INS1006,2,Desarrollar las interrelaciones entre las distintas fases del ciclo de vida de un sistema electromecánico y su impacto en el desempeño global de la instalación a través de la aplicación de los principios del enfoque sistémico propuesto por INCOSE
+INS1006,3,"Evaluar los diferentes modelos de gestión de la ingeniería electromecánica, así como los procedimientos de auditoría técnica, para la determinación de su eficacia en la optimización de la disponibilidad, mantenibilidad y confiabilidad de activos"
+INS1006,4,"Implementar metodologías estructuradas de análisis causa raíz y gestión del riesgo para la identificación de fallos recurrentes, establecimiento de acciones correctivas y prevención de incidentes que afecten la seguridad o la eficiencia operativa de los activos"
+INS1007,0,"Desarrollar competencias para el diseño, implementación, mantenimiento y diagnóstico de sistemas neumáticos y oleohidráulicos, mediante el estudio de sus principios fundamentales, el uso de herramientas de simulación y la ejecución de prácticas en laboratorio, con el fin de resolver eficientemente problemas técnicos asociados a su operación en entornos industriales"
+INS1007,1,Comprender los principios básicos de los sistemas neumáticos y oleohidráulicos
+INS1007,2,Simular circuitos neumáticos y oleohidráulicos
+INS1007,3,Implementar sistemas neumáticos y oleohidráulicos en un entorno de laboratorio
+INS1007,4,Resolver problemas comunes en sistemas neumáticos y oleohidráulicos
+INS1007,5,Aplicar técnicas de mantenimiento preventivo y correctivo en estos sistemas
+INS1201,0,"Diseñar sistemas de puesta a tierra eficientes y seguros, aplicando normativas internacionales, metodologías de cálculo y criterios técnicos para garantizar su correcto funcionamiento en instalaciones eléctricas"
+INS1201,1,"Aplicar conceptos, normativas y requisitos técnicos para la puesta a tierra en sistemas eléctricos"
+INS1201,2,"Determinar la resistividad del terreno mediante métodos normados, interpretando los resultados para su aplicación en el diseño de sistemas de puesta a tierra"
+INS1201,3,"Diseñar electrodos de puesta a tierra conforme a normativas internacionales, considerando factores como tensiones generadas, sustitución de terreno y protección contra corrosión"
+INS1201,4,"Evaluar la integridad y desempeño de los sistemas de puesta a tierra mediante pruebas técnicas, procedimientos adecuados y planes de mantenimiento preventivo"
+INS1202,0,"Desarrollar sistemas de protección contra incendios en edificaciones, con un enfoque en la eficiencia energética, de acuerdo con la normativa vigente"
+INS1202,1,Analizar los fundamentos de los sistemas contra incendios y su marco normativo
+INS1202,2,Diseñar sistemas de protección contra incendios con base en la normativa NFPA y regulaciones nacionales
+INS1202,3,"Aplicar métodos de inspección, prueba y mantenimiento en sistemas de protección contra incendios"
+INS1202,4,"Desarrollar proyectos de diseño de sistemas contra incendios integrando normativa, eficiencia y seguridad"
+INS1203,0,"Desarrollar sistemas inteligentes integrados para edificios, optimizando la eficiencia energética, la gestión, la seguridad, el confort y la funcionalidad, mediante la aplicación de tecnologías de vanguardia y el cumplimiento de normativas vigentes"
+INS1203,2,"Diseñar sistemas de control de acceso, seguridad electrónica, cableado estructurado y redes"
+INS1203,3,"Integrar sistemas de climatización, iluminación, transporte, seguridad y energía que se integren con plataformas de gestión de edificios (BMS)"
+INS1203,4,Gestionar la infraestructura para el monitoreo y control de edificios inteligentes
+AER0801,0,"Evaluar la estructura y funcionamiento de los sistemas que conforman una aeronave, mediante el estudio de sus componentes, principios de operación y su integración en el conjunto aeronáutico"
+AER0801,1,Identificar los principales sistemas que integran una aeronave describiendo sus funciones dentro del conjunto del vehículo aéreo
+AER0801,2,"Analizar el principio de funcionamiento y los componentes fundamentales de los sistemas eléctricos, neumáticos e hidráulicos de una aeronave"
+AER0801,3,"Evaluar el desempeño y operación de los sistemas de aire acondicionado, combustión y presurización en distintas fases de vuelo"
+AER0801,4,"Comprender los mecanismos de los sistemas de seguridad y protección de la aeronave, y su papel en la prevención de fallas y emergencias"
+AER0807,0,"Analizar el comportamiento de materiales metálicos, compuestos y no metálicos utilizados en aeronaves, aplicando principios de la mecánica e integrando herramientas de modelado y simulación, con el fin de sustentar decisiones técnicas sobre su selección, uso y evaluación estructural"
+AER0807,1,"Analizar las propiedades mecánicas, térmicas y químicas de los materiales aeronáuticos, interpretando su desempeño frente a cargas y condiciones reales de operación"
+AER0807,2,"Simular el comportamiento estructural de materiales aplicados a componentes aeronáuticos, considerando esfuerzos, deformaciones, fatiga y ambientes exigentes"
+AER0807,3,"Seleccionar materiales adecuados para distintos sistemas de aeronaves, justificando la decisión mediante criterios técnicos, normativos y de desempeño"
+AER0807,4,"Diagnosticar posibles fallas o limitaciones en materiales utilizados en aeronáutica, proponiendo soluciones fundamentadas en análisis mecánico y modelado predictivo"
+AER0808,0,"Aplicar procedimientos de medición de variables físicas y de calibración de instrumentos utilizados en sistemas aeronáuticos, conforme a normas metrológicas y regulaciones técnicas del sector aeronáutico"
+AER0808,1,"Reconocer los principios de trazabilidad, incertidumbre y normativas metrológicas aplicables al entorno aeronáutico"
+AER0808,2,Utilizar instrumentos de medición para verificar variables físicas en componentes y sistemas de aeronaves
+AER0808,3,"Calibrar instrumentos empleados en la medición de variables eléctricas, térmicas, geométricas, dinámicas y de fluidos"
+AER0808,4,"Documentar procesos de medición y calibración siguiendo criterios de trazabilidad, exactitud y conformidad normativa"
+AER0901,0,"Analizar los sistemas aviónicos, con énfasis en la arquitectura electrónica, los sistemas de navegación, comunicación, control automático de vuelo, y el cumplimiento de normativas internacionales aplicables"
+AER0901,1,"Comprender los principios y componentes de los sistemas aviónicos, clasificados en navegación, control, visualización y telecomunicaciones"
+AER0901,2,Identificar la ubicación física de los sistemas aviónicos en diferentes zonas de la aeronave
+AER0901,3,"Estudiar los sistemas de navegación y control de vuelo para la comprensión de su funcionamiento detallado, fallas típicas y normativa asociada"
+AER0901,4,Evaluar sistemas de gestión y control de vuelo con sus rutinas de mantenimiento
+AER0902,0,"Aplicar los fundamentos de la aerodinámica, para el diseño, evaluación y optimización de aeronaves en diversos entornos operacionales"
+AER0902,1,Analizar los fundamentos de la aerodinámica y su aplicación en el diseño y operación de aeronaves
+AER0902,2,Aplicar modelos matemáticos y herramientas computacionales en el análisis aerodinámico
+AER0902,3,Integrar conocimientos de aerodinámica en el estudio del desempeño de aeronaves
+AER0903,0,Analizar los principios fundamentales de la dinámica de vuelo y su aplicación en el diseño y control de aeronaves
+AER0903,1,Comprender los sistemas de referencia y los ángulos de Euler para describir con precisión la actitud de la aeronave y su comportamiento en el espacio tridimensional
+AER0903,2,"Analizar las condiciones de equilibrio y estabilidad estática (longitudinal, lateral y direccional) mediante el estudio del trimado y las fuerzas aerodinámicas actuantes en la aeronave"
+AER0903,3,"Resolver problemas que involucren ecuaciones de movimiento de aeronaves rígidas, tanto en su forma completa como en versiones linealizadas y de orden reducido, aplicando métodos como funciones de transferencia y representación en espacio de estados"
+AER0903,4,"Evaluar la dinámica longitudinal, lateral y direccional de la aeronave, identificando modos de respuesta, cualidades de vuelo y características de maniobrabilidad bajo diversas condiciones de operación"
+AER0906,0,"Analizar estructuras de la aeronave mediante la aplicación de principios de elasticidad y mecánica estructural, empleando métodos analíticos y computacionales para evaluar el comportamiento de componentes bajo cargas típicas en aviones"
+AER0906,1,Comprender los principios básicos de elasticidad y mecánica estructural aplicados a aeronaves
+AER0906,2,"Aplicar métodos de análisis estructural, incluyendo el análisis de vigas, placas y estructuras de fuselaje"
+AER0906,3,Evaluar la respuesta de materiales y componentes estructurales bajo cargas típicas en aviones
+AER0906,4,Utilizar herramientas computacionales para el modelado y predicción del comportamiento estructural de la aeronave
+AER0908,0,"Proporcionar conocimientos fundamentales sobre seguridad aeronáutica y aeronavegabilidad, enfatizando la aplicación práctica de estándares regulatorios, gestión de riesgos y procedimientos operacionales para garantizar la seguridad de las operaciones aéreas"
+AER0908,1,Analizar los requisitos regulatorios nacionales e internacionales para la seguridad aeronáutica y aeronavegabilidad
+AER0908,2,Evaluar procedimientos de gestión de seguridad operacional y mantenimiento aeronáutico para asegurar la conformidad normativa
+AER0908,3,"Aplicar técnicas de investigación de accidentes e incidentes aeronáuticos, considerando factores humanos, técnicos y ambientales"
+AER0908,4,Implementar prácticas adecuadas para el manejo seguro de mercancías peligrosas y la protección física en contextos aeroportuarios
+AER1001,0,"Gestionar el ciclo de vida de las aeronaves, optimizando su mantenimiento y eficiencia operativa, a través del análisis de estrategias de gestión, regulaciones aeronáuticas y metodologías de mantenimiento"
+AER1001,1,"Analizar las etapas del ciclo de vida de una aeronave, identificando su impacto en la operación y mantenimiento"
+AER1001,2,Evaluar metodologías de mantenimiento aeronáutico y estrategias para la optimización su eficiencia
+AER1001,3,Aplicar regulaciones y normativas aeronáuticas en la gestión de mantenimiento y operación de aeronaves
+AER1001,4,Integrar herramientas de gestión para la toma de decisiones en el mantenimiento de aeronaves
+AER1002,0,Comprender los principios fundamentales de sistemas de propulsión de aeronaves
+AER1002,1,Comprender la química de la combustión y la mecanica de los fluidos implicados en el funcionamiento de una turbina de reacción para sistemas de propulsión aeronáutica
+AER1002,2,Explicar los principios aerodinámicos y termodinámicos que rigen la propulsión de aeronaves
+AER1002,3,"Describir los principios de funcionamiento, componentes y tipos de sistemas de propulsión aeronáutica, con énfasis en turbinas de reacción"
+AER1002,4,"Analizar las especificaciones técnicas, subsistemas y su integración con otros sistemas de la aeronave"
+AER1003,0,"Desarrollar sistemas de control de vuelo para vehículos aéreos no tripulados, aplicando conocimientos teóricos y prácticos, con un enfoque especial en la planificación de rutas, navegación y control autónomo"
+AER1003,1,Diseñar sistemas de control para diferentes tipos de UAVs (ummaned aerial vehicles) utilizando software especializado
+AER1003,1,Implementar y probar sistemas de control en plataformas de hardware reales
+AER1003,1,Aplicar conceptos de aeronavegabilidad y normativas en el diseño de sistemas de control
+AER1003,1,Integrar sistemas GPS y de comunicación en UAVs para mejorar la navegación y coordinación
+AER1201,0,"Comprender los principios fundamentales de la infraestructura y los servicios aeroportuarios, analizando la gestión y operación de aeropuertos, que garantice la eficiencia y seguridad en el transporte aéreo"
+AER1201,1,Identificar los principales componentes de la infraestructura aeroportuaria y su impacto en la operación aérea
+AER1201,2,Evaluar la eficiencia de los servicios aeroportuarios en función de la normativa y estándares internacionales
+AER1201,3,Analizar los factores de seguridad y sostenibilidad en la planificación y operación de aeropuertos
+AER1201,4,Aplicar metodologías para la optimización del diseño y gestión de aeropuertos
+AER1202,0,"Analizar de forma global el papel de las comunicaciones y la telemetría en los sistemas aeronáuticos, considerando sus fundamentos, funciones, arquitectura y normativa, como parte esencial en la operación segura y eficiente de aeronaves"
+AER1202,1,"Analizar la evolución histórica, el contexto estratégico y los tipos de comunicación utilizados en la aviación moderna"
+AER1202,2,"Comprender los principios fundamentales de transmisión y estructuración de datos, incluyendo el concepto de tramas, codificación y flujo de información"
+AER1202,3,"Examinar los principales protocolos, normativas y organismos que regulan las comunicaciones aeronáuticas a nivel internacional"
+AER1202,4,Evaluar el papel de la comunicación en la integración de sistemas aviónicos contemporáneos y su proyección ante desafíos tecnológicos futuros como UAVs y redes colaborativas
+AER1203,0,"Gestionar eficientemente los procesos de manufactura en la industria aeroespacial, aplicando herramientas de administración industrial, asegurando la calidad según estándares internacionales y cumpliendo los requisitos regulatorios del sector"
+AER1203,1,"Aplicar técnicas de administración industrial como secuenciamiento, determinación de capacidad productiva, gestión de cuellos de botella y metodologías Lean en la manufactura aeroespacial"
+AER1203,2,"Implementar sistemas de gestión de calidad basados en normativas AS9100, AS9110, AS9120 y certificaciones NADCAP"
+AER1203,3,"Asegurar el cumplimiento de requisitos regulatorios de los entes DGAC, FAA, EASA, así como normativas ITAR y EAR en los procesos productivos"
+AER1203,4,Gestionar proyectos de manufactura aeroespacial aplicando metodologías específicas como AS9102 (FAI) y AS9145 (APQP)
+SCF0801,0,"Integrar principios, metodologías y herramientas de la ingeniería de sistemas en el análisis, diseño y gestión de sistemas, colaborando con equipos de trabajo multidisciplinarios"
+SCF0801,1,Definir los requisitos y la arquitectura de los sistemas considerando las necesidades y expectativas de los interesados
+SCF0801,2,Integrar modelos de componentes físicos y cibernéticos en un sistema coherente y funcional
+SCF0801,3,Verificar el diseño del sistema o sus partes por medio de simulaciones
+SCF0801,4,"Colaborar en equipos de trabajo multidisciplinarios en el análisis, diseño y gestión de sistemas"
+SCF0806,1,"Comprender los fenómenos dinámicos relevantes en la evaluación, diseño y optimización de una máquina para aplicaciones en ingeniería mecánica, mediante los principios de la cinética y la cinemática de mecanismos"
+SCF0806,2,Analizar los principios de la cinemática de mecanismos para la comprensión de la geometría de los movimientos y de las relaciones entre el desplazamiento y el tiempo
+SCF0806,3,"Discernir la correcta elección de componentes mecánicos y su dimensionamiento para lograr un movimiento específico, mediante los métodos de diseño de mecanismos"
+SCF0806,4,Aplicar los principios de la cinética para el análisis dinámico y diseño de máquinas y sistemas mecánicos
+SCF0806,5,"Analizar el comportamiento dinámico de mecanismos y sistemas mecánicos, considerando fuerzas y fenómenos que afectan su desempeño para su eventual optimización, mediante herramientas de modelado y simulación"
+SCF0807,0,Desarrollar aplicaciones de sistemas embebidos basados en microcontroladores y arreglo de compuertas lógicas programable en campo (FPGA)
+SCF0807,1,Programar microcontroladores en lenguaje C++
+SCF0807,2,"Implementar sistemas operativos en tiempo real (RTOS), en microcontroladores"
+SCF0807,3,Aplicar FPGAs para el control y procesamiento de señales digitales
+SCF0808,0,Comprender los principios fundamentales de la ciberseguridad aplicados al diseño y desarrollo de sistemas ciberfísicos.
+SCF0808,1,"Aplicar medidas de ciberseguridad en el diseño de sistemas ciberfísicos, garantizando la protección de datos y la integridad de las aplicaciones."
+SCF0808,2,"Implementar protocolos de seguridad en sistemas ciberfísicos, asegurando la confiabilidad y resiliencia de los dispositivos y redes"
+SCF0808,3,"Desarrollar soluciones de protección mediante programación y criptografía, aplicando técnicas de cifrado, automatización de tareas de seguridad y herramientas para la detección y mitigación de riesgos"
+SCF0901,0,Aplicar métodos numéricos avanzados para el modelado y simulación computacional de sistemas electromecánicos complejos
+SCF0901,1,Analizar ecuaciones diferenciales ordinarias y parciales aplicadas a sistemas electromecánicos
+SCF0901,2,Diseñar simulaciones numéricas considerando condiciones iniciales y de frontera apropiadas
+SCF0901,3,Evaluar resultados de simulaciones mediante estudios de caso específicos
+SCF0901,4,Validar modelos numéricos a través de comparaciones con soluciones analíticas o experimentales
+SCF0902,0,Desarrollar sistemas complejos mediante el uso de circuitos integrados
+SCF0902,1,Interpretar hojas de datos de circuitos integrados
+SCF0902,2,Diseñar aplicaciones funcionales que integren múltiples circuitos integrados en un sistema
+SCF0902,3,Validar el diseño mediante herramientas de simulación
+SCF0903,0,Desarrollar soluciones inteligentes para sistemas ciberfísicos mediante técnicas de inteligencia artificial simbólica y conexionista
+SCF0903,1,Aplicar técnicas de representación del conocimiento y razonamiento simbólico para la toma de decisiones en sistemas ciberfísicos
+SCF0903,2,"Diseñar modelos inteligentes mediante lógica difusa, algoritmos evolutivos y aprendizaje automático"
+SCF0903,3,Implementar soluciones de inteligencia artificial en plataformas embebidas con restricciones de cómputo
+SCF0903,4,"Evaluar el desempeño, la seguridad y la confiabilidad de modelos inteligentes en contextos industriales"
+SCF0906,0,"Desarrollar los principios teóricos y prácticos de la robótica, integrando conocimientos de mecánica, electrónica, programación y control"
+SCF0906,1,Comprender los principios teórico y prácticos de la robótica industrial
+SCF0906,2,Programar robots industriales utilizando lenguajes de programación específicos
+SCF0906,3,Analizar cadenas cinemáticas e inversas
+SCF0906,4,Aplicar técnicas de control automático en sistemas robóticos
+SCF0906,5,Desarrollar habilidades prácticas en la configuración y operación de robots
+SCF0907,0,"Analizar sistemas complejos de automatización y digitalización industrial, con un enfoque en redes industriales y sistemas SCADA, integrando componentes físicos y digitales para optimización y mejora de la eficiencia en entornos industriales"
+SCF0907,1,"Desarrollar soluciones de automatización bajo metodologías estandarizadas tales como:  IEC60848, IEC 61499, IEC 62061"
+SCF0907,2,Configurar redes industriales para su implementación en sistemas reales
+SCF0907,3,Diseñar sistemas SCADA para la supervisión y control de procesos industriales con sistemas de alarmas según la normativa IEC 62682
+SCF0907,4,"Integrar tecnologías IoT con sistemas SCADA y otros dispositivos industriales bajo OPC UA, IEC 62541"
+SCF0907,5,Implementar estrategias de ciberseguridad en redes y sistemas SCADA para proteger los sistemas industriales bajo la norma IEC 62443
+SCF1001,0,"Desarrollar un sistema ciberfísico funcional desde cero mediante la integración práctica de conocimientos en control, electrónica, programación y documentación técnica, fomentando el trabajo en equipo y la gestión ágil de proyectos"
+SCF1001,1,Diseñar e implementar un sistema ciberfísico funcional con base en requerimientos específicos
+SCF1001,2,Integrar hardware y software en una arquitectura robusta utilizando prácticas de diseño modular
+SCF1001,3,"Validar el funcionamiento del sistema mediante pruebas de integración, simulaciones y mediciones en entorno controlado"
+SCF1001,4,"Documentar técnica y funcionalmente el sistema, considerando buenas prácticas de ingeniería"
+SCF1001,5,"Desarrollar habilidades de trabajo en equipo, comunicación técnica y gestión ágil de proyectos"
+SCF1002,0,"Diseñar interfases humano-máquina funcionales, usables y centradas en el usuario, que integren tecnologías de hardware y software para su aplicación en sistemas ciberfísicos"
+SCF1002,1,Comprender los fundamentos de la interacción humano-máquina y su importancia en la ingeniería
+SCF1002,2,Aplicar principios de diseño centrado en el usuario para el desarrollo de interfases físicas y digitales
+SCF1002,3,Implementar prototipos funcionales de interfases utilizando tecnologías de entrada/salida y plataformas embebidas
+SCF1002,4,Evaluar la usabilidad y accesibilidad de interfases mediante técnicas de prueba e iteración
+SCF1002,5,Integrar interfases en sistemas ciberfísicos considerando restricciones técnicas y humanas
+SCF1007,0,"Desarrollar sistemas de visión de máquina, utilizando técnicas avanzadas de procesamiento de imágenes y aprendizaje automático, con aplicaciones prácticas en sistemas ciberfísicos"
+SCF1007,1,Comprender los fundamentos teóricos de la visión de máquina y el procesamiento de imágenes
+SCF1007,2,"Desarrollar habilidades prácticas en el uso de herramientas y software de visión artificial, gratuito como como OpenCV y TensorFlow o con software con licencia como MATLAB o Vision Builder de National Instrument"
+SCF1007,3,Implementar algoritmos de procesamiento de imágenes y aprendizaje automático para la detección y reconocimiento de objetos
+SCF1007,4,Integrar sistemas de visión de máquina con hardware y software con otros sistemas
+SCF1007,5,Evaluar y optimizar el rendimiento de los sistemas de visión de máquina en aplicaciones reales
+SCF1201,0,"Diseñar sistemas ciberfísicos inteligentes mediante el uso de modelos de agentes autónomos, razonamiento simbólico, planificación y aprendizaje adaptativo, con el fin de desarrollar soluciones distribuidas y adaptativas en contextos reales"
+SCF1201,1,Comprender los principios fundamentales de los sistemas inteligentes y su integración en arquitecturas ciberfísicas
+SCF1201,2,Diseñar agentes inteligentes individuales y multiagente con capacidades de razonamiento y cooperación
+SCF1201,3,"Implementar modelos simbólicos, de planificación y aprendizaje en prototipos funcionales"
+SCF1201,4,Evaluar el desempeño de sistemas inteligentes en escenarios distribuidos con restricciones dinámicas
+SCF1202,0,Implementar modelos predictivos para la detección de fallos basados el análisis de series temporales
+SCF1202,1,Comprender los fundamentos de las series temporales y su aplicación en la predicción de fallos
+SCF1202,2,"Desarrollar modelos predictivos utilizando técnicas de suavizado, regresión, ARIMA, redes neuronales y sistemas de inferencia difusa"
+SCF1202,3,Implementar y optimizar modelos en entornos MATLAB y Python
+SCF1202,4,Integrar modelos predictivos en sistemas IoT para la monitorización y detección de fallos en tiempo real
+SCF1202,5,Evaluar el rendimiento de los modelos predictivos y realizar ajustes para mejorar su precisión
+SCF1203,0,"Desarrollar software confiable para aplicaciones críticas, incorporando principios de diseño seguro, verificación rigurosa y cumplimiento normativo en entornos embebidos y ciberfísicos"
+SCF1203,1,Diseñar soluciones de software robustas aplicando estrategias de programación defensiva y tolerancia a fallos
+SCF1203,2,Implementar módulos funcionales utilizando herramientas y plataformas embebidas con soporte en tiempo real
+SCF1203,3,"Verificar el comportamiento del software mediante pruebas automatizadas, análisis estático y simulación"
+SCF1203,4,Evaluar el cumplimiento de normas y estándares internacionales relevantes según el dominio de aplicació

@@ -1,0 +1,140 @@
+id,propio,codigo,nombre,area,semestre,fila,horasTeoria,horasPractica,creditos,requisitos,correquisitos,esrequisito
+CIB0001,0,MA0101,Matemática general,CIB,0,1,5,0,2,,,CIB0101
+CYD0002,0,CI0205,Prueba avanzada de inglés,CYD,0,2,0,0,0,,,
+CIB0101,0,MA1102,Cálculo diferencial e integral,CIB,1,1,5,0,4,CIB0001,,CIB0201;CIB0202;CIB0302;CIB0102
+CIB0102,0,FI1101,Física general I,CIB,1,2,4,0,3,,CIB0101,CIB0202;IMM0207;CIB0302;CIB0103
+CIB0103,0,FI1201,Laboratorio de física general I,CIB,1,3,0,2,1,,CIB0102,CIB0203
+CIB0104,0,QU1902,Fundamentos de química,CIB,1,4,5,0,4,,,IMM0506
+CYD0106,0,CI1106,Comunicación escrita,CYD,1,6,3,0,2,,,CYD0206
+CYD0107,1,EE0107,Dibujo técnico,CYD,1,7,1,3,3,,,IMM0207
+FPH0108,1,EE0108,Introducción a la ingeniería electromecánica,FPH,1,8,2,0,1,,,AUT0205;FPH0208
+CIB0201,0,MA1103,Cálculo y álgebra lineal,CIB,2,1,4,0,4,CIB0101,,CIB0301;CIB0401
+CIB0202,0,FI1102,Física general II,CIB,2,2,4,0,3,CIB0102;CIB0101,,IEE0303;IMM0506;CIB0203
+CIB0203,0,FI1202,Laboratorio de física general II,CIB,2,3,0,2,1,CIB0103,CIB0202,IEE0303
+AUT0205,0,CA0205,Introducción a la arquitectura de computadores,AUT,2,5,3,0,2,FPH0108,,IEE0305
+CYD0206,0,CI1107,Comunicación oral,CYD,2,6,3,0,1,CYD0106,,
+IMM0207,1,EE0207,Estática,IMM,2,7,4,0,3,CIB0102;CYD0107,,IMM0307
+FPH0208,0,CS2303,Relaciones laborales,FPH,2,8,3,0,2,FPH0108,,FPH0209
+FPH0209,0,CS1502,Introducción a la técnica ciencia y tecnología,FPH,2,9,2,0,1,,FPH0208,FPH0308
+CIB0301,0,MA2105,Ecuaciones diferenciales,CIB,3,1,4,0,4,CIB0201,,CIB0402;IMM0607;IMM0307
+CIB0302,0,FI2103,Física general III,CIB,3,2,4,0,3,CIB0101;CIB0102,,IMM0407
+IEE0303,1,EE0303,Análisis de circuitos I,IEE,3,3,4,0,3,CIB0203;CIB0202,,IEE0403;IEE0503;IEE0304
+IEE0304,1,EE0304,Laboratorio de circuitos I,IEE,3,4,0,2,1,,IEE0303,IEE0403;IEE0305
+IEE0305,1,EE0305,Transductores,IEE,3,5,2,1,2,AUT0205,IEE0304,IEE0405
+IMM0307,1,EE0307,Dinámica,IMM,3,7,4,0,3,IMM0207,CIB0301,AUT0504;IMM0507
+FPH0308,0,CS3404,Seminario de ética para la ingeniería,FPH,3,8,3,0,2,FPH0209,,FPH0408
+FPH0309,0,SE1100,Actividad cultural I,FPH,3,9,2,0,0,,,
+CIB0401,0,MA2104,Cálculo superior,CIB,4,1,4,0,4,CIB0201,,ADD0502
+CIB0402,0,CM3207,Métodos numéricos para ingeniería,CIB,4,2,4,0,3,CIB0301,,
+IEE0403,1,EE0403,Análisis de circuitos II,IEE,4,3,4,0,3,IEE0304;IEE0303,,IEE0702;IEE0404
+IEE0404,1,EE0404,Laboratorio de circuitos II,IEE,4,4,0,2,1,,IEE0403,
+IEE0405,1,EE0405,Instrumentación,IEE,4,5,1,2,2,IEE0305,,AUT0504
+IMM0407,1,EE0407,Termodinámica,IMM,4,7,4,0,3,CIB0302,,IMM0606
+FPH0408,0,CS4402,Seminario de estudios costarricenses,FPH,4,8,3,0,2,FPH0308,,FPH0501
+FPH0409,0,SE1200,Actividad deportiva I,FPH,4,9,0,2,0,,,
+FPH0501,0,AE4208,Desarrollo de emprendedores,FPH,5,1,4,0,4,FPH0408,,FPH0701
+ADD0502,0,PI0502,Estadística aplicada,ADD,5,2,3,0,2,CIB0401,,ADD0602
+IEE0503,1,EE0503,Sistemas analógicos,IEE,5,3,3,1,2,IEE0303,,IEE0604;AUT0704
+AUT0504,1,EE0504,Modelado y simulación de sistemas,AUT,5,4,3,1,3,IMM0307;IEE0405,,IMM0607;AUT0704
+IMM0506,0,ME2208,Ciencia de los materiales,IMM,5,6,3,0,3,CIB0104;CIB0202,IMM0507,IMM0605;IMM0606
+IMM0507,1,EE0507,Manufactura,IMM,5,7,3,0,2,IMM0307,,IMM0506;IMM0508
+IMM0508,1,EE0508,Laboratorio de manufactura,IMM,5,8,1,3,2,,IMM0507,CYD0609
+CYD0601,0,CI3202,Inglés para mecatrónica,CYD,6,1,3,0,1,,,
+ADD0602,1,EE0602,Fiabilidad y disponibilidad de sistemas electromecánicos,ADD,6,2,3,0,2,ADD0502,,FPH0701
+IEE0604,1,EE0604,Sistemas digitales,IEE,6,4,3,1,2,IEE0503,,AUT0705
+IMM0605,1,EE0605,Resistencia de materiales,IMM,6,5,4,0,3,IMM0506,,IMM0706
+IMM0606,0,CM4108,Transferencia de calor,IMM,6,6,4,0,3,IMM0506;IMM0407,,IMM0607
+IMM0607,1,EE0607,Mecánica de fluidos,IMM,6,7,4,0,3,CIB0301;AUT0504,IMM0606,IMM0707;IMM0608
+IMM0608,1,EE0608,Laboratorio de mecánica de fluidos,IMM,6,8,0,2,1,,IMM0607,
+CYD0609,1,EE0609,Dibujo industrial,CYD,6,9,4,0,3,IMM0508,,IMM0706;IMM0707
+FPH0701,1,EE0701,Administración de proyectos,FPH,7,1,3,0,2,FPH0501;ADD0602,,INS0808;INS0905;AER0905;SCF0801;SCF0905
+IEE0702,1,EE0702,Máquinas eléctricas I,IEE,7,2,4,0,3,IEE0403,,IEE0802;INS0806;AER1302;SCF1402;IEE0703
+IEE0703,1,EE0703,Laboratorio de máquinas eléctricas I,IEE,7,3,0,2,1,,IEE0702,IEE0802
+AUT0704,1,EE0704,Control automático,AUT,7,4,4,0,3,AUT0504;IEE0503,,AUT0804;AUT0705
+AUT0705,1,EE0705,Microcontroladores,AUT,7,5,2,1,2,IEE0604,AUT0704,AUT0804;INS1402;AER1402;SCF0807
+IMM0706,1,EE0706,Elementos de máquinas,IMM,7,6,4,0,3,IMM0605;CYD0609,,AER0806;AER0808;SCF0806
+IMM0707,1,EE0707,Sistemas térmicos,IMM,7,7,3,0,3,IMM0607;CYD0609,,INS0807;INS0903;AER0902;SCF0901;SCF1303;IMM0708
+IMM0708,1,EE0708,Laboratorio de sistemas térmicos,IMM,7,8,0,2,1,,IMM0707,INS0807;INS0903
+IEE0802,1,EE0802,Máquinas eléctricas II,IEE,8,2,4,0,3,IEE0703;IEE0702,,INS1302;SCF1302;IEE0803;INS0801;AER0801
+IEE0803,1,EE0803,Laboratorio de máquinas eléctricas II,IEE,8,3,0,2,1,,IEE0802,
+AUT0804,1,EE0804,Control por eventos discretos,AUT,8,4,4,0,3,AUT0704;AUT0705,,AUT0805
+AUT0805,1,EE0805,Laboratorio de control,AUT,8,5,0,2,1,,AUT0804,INS1203;SCF0902
+FPH0809,0,SE1400,Actividad cultural - deportiva,FPH,8,9,0,2,0,,,
+INS0801,1,EE4801,Sistemas eléctricos de transmisión y distribución,INS,8,1,4,0,3,,IEE0802,INS0901
+INS0806,1,EE4806,Instalaciones eléctricas,INS,8,6,4,0,3,IEE0702,INS0807,INS1201
+INS0807,1,EE4807,Ventilación y aire comprimido,INS,8,7,3,0,2,IMM0707;IMM0708,,INS0906;INS0908;INS0806
+INS0808,1,EE4808,Mantenimiento electromecánico,INS,8,8,2,0,1,FPH0701,,
+INS0901,1,EE4901,Sistemas de generación y almacenamiento de energía,INS,9,1,4,0,3,INS0801,,INS1003
+INS0903,1,EE4903,Sistemas de refrigeración y aire acondicionado,INS,9,3,3,0,3,IMM0707;IMM0708,,INS0904
+INS0904,1,EE4904,Laboratorio de refrigeración y aire acondicionado,INS,9,4,0,2,1,,INS0903,
+INS0905,1,EE1101,Seminario de graduación I,INS,9,5,2,2,3,FPH0701,,INS1005
+INS0906,1,EE4906,Instalaciones mecánico-sanitarias,INS,9,6,4,0,3,INS0807,,INS1006;INS1202;INS0907
+INS0907,1,EE4907,Laboratorio de sistemas de fluidos,INS,9,7,0,2,1,,INS0906,INS1007;INS1303
+INS0908,1,EE4908,Sistemas de vapor,INS,9,8,4,0,3,INS0807,,INS1003;INS0909
+INS0909,1,EE4909,Laboratorio de sistemas de vapor,INS,9,9,0,2,1,,INS0908,
+INS1003,1,EE5003,Gestión de la energía,INS,10,3,4,0,3,INS0908;INS0901,,
+INS1001,0,EE1103,Electiva I,INS,10,1,4,0,3,,,
+INS1002,0,EE1104,Electiva II,INS,10,2,4,0,3,,,
+INS1005,1,EE1102,Seminario de graduación II,INS,10,5,0,0,4,INS0905,,
+INS1006,1,EE5006,Gestión del ciclo de vida de instalaciones electromecánicas,INS,10,6,2,2,3,INS0906,,
+INS1007,1,EE5007,Neumática y oleohidráulica,INS,10,7,1,2,2,INS0907,,
+INS1201,1,EE5201,Sistemas de puesta a tierra,INS,12,1,4,0,3,INS0806,,
+INS1202,1,EE5202,Sistemas contra incendios,INS,12,2,4,0,3,INS0906,,
+INS1203,1,EE5203,Edificios inteligentes,INS,12,3,4,0,3,AUT0805,,
+INS1301,0,EE6901,Aviónica,INS,13,1,3,1,3,,INS1302,
+INS1302,0,EE6801,Sistemas de la aeronave,INS,13,2,4,0,3,IEE0802,,INS1301;INS1303
+INS1303,0,EE6902,Aerodinámica,INS,13,3,3,1,3,INS0907,INS1302,
+INS1401,0,EE8907,Automatización y digitalización industrial,INS,14,1,2,2,3,,INS1402,
+INS1402,0,EE8807,Aplicaciones de sistemas embebidos,INS,14,2,2,2,3,AUT0705,,INS1401;INS1403
+INS1403,0,EE8903,Aplicaciones de Inteligencia Artificial,INS,14,3,2,2,3,,INS1402,
+AER0801,1,EE6801,Sistemas de la aeronave,AER,8,1,4,0,3,,IEE0802,AER0901
+AER0806,0,EE0806,Máquinas y mecanismos,AER,8,6,4,0,3,IMM0706,,AER0906;AER0807
+AER0807,1,EE6807,Materiales en aeronáutica,AER,8,7,3,0,2,,AER0806,AER0906;AER1203
+AER0808,1,EE6808,Metrología aeronáutica,AER,8,8,1,1,1,IMM0706,,AER0908
+AER0901,1,EE6901,Aviónica,AER,9,1,3,1,3,AER0801,,AER1001
+AER0902,1,EE6902,Aerodinámica,AER,9,2,3,1,3,IMM0707,,AER1002;AER1003;AER0903
+AER0903,1,EE6903,Dinámica de vuelo,AER,9,3,3,1,3,,AER0902,AER1003;AER0906
+AER0905,0,EE1101,Seminario de graduación I,AER,9,5,2,2,3,FPH0701,,AER1005
+AER0906,1,EE6906,Análisis mecánico de estructuras de la aeronave,AER,9,6,4,0,3,AER0806;AER0807,AER0903,
+AER0908,1,EE6908,Seguridad aeronáutica y aeronavegabilidad,AER,9,8,4,0,3,AER0808,,AER1001;AER1202
+AER1001,1,EE7001,Gestión del ciclo de vida de la aeronave,AER,10,1,3,0,2,AER0901;AER0908,,AER1201
+AER1002,1,EE7002,Sistemas de propulsión,AER,10,2,3,1,3,AER0902,,
+AER1003,1,EE7003,Control automático de vuelo,AER,10,3,3,1,3,AER0902;AER0903,,
+AER1005,0,EE1102,Seminario de graduación II,AER,10,5,0,0,4,AER0905,,
+AER1007,0,EE1103,Electiva I,AER,10,7,4,0,3,,,
+AER1008,0,EE1104,Electiva II,AER,10,8,4,0,3,,,
+AER1201,1,EE7201,Infraestructura y servicios aeroportuarios,AER,12,1,4,0,3,,AER1001,
+AER1202,1,EE7202,Telemetría y comunicaciones para aeronáutica,AER,12,2,4,0,3,AER0908,,
+AER1203,1,EE7203,Manufactura en la cadena de valor aeroespacial,AER,12,3,4,0,3,AER0807,,
+AER1301,0,EE5006,Gestión del ciclo de vida de instalaciones electromecánicas,AER,13,1,4,0,3,,AER1302,
+AER1302,0,EE4806,Instalaciones eléctricas,AER,13,2,4,0,3,IEE0702,,AER1301;AER1303
+AER1303,0,EE5003,Gestión de la energía,AER,13,3,4,0,3,,AER1302,
+AER1401,0,EE8907,Automatización y digitalización industrial,AER,14,1,2,2,3,,AER1402,
+AER1402,0,EE8807,Aplicaciones de sistemas embebidos,AER,14,2,2,2,3,AUT0705,,AER1401;AER1403
+AER1403,0,EE8903,Aplicaciones de Inteligencia Artificial,AER,14,3,2,2,3,,AER1402,
+SCF0801,1,EE8104,Ingeniería de sistemas,SCF,8,1,2,2,3,FPH0701,,SCF0901
+SCF0806,1,EE0806,Máquinas y mecanismos,SCF,8,6,4,0,3,IMM0706,,SCF0906
+SCF0807,1,EE8807,Aplicaciones de sistemas embebidos,SCF,8,7,2,2,3,AUT0705,,SCF0903;SCF0907;SCF0808
+SCF0808,1,EE8808,Fundamentos de ciberseguridad,SCF,8,8,2,0,1,,SCF0807,SCF1203
+SCF0901,1,EE8901,Modelado numérico y simulación computacional,SCF,9,1,2,2,3,IMM0707;SCF0801,,SCF1001
+SCF0902,1,EE8902,Aplicaciones de circuitos integrados,SCF,9,2,2,1,2,AUT0805,,SCF1001
+SCF0903,1,EE8903,Aplicaciones de Inteligencia Artificial,SCF,9,3,2,2,3,SCF0807,,SCF1201;SCF1202
+SCF0905,0,EE1101,Seminario de graduación I,SCF,9,5,2,2,3,FPH0701,,SCF1005
+SCF0906,1,EE8906,Robótica,SCF,9,6,2,2,3,SCF0806,SCF0907,SCF1201
+SCF0907,1,EE8907,Automatización y digitalización industrial,SCF,9,7,2,2,3,SCF0807,,SCF0906;SCF1007
+SCF1001,1,EE9001,Taller de integración de sistemas,SCF,10,1,0,4,2,SCF0901;SCF0902,,SCF1002
+SCF1002,1,EE9002,Diseño de interfaces humano-máquina,SCF,10,2,2,2,3,,SCF1001,
+SCF1005,0,EE1102,Seminario de graduación II,SCF,10,5,0,0,4,SCF0905,,
+SCF1007,1,EE9007,Visión de máquina,SCF,10,7,2,2,3,,SCF0907,
+SCF1008,0,EE1103,Electiva I,SCF,10,8,4,0,3,,,
+SCF1009,0,EE1104,Electiva II,SCF,10,9,4,0,3,,,
+SCF1201,1,EE9201,Sistemas autónomos y multiagente,SCF,12,1,2,2,3,SCF0903;SCF0906,,
+SCF1202,1,EE9202,Análisis predictivo de series temporales,SCF,12,2,2,2,3,SCF0903,,
+SCF1203,1,EE9302,Desarrollo de software para aplicaciones críticas,SCF,12,3,2,2,3,SCF0808,,
+SCF1301,0,EE6901,Aviónica,SCF,13,1,3,1,3,,SCF1302,
+SCF1302,0,EE6801,Sistemas de la aeronave,SCF,13,2,4,0,3,IEE0802,,SCF1301;SCF1303
+SCF1303,0,EE6902,Aerodinámica,SCF,13,3,3,1,3,IMM0707,SCF1302,
+SCF1401,0,EE5006,Gestión del ciclo de vida de instalaciones electromecánicas,SCF,14,1,4,0,3,,SCF1402,
+SCF1402,0,EE4806,Instalaciones eléctricas,SCF,14,2,4,0,3,IEE0702,,SCF1401;SCF1403
+SCF1403,0,EE5003,Gestión de la energía,SCF,14,3,4,0,3,,SCF1402,
+LEM1501,0,EE1501,Trabajo final de graduación,LEM,15,1,0,21,7,AER0905,AER1005,

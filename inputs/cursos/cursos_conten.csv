@@ -1,0 +1,3204 @@
+id,contenidos
+CYD0107,"
+& Introducción al dibujo técnico como lenguaje de comunicación 
+&& Historia del dibujo técnico
+&& El dibujo técnico como lenguaje de ingeniería
+&& Instrumentos y herramientas de dibujo
+& Conceptos normativos del dibujo técnico
+&& Tipos de líneas
+&& Rotulado
+&& Formatos
+&& Cajetín
+&& Escalas
+&& Distribución de un plano 
+& Geometría descriptiva
+&& Consideraciones fundamentales de la Geometría Descriptiva
+&& Sistema de proyección y designación de vistas
+&& Proyección del punto, el segmento y los planos en el espacio
+&& Longitudes y dimensiones naturales
+&& Características particulares de la representación de los Cuerpos Geométricos
+&& Intersección de Cuerpos Geométricos
+&& Desarrollos de cuerpos geométricos
+& Proyecciones ortogonales
+&& Criterios de selección de la vista frontal y la ubicación de las otras vistas
+&& Selección de vistas mínimas para definir un objeto
+& Proyecciones Axonométricas 
+&& Axonometría isométrica
+&& Axonometrías dimétricas
+&& Construcción de proyección axonométrica a partir de proyecciones ortogonales
+& Acotado
+&& Conceptos normativos del acotado
+&& Criterios para la acotación correcta de proyecciones ortogonales
+&& Relación entre cota y escala
+"
+FPH0108,"
+& Introducción a la ingeniería electromecánica
+&& ¿Qué es la ingeniería electromecánica?
+&& Historia y evolución de la ingeniería electromecánica
+&& Importancia en la industria y la sociedad
+&& Relación con otras disciplinas (mecánica, eléctrica, electrónica, aeronáutica, sistemas ciber físicos)
+& El rol de la persona ingeniera electromecánica
+&& Perfil profesional y competencias clave
+&& Ética y responsabilidad en la ingeniería
+&& Impacto social, ambiental y económico de la profesión
+&& Experiencias de personas ingenieras en el mundo
+& Fundamentos de mecánica clásica
+&& Leyes de Newton y análisis de fuerzas
+&& Cinemática y dinámica de cuerpos rígidos
+&& Visualización Lagrangiana y Hamiltoniana de movimiento
+&& Energía mecánica y eficiencia
+&& Aplicaciones en sistemas electromecánicos 
+& Termodinámica y conversión de energía
+&& Principios de la termodinámica
+&& Ciclos termodinámicos
+&& Aplicaciones en motores térmicos y sistemas de refrigeración
+& Mecánica de fluidos y transferencia de calor
+&& Principios de mecánica de fluidos: ecuación de continuidad y Bernoulli
+&& Aplicaciones de las ecuaciones de Navier Stokes
+&& Fundamentos de transferencia de calor: conducción, convección y radiación
+&& Aplicaciones en sistemas térmicos y de refrigeración
+& Principios de ingeniería eléctrica
+&& Circuitos eléctricos básicos y leyes de Kirchhoff
+&& Magnetismo y sus aplicaciones en transformadores y motores eléctricos
+&& Generación, transmisión y distribución de energía
+& Fundamentos de ingeniería electrónica y de  control
+&& Conceptos básicos de circuitos electrónicos
+&& Sensores y actuadores en sistemas electromecánicos
+&& Introducción al control automático y sistemas embebidos
+& Programación aplicada a la electromecánica para diseño y simulación
+&& Introducción al modelado y simulación
+&& Lenguajes comunes
+&& Control de sistemas electromecánicos con programación
+&& Simulación de sistemas simples
+&& Aplicaciones en la industria
+& Sistemas ciberfísicos y transformación digital
+&& Definición y aplicaciones de sistemas ciber físicos
+&& Internet de las cosas (IoT) en la ingeniería electromecánica
+&& Gemelos digitales y manufactura inteligente
+& Ingeniería Aeronáutica
+&& Sistemas electromecánicos en aeronaves
+&& Principios básicos de aerodinámica y propulsión
+&& Electrificación y automatización en la aviación
+& Energías renovables, eficiencia energética y sostenibilidad
+&& Fuentes de energía tradicionales: hidráulica, geotérmica, térmica
+&& Fuentes de energía no tradicionales: eólica, solar y oceánica
+&& Almacenamiento de energía y baterías
+&& Vehículos eléctricos
+&& Diseño para la eficiencia energética en sistemas electromecánicos
+&& Impacto ambiental y normativas de sustentabilidad
+& Gestión y administración en ingeniería
+&& Fundamentos de gestión de proyectos
+&& Costos y presupuestos en ingeniería electromecánica
+&& Estrategias clásicas y emergentes de mantenimiento industrial
+& Desarrollo profesional y oportunidades laborales
+&& Normativa nacional y responsabilidad profesional
+&& Certificaciones y especializaciones clave
+&& Sectores industriales y áreas de aplicación
+&& Habilidades y competencias para el mercado laboral
+& Seguridad en ingeniería electromecánica
+&& Normas de seguridad eléctrica, mecánica y térmica
+&& Protocolos de protección en instalaciones electromecánicas
+&& Prevención de riesgos en la industria
+& Tendencias y futuro de la ingeniería electromecánica
+&& Transformación digital y manufactura inteligente
+&& Inteligencia artificial aplicada a sistemas electromecánicos
+&& Avances en materiales inteligentes y manufactura aditiva
+&& Perspectivas futuras de la ingeniería electromecánica
+& La investigación en el campo de la ingeniería electromecánica
+&& Las líneas actuales de investigación
+&& Metodologías científicas aplicadas a la ingeniería
+&& Vínculos entre academia, industria y sociedad
+&& Ética, sostenibilidad y responsabilidad en la investigación
+"
+IMM0207,"
+& Introducción a la mecánica
+&& Mecánica clásica (newtoniana), lagrangiana y hamiltoniana
+&& Ramas de la mecánica
+&& Cuerpos rígidos y cuerpos deformables
+&& La estática en el contexto de la mecánica para ingeniería
+& Equilibrio de una partícula
+&& Condiciones para el equilibrio de una partícula
+&& Diagrama cuerpo libre
+&& Sistemas de fuerzas tridimensionales
+& Centroides
+&& Centro de gravedad, centro de masa y centroide de un cuerpo
+&& Cuerpos compuestos
+&& Teorema de Pappus y Guldinus
+& Resultante de un sistema de fuerzas
+&& Momento de una fuerza
+&& Momento de una fuerza con respecto a un eje específico
+&& Momento de un par
+&& Simplificación de un sistema fuerza y par, fuerzas coplanares y reducción a una llave
+&& Reducción de una carga distribuida a una puntual 
+& Equilibrio de un cuerpo rígido
+&& Condiciones para el equilibrio de un cuerpo rígido
+&& Diagrama de cuerpo libre
+&& Elementos a dos fuerzas y tres fuerzas
+&& Restricciones y determinación estática
+& Análisis estructural
+&& Armaduras simples
+&& Método de nodos
+&& Elementos de fuerza cero
+&& Método de secciones
+&& Armaduras espaciales
+&& Bastidores y máquinas
+& Fuerzas internas
+&& Cargas internas desarrolladas en elementos estructurales
+&& Ecuaciones y diagramas de fuerza cortante y momento flexionante
+&& Relaciones entre carga distribuida, fuerza cortante y momento flexionante
+&& Cables
+& Fricción
+&& Características de la fricción seca
+&& Cuñas
+&& Tornillos
+&& Bandas planas
+&& Chumaceras y discos 
+& Trabajo virtual
+&& Definición de trabajo
+&& Principio del trabajo virtual
+&& Principio del trabajo virtual para un sistema de cuerpos rígidos conectados
+"
+IEE0303,"
+& Conceptos y definiciones
+&& Bandas de energía
+&& Carga eléctrica
+&& Corriente 
+&& Voltaje
+&& Resistencia eléctrica
+&& Ley de Ohm
+&& Potencia eléctrica
+&& Energía
+&& Elementos activos y pasivos
+&& Corto circuito y circuito abierto
+&& Fuentes dependientes e independientes
+& Análisis de circuitos básicos
+&& Leyes de Kirchhoff
+&& Elementos y circuitos en serie
+&& Divisor de voltaje
+&& Elementos y circuitos en paralelo
+&& Divisor de corriente
+&& Fuentes reales
+& Técnicas para el análisis de circuitos complejos
+&& Análisis de mallas y supermallas
+&& Análisis de nodos y supernodos
+&& Superposición
+&& Conversión de fuentes
+&& Teoremas de Thévenin y Norton
+&& Teorema de máxima transferencia de potencia
+&& Conversión de delta-estrella y estrella-delta
+&& Circuitos Puente (H, Wheatstone, celda de carga)
+& Bobinas y condensadores
+&& Definición de elementos reactivos, inductivos y capacitivos
+&& Fundamentos de condensadores y bobinas
+&& Arreglo de elementos en serie y paralelo
+&& Respuesta natural y forzada
+&& La función de singularidad
+&& Circuitos de primer orden RL y RC
+&& Circuitos de segundo orden RLC en serie y paralelo
+& Fundamentos de la transformada de Laplace
+&& Definición de la transformada directa e inversa de Laplace
+&& Solución de ecuaciones diferenciales con la transformada de Laplace
+&& Propiedades de la transformada directa e inversa de Laplace
+&& Definición de elementos en el dominio “s”
+&& Análisis de circuitos RLC en estado transitorio y estable
+"
+IEE0304,"
+& Empleo y lectura de instrumentos de medición eléctrica para corriente y voltaje
+& Resistencia y resistividad
+& Circuitos en serie y en paralelo
+& Taller de simulación de circuitos
+& Análisis de mallas y teorema de superposición
+& Teoremas de Thévenin y máxima transferencia de potencia
+& Taller del osciloscopio digital y el generador de señales
+& Análisis de elementos reactivos: bobinas y condensadores
+& Análisis de elementos almacenadores de energía: bobinas y condensadores
+& Análisis de la carga y descarga de condensadores en circuitos de corriente directa
+& Configuraciones en serie y paralelo de bobinas y condensadores
+& Respuesta transitoria en circuitos RL y RC
+& Análisis de circuitos RLC de segundo orden
+"
+IEE0305,"
+& Conceptos básicos
+&& Señales, estímulos y sistemas
+&& Modelos y simulaciones
+&& Sensores, actuadores y transductores
+&& Clasificaciones
+& Características de los transductores 
+&& Función de transferencia
+&& Entrada y salida a escala completa
+&& Exactitud y precisión
+&& Repetibilidad y reproducibilidad
+&& Histéresis y no linealidad
+&& Saturación y banda muerta
+&& Resolución
+&& Impedancia de salida
+&& Excitación
+&& Características dinámicas 
+&& Confiabilidad e incertidumbre
+& Transductores térmicos
+&& Bimetales
+&& Termoresistivos
+&& Termoeléctricos
+&& Termomecánicos
+&& Inductivos y microondas para calentamiento
+& Transductores ópticos
+&& Fotoconductores
+&& Fotodiodos 
+&& Fototransistores
+&& Fotovoltaicos
+&& Piroeléctricos y termopilas para radiación térmica
+& Transductores eléctricos y magnéticos
+&& Capacitivos
+&& Inductivos
+&& Efecto Hall
+&& Magnetohidrodinámicos
+&& Magnetoresistivos
+&& Magnetrostrictivos
+&& Magnetómetros
+&& Piezoelectricos
+&& Piezoresistivos
+&& Voltaje, corriente y resistencia
+&& Motores
+&& Solenoides
+& Transductores mecánicos
+&& Galgas extensiometricas
+&& Celdas de carga
+&& Acelerómetros
+&& Sensores de presión
+&& Velocidad
+&& Giroscopios
+& Transductores acústicos
+&& Micrófonos e hidrófonos
+&& Parlantes
+&& Ultrasónicos
+& Transductores químicos
+&& Electroquímicos
+&& Potenciométricos
+&& Termoquímicos
+& Transductores de radiación
+&& Ionizante
+&& Microondas
+& Transductores MEMS
+&& Métodos de fabricación
+&& Unidades de medición inercial (IMU)
+&& Sensores de presión
+&& Micrófonos 
+&& Interruptores ópticos
+& Interfaces de los transductores
+&& Amplificadores operacionales
+&& Amplificadores de potencia
+&& PWMs para actuadores
+&& Convertidores A/D y D/A
+&& Puentes
+&& Transmisión de datos
+&& Excitadores
+&& Ruido e interferencia
+"
+IMM0307,"
+& Cinemática de Partículas
+&& Cinemática del movimiento rectilíneo
+&& Cinemática del movimiento curvilíneo
+&& Movimiento dependiente absoluto y relativo de dos o más partículas
+& Cinética de partículas y sistemas de partículas
+&& Segunda Ley de Newton
+&& Métodos de trabajo y energía
+&& Principio del Impulso y cantidad de movimiento
+& Cinemática del movimiento plano de cuerpos rígidos 
+&& Traslación pura
+&& Rotación en torno a un eje fijo
+&& Movimiento plano general
+&& Análisis del movimiento relativo
+&& Sistemas de referencia en rotación
+& Cinética del movimiento plano de cuerpos rígidos 
+&& Segunda Ley de Newton
+&& Métodos de trabajo y energía
+&& Principio del Impulso y cantidad de movimiento
+& Vibraciones mecánicas    
+&& Vibración libre no amortiguada
+&& Vibración forzada no amortiguada
+&& Vibración libre amortiguada 
+&& Vibración forzada amortiguada 
+&& Métodos de Energía
+"
+IEE0403,"
+& Corriente alterna
+&& Parámetros de la onda alterna 
+&& Valor eficaz 
+&& Onda alterna sinusoidal 
+&& Impedancia y admitancia
+&& Fasores
+&& Métodos básicos de análisis de circuitos aplicados a CA 
+&& Métodos complejos de análisis de circuitos aplicados a CA 
+& Potencia Eléctrica
+&& Potencia instantánea. 
+&& Potencias reactiva, aparente y real. 
+&& Concepto del Factor de potencia 
+&& Potencia compleja
+&& Corrección del Factor de potencia
+& Respuesta en frecuencia
+&& Resonancia, serie y paralelo
+&& Factor de calidad y ancho de banda
+&& Frecuencia compleja, y su relación con circuitos eléctricos
+&& Función de transferencia, raíces y representación en plano complejo
+&& Diagramas de Bode, construcción y lectura
+&& Filtros pasivos, definición y construcción 
+&& Análisis de circuitos RLC de primer y segundo orden usando la Transformada de Laplace en CA
+&  Series de Fourier
+&& Motivación histórica, el problema de transferencia de calor que motivo a las series de Fourier
+&& Definición
+&& Series trigonométricas y exponenciales
+&& Cálculo de series para una función periódica no sinusoidal
+&& Simetría y cómo afecta el cálculo de las series de Fourier
+&& Contenido armónico, cuándo es útil y cuándo es un problema
+&& Distorsión armónica total THD, concepto
+&& Cálculo de VRMS, IRMS, Potencias y THD en una fuente con contenido armónico
+&& Efecto de filtros en señales con contenido armónico
+&& 	Relación del THD con el valor efectivo y el factor de potencia desplazado (FPD) en redes a 60Hz
+& Redes de dos puertos
+&& Concepto
+&& Aplicaciones
+&& Tipos principales, impedancia, admitancia, híbrida y de transmisión
+&& Modelado
+& Sistemas monofásicos trifilar
+&& Circuito monofásico de tres líneas, definición y análisis
+&& Balance de carga
+&& Corrección del factor de potencia
+"
+IEE0404,"
+& Valores eficaces
+& Circuito RLC serie excitación senoidal
+& Circuitos mixtos RLC en corriente alterna
+& Mejoramiento del factor de potencia
+& Contenido armónico y filtros RLC
+& Respuesta de frecuencia y resonancia en RLC
+& Circuito monofásico trifilar y cálculo de Potencia 
+& Análisis del factor de potencia y su relación con cargas lineales
+& Corrección del factor de potencia en circuitos monofásicos
+& Análisis experimental de un circuito monofásico trifilar
+& Cálculo de potencia promedio en señales senoidales compuestas
+"
+IEE0405,"
+& Sistemas de adquisición de datos
+&& Arquitectura básica
+&& Transductores analógicos y digitales
+&& Acondicionamiento de señales
+&& A/D: muestreo, cuantización y codificación
+&& D/A: decodificación y filtrado
+&& Interfaz de transductores con DAQs y microcontroladores
+& Instrumentos virtuales
+&& Estructuras de datos
+&& Estructuras de ejecución
+&& Máquinas de estados
+&& Guardado de archivos
+&& Interfaces gráficas
+&& Comunicación serial y USB
+&& Control de instrumentos externos
+& Simbología y metrología de instrumentación
+&& Norma ISA 51
+&& Calibración y trazabilidad
+&& Verificación y validación
+&& Propagación de incertidumbres
+&& Guía para la Expresión de la Incertidumbre en la Medición (GUM)
+"
+IMM0407,"
+& Conceptos y definiciones
+&& Definición de la termodinámica
+&& Sistemas y volúmenes de control
+&& Propiedades y estado de una sustancia
+&& Procesos y ciclos termodinámicos
+& Energía y transferencia de energía
+&& Formas de energía
+&& Transferencia de energía por calor, trabajo y masa
+& Propiedades de una sustancia
+&& Estados de agregación
+&& Tablas de propiedades termodinámicas
+&& Diagramas de fases
+&& Sustancias puras y mezclas
+& Trabajo y calor
+&& Definición y formas de trabajo
+&& Cálculo del trabajo en procesos termodinámicos
+&& Transferencia de calor y mecanismos
+& Primera ley de la termodinámica
+&& Balance de energía en sistemas cerrados
+&& Aplicaciones en sistemas abiertos
+&& Aplicaciones en procesos cíclicos
+& Segunda ley de la termodinámica
+&& Principios de reversibilidad e irreversibilidad
+&& Concepto de eficiencia térmica
+&& Principio de Carnot y su implicación
+& Entropía
+&& Definición y propiedades
+&& Entropía en procesos reversibles e irreversibles
+&& Segunda ley en términos de entropía
+& Ciclos de generación
+&& Ciclo de Carnot
+&& Ciclos de potencia de vapor y gas
+&& Ciclos de refrigeración
+"
+IEE0503,"
+& Introducción a los sistemas analógicos
+&& Introducción a la física del estado sólido en dispositivos electrónicos
+&& Conceptos básicos de sistemas analógicos
+&& Diferencias entre sistemas analógicos y digitales
+& Dispositivos electrónicos
+&& Características y operación de diodos, BJT, MOSFET, IGBT, SCR, TRIAC
+&& Selección de dispositivos para aplicaciones específicas
+&& Ejemplos de circuitos con estos dispositivos
+& Reguladores de voltaje
+&& Reguladores de voltaje lineales
+&& PWM: modulación por ancho de pulso
+&& Diseño de circuitos con reguladores y comparadores
+& Aplicaciones de los sistemas analógicos
+&& Características y funcionamiento de los amplificadores operacionales
+&& Limitaciones estáticas y dinámica de los amplificadores operacionales
+&& Analisis de amplificadores operacionales
+&& Ruido y filtrado
+&& Osciladores y generadores de señales
+&& Procesamiento de señales
+& Convertidores 
+&& Convertidores analógico-digital (ADC) y digital-analógico (DAC)
+&& Convertidores V/F y V/I
+&& Integración de sensores en sistemas analógicos
+& Circuitos integrados especiales
+&& Uso del 555 en aplicaciones de temporización y oscilación
+&& Diseño de circuitos con DAC, ADC y otros CI especiales
+&& Ejemplos prácticos y simulaciones
+& Electrónica de potencia
+&& Introducción a la electrónica de potencia
+&& Aplicaciones de dispositivos de potencia en sistemas analógicos
+&& Diseño de circuitos de potencia
+"
+AUT0504,"
+& Introducción y modelado de sistemas
+&& Definición de modelo y sistema
+&& Respuesta de modelos lineales
+& Transformada de Laplace 
+&& Teoremas de la transformada de Laplace
+&& Transformada inversa
+&& Solución de ecuaciones lineales invariantes en el tiempo
+& Modelos por espacio de estado
+&& Estado
+&& Trasformación entre espacio de estados y otras representaciones
+&& Observabilidad
+&& Controlabilidad
+& Modelado matemático
+&& Sistemas mecánicos
+&& Sistemas eléctricos
+&& Sistemas térmicos
+&& Sistemas hidráulicos
+&& Diagramas de bloques
+&& Diagramas de flujo 
+&& Linealización de modelos no lineales
+& Análisis de la respuesta de los modelos
+&& Respuesta transitoria y estacionaria en dominio del tiempo y frecuencia
+&& Evaluación de modelos
+& Métodos numéricos para la simulación de sistemas
+&& Errores asociados a la simulación
+& Identificación de sistemas en el dominio del tiempo
+&& Definiciones: curvas de reacción, sistemas autorregulados y no autorregulados
+&& Modelos utilizados en la identificación: modelos integradores, modelos de primer orden más tiempo muerto, modelos de segundo orden más tiempo muerto sobreamortiguados, modelos de segundo orden más tiempo muerto subamortiguados
+&& Métodos de identificación experimental: métodos de recta tangente, métodos de dos puntos, métodos de tres puntos, métodos por minimización de una función de error de predicción
+&& Obtención de la curva de reacción de un sistema: consideraciones prácticas, caso particular, sistemas de múltiples entradas y múltiples salidas
+& Introducción a las redes nueronales para el modelado de sistemas
+& Introducción a la lógica difusa para el modelado de sistemas
+"
+IMM0507,"
+& Introducción a la manufactura
+&& Definición e importancia de la manufactura
+&& Relación con la ingeniería electromecánica
+&& Materiales
+&& Tendencias de la manufactura moderna (transformación digital, manufactura digital, automatización)
+& Procesos de manufactura
+&& Procesos de conformado: fundición, forja, laminado, estampado, extrusión, inyección y moldeo, trefilado
+&& Procesos de maquinado: torneado, fresado, taladrado, rectificado
+&& Procesos de unión: soldadura por arco eléctrico y protección gaseosa, soldadura laser, soldadura por ultrasonido, remachado, adhesivos industriales
+&& Procesos de corte: troquelado, cizallado, por plasma, electroerosionado, por chorro de agua, corte laser
+&& Procesos de manufactura aditiva: deposición fundida (FDM), sinterizado láser selectivo (SLS), fusión selectiva por láser (SLM), impresión por inyección de aglutinante
+& Automatización en manufactura
+&& CNC y su programación básica (lenguajes de programación)
+&& Robótica en manufactura
+&& Celdas de manufactura
+& Metrología dimensional
+&& Metrología de contacto: calibrador Vernier, micrómetro, reloj comparador, máquina de medición por coordenadas (CMM), galgas de espesores y bloques patrón
+&& Metrología sin contacto: interferometría láser, escaneo 3D, microscopía óptica, perfilómetro óptico
+&& Tolerancias geométricas y dimensionales
+&& Medición de rugosidades y acabados superficiales
+&& Control estadístico de procesos (CEP)
+& Diseño para manufactura y ensamblaje (DFMA)
+&& Principios de diseño para manufactura
+&& Costos y optimización en el diseño de productos
+&& Manufacturabilidad y ensamblabilidad
+& Micromanufactura 
+&& Semiconductores y silicio
+&& Crecimiento de cristales y preparación de obleas
+&& Deposición de películas
+&& Litografía
+&& Grabado
+&& Unión de cables y empaquetado
+&& Placas de circuitos impresos
+& Manufactura sostenible
+&& Impacto ambiental y estrategias de manufactura verde
+&& Reciclaje y reutilización de materiales
+&& Eficiencia energética en procesos de manufactura
+"
+IMM0508,"
+& Introducción a la planta de manufactura
+&& Conceptos básicos de una planta de manufactura
+&& Seguridad
+& Procesos de manufactura
+&& Procesos de conformado: fundición e inyección y moldeo
+&& Procesos de maquinado: torneado, fresado, taladrado, rectificado, electro-erosionado
+&& Procesos de unión: soldadura por fusión (de partes y tuberías)
+&& Procesos de corte: por plasma, electro-erosionado y corte laser
+&& Procesos de manufactura aditiva: Deposición fundida (FDM), sinterizado láser selectivo (SLS), fusión selectiva por láser (SLM), impresión por inyección de aglutinante
+& Automatización en manufactura
+&& CNC y su programación básica (lenguajes de programación)
+&& Robótica en manufactura
+&& Celdas de manufactura
+& Metrología dimensional
+&& Metrología de contacto: calibrador Vernier, micrómetro, reloj comparador, máquina de medición por coordenadas (CMM), galgas de espesores y bloques patrón
+&& Metrología sin contacto: metrología óptica
+&& Tolerancias geométricas y dimensionales
+&& Medición de rugosidades y acabados superficiales
+&& Control estadístico de procesos (CEP)
+& Diseño para manufactura y ensamblaje (DFMA)
+&& 	Manufacturabilidad y ensamblabilidad
+& Micromanufactura 
+&& Deposición de películas
+&& Litografía
+&& Placas de circuitos impresos
+& Manufactura sostenible
+&& Manejo de desechos
+&& Impacto ambiental y estrategias de manufactura verde
+&& Reciclaje y reutilización de materiales
+"
+ADD0602,"
+& Introducción a la fiabilidad, disponibilidad, mantenibilidad y seguridad (RAMS) en sistemas electromecánicos
+&& Conceptos clave de fiabilidad, disponibilidad, mantenibilidad y seguridad (RAMS)
+&& Importancia del análisis RAMS en la ingeniería electromecánica
+&& Indicadores y métricas de desempeño de sistemas
+& Métodos estadísticos aplicados a la confiabilidad
+&& Distribuciones de probabilidad utilizadas en confiabilidad: exponencial, normal, Weibull
+&& Estimación de parámetros estadísticos y análisis de datos de fallos
+&& Introducción a la prueba de hipótesis y análisis de tendencia en confiabilidad
+& Análisis de Modos y Efectos de Fallo (FMEA) y Análisis de Árbol de Fallos (FTA)
+&& Metodología FMECA: identificación y priorización de fallos
+&& Análisis de criticidad y cálculo del RPN (Risk Priority Number)
+&& Construcción y aplicación del Análisis de Árbol de Fallos (FTA)
+&& Factores que afectan la confiabilidad y vida útil de los componentes
+& Análisis Weibull y estimación de vida útil de componentes
+&& Principios del análisis Weibull y su aplicación en confiabilidad
+&& Estimación de parámetros $\beta$ y $\eta$ para predecir vida útil
+&& Análisis de datos de fallos en el contexto industrial
+& Modelos de confiabilidad para sistemas en serie, paralelo y redundancia
+&& Modelos de confiabilidad en sistemas simples y complejos
+&& Cálculo de confiabilidad en configuraciones en serie y en paralelo
+&& Estrategias de redundancia para mejorar la disponibilidad de sistemas
+& Estrategias de mantenimiento: correctivo, preventivo, predictivo y basado en condición
+&& Diferencias y aplicaciones de mantenimiento correctivo, preventivo y predictivo
+&& Criterios de selección de estrategias de mantenimiento
+&& Análisis de costos y beneficios de cada enfoque
+& Optimización de planes de mantenimiento y análisis costo-beneficio
+&& Estrategias para optimizar programas de mantenimiento
+&& Métodos de análisis costo-beneficio en confiabilidad y disponibilidad
+& Planificación de contingencias y resiliencia en sistemas electromecánicos
+&& Estrategias de continuidad operativa y gestión de crisis
+&& Diseño de planes de contingencia y recuperación ante fallos
+& Métodos de análisis de seguridad y normativas internacionales
+&& Principales normativas en seguridad industrial y confiabilidad
+&& Métodos de análisis de seguridad: HAZOP, LOPA, Bow-Tie
+&& Implementación de planes de seguridad en la industria
+"
+IEE0604,"
+& Introducción a los Sistemas Digitales
+&& Conceptos básicos
+&& Diferencias entre sistemas digitales y analógicos
+& Reducción de expresiones booleanas
+&& Álgebra de Boole
+&& Teoremas y postulados
+&& Variables y funciones booleanas
+&& Simplificación de funciones booleanas
+&&	Mapas de Karnaugh
+&&&	Mapas cícliclos, semi-cíclicos
+&&&	Mapas de variable ingresada
+&&	Suma de productos y Producto de Sumas
+& Circuitos Combinacionales
+&& Puertas lógicas básicas (AND, OR, NOT, NAND, NOR, XOR, XNOR)
+&& Diseño y análisis de circuitos combinacionales
+&& Sumadores y restadores
+&& Multiplexores (MUX)
+&& Demultiplexores (DEMUX)
+&& Codificadores y decodificadores (ENCODERS y DECODERS)
+& Circuitos Secuenciales
+&& Conceptos de memoria y almacenamiento
+&& Flip-Flops (SR, D, JK, T)
+&& Contadores y registros
+&& Máquinas de estados finitos (FSM)
+&& Maquinas de Mealy / Moore
+& Elementos de Memoria
+&& Tipos de flip-flops y sus aplicaciones
+&& Diseño de registros y contadores
+&& Memorias RAM y ROM
+& Unidad Aritmética y Lógica (ALU)
+&& Diseño y funcionamiento de una ALU
+&& Operaciones aritméticas y lógicas
+& Lenguaje de Descripción de Hardware (VHDL)
+&& Introducción a VHDL
+&& Modelado de circuitos combinacionales y secuenciales en VHDL
+&& Simulación y síntesis de diseños en VHDL
+& FPGAs (Field-Programmable Gate Arrays)
+&& Introducción a las FPGAs
+&& Tipos de FPGAs y sus aplicaciones
+&& Arquitectura interna de una FPGA
+&& Ventajas y desventajas de las FPGAs
+& Programación de FPGAs con VHDL
+&& Diseño del circuito en VHDL
+&& Simulación y verificación del diseño
+&& Síntesis y generación del bitstream
+&& Implementación y programación en la FPGA
+"
+IMM0605,"
+& Introducción a la mecánica de materiales
+&& Materiales en ingeniería
+&& Concepto de esfuerzo normal, tangencial y de aplastamiento
+&& Concepto de deformación
+&& Consideraciones de diseño: resistencia de los materiales, factor de seguridad y criterios de selección
+& Deformación
+&& Concepto de deformación
+&& Deformación unitaria
+& Propiedades mecánicas de los materiales
+&& Ensayos de tensión y compresión
+&& Diagrama de esfuerzo–deformación
+&& Comportamiento del esfuerzo y deformación de los materiales dúctiles y frágiles
+&& Energía de deformación
+&& Relación de Poisson
+&& Diagrama de esfuerzo-deformación cortante
+&& Falla de materiales por flujo plástico y fatiga
+& Carga axial
+&& Principio de Saint-Venant
+&& Deformación elástica de un cuerpo cargado axialmente
+&& Principio de superposición
+&& Elementos cargados axialmente y estáticamente indeterminados
+&& Métodos de las fuerzas para el análisis de elementos cargados axialmente
+&& Esfuerzo térmico
+&& Concentraciones de esfuerzo
+& Torsión
+&& Deformación por torsión de un eje circular
+&& Fórmula de la torsión
+&& Transmisión de potencia
+&& Ángulo de giro
+&& Elementos cargados con pares de torsión estáticamente indeterminados
+&& Ejes sólidos no circulares
+&& Tubos de pared delgada con secciones transversales cerradas
+&& Concentración del esfuerzo
+& Flexión
+&& Diagramas de cortante y momento
+&& Método gráfico para la construcción de diagramas de fuerza cortante y momento
+&& Deformación flexionante de un elemento recto
+&& La fórmula de la flexión
+&& Flexión asimétrica
+&& Vigas compuestas
+&& Vigas curvas
+&& Concentraciones de esfuerzo
+& Fuerza cortante transversal
+&& Fuerza cortante en elementos rectos
+&& Fórmula de esfuerzo cortante
+&& Flujo cortante en elementos compuestos
+&& Flujo cortante en elementos de pared delgada
+&& Centro cortante para elementos abiertos de pared delgada
+& Cargas combinadas
+&& Recipientes de pared delgada sometidos a presión
+&& Estado de esfuerzo causado por cargas combinadas
+& Transformación de esfuerzos
+&& Transformación del esfuerzo plano
+&& Ecuaciones generales de la transformación del esfuerzo plano
+&& Esfuerzos principales y esfuerzo cortante máximo en el plano
+&& Círculo de Mohr – el esfuerzo plano
+&& Esfuerzo cortante máximo absoluto
+& Transformación de deformaciones
+&& Teorías de falla de materiales dúctiles 
+&& Teorías de falla de materiales frágiles
+& Diseño de vigas y ejes
+&& Fundamentos para el diseño de vigas
+&& Diseño de una viga prismática
+&& Vigas completamente esforzadas
+&& Diseño de ejes
+& Deflexión de vigas y ejes
+&& La curva elástica
+&& Pendiente y desplazamiento por integración
+&& Funciones de discontinuidad
+&& Pendiente de desplazamiento por el método del área de momento
+&& Método de superposición
+&& Métodos de análisis de vigas y ejes estáticamente indeterminados
+& Pandeo de columnas
+&& Carga crítica
+&& Columna ideal con soportes de pasador
+&& Columnas que tienen varios tipos de soporte
+&& La fórmula de la secante
+&& Pandeo inelástico
+&& Diseño de columnas para cargas concéntricas
+&& Diseño de columnas para cargas excéntricas
+& Métodos de Energía
+&& Trabajo externo y energía de deformación
+&& Energía de deformación elástica para distintos tipos de carga
+&& Conservación de la energía
+&& Carga de impacto
+&& Principio del trabajo virtual
+&& Método de las fuerzas virtuales aplicadas a las cerchas
+&& Método de las fuerzas virtuales a vigas
+&& Teorema de Castigliano aplicado a armadura y vigas
+"
+IMM0607,"
+& Fluidos y sus propiedades
+&& Definición de fluido
+&& Propiedades físicas: densidad, viscosidad, presión, temperatura
+&& Clasificación de los fluidos (ideales, reales, compresibles e incompresibles)
+& Estática de fluidos
+&& Presión en un fluido en reposo
+&& Principio de Pascal y principio de Arquímedes
+&& Manometría y medición de presión
+&& Equilibrio de cuerpos sumergidos y flotación
+& Cinemática de fluidos (fluidos en movimiento)
+&& Descripción del movimiento de los fluidos
+&& Líneas de corriente, trayectoria y líneas de emisión
+&& Régimen de flujo: laminar y turbulento
+&& Ecuación de continuidad
+& Dinámica de fluidos (principios de energía)
+&& Ecuaciones que gobiernan el movimiento de los fluidos: Navier-Stokes, sus supuestos y simplificaciones comunes
+&& Principio de Bernoulli y su aplicación
+&& Ecuación general de la energía
+&& Flujo potencial y circulación
+&& Concepto de esfuerzo cortante en flujo
+& Flujo en tuberías
+&& Análisis del flujo interno
+&& Tipos de flujo en tuberías
+&& Ecuación de Darcy-Weisbach
+&& Medición de flujo en tuberías
+& Pérdidas de energía debido a la fricción
+&& Pérdidas primarias y secundarias
+&& Factores que afectan la fricción
+&& Diagramas de Moody
+&& Cálculo de pérdidas de carga
+& Sistemas de tuberías
+&& Redes de tuberías
+&& Bombeo y selección de bombas
+&& Golpe de ariete y su control
+&& Aplicaciones en sistemas industriales
+& Análisis computacional de fluidos
+&& Introducción a la dinámica de fluidos computacional (CFD)
+&& Modelado y simulación de flujos
+&& Métodos numéricos en mecánica de fluidos
+&& Aplicaciones en ingeniería
+"
+IMM0608,"
+& Laboratorio de propiedades de los fluidos
+& Laboratorio de ley de Stokes y cálculo de viscosidad
+& Laboratorio de medición de presión mediante manómetros
+& Laboratorio de métodos para medir caudal y flujo másico en aire y agua
+& Laboratorio de estudio experimental del principio de Bernoulli
+& Laboratorio de análisis de tanques hidroneumáticos
+& Laboratorio de regímenes de flujo: laminar y turbulento
+& Laboratorio de pérdidas de carga en tuberías, accesorios y válvulas
+& Laboratorio de flujo externo
+& Laboratorio de redes hidráulicas
+"
+CYD0609,"
+& Introducción al dibujo industrial
+&& Ramas del dibujo industrial
+&& El dibujo en el contexto de la ingeniería electromecánica
+& Cortes y secciones 
+&& Concepto de cortes y secciones
+&& Achurado
+&& Tipos de cortes
+&& Tipos de secciones
+& Vistas auxiliares
+&& Concepto de vistas auxiliares
+&& Tipos de vistas auxiliares
+&& Ubicación de las vistas auxiliares
+&& Elementos desplazados
+& Ajustes y tolerancias mecánicos
+&& Ajustes mecánicos
+&& Tolerancias de dimensión
+&& Tolerancias geométricas de forma y posición
+& Rugosidad y acabados superficiales de piezas mecánicas
+&& Parámetros relacionados con la rugosidad
+&& Criterio para la selección de la rugosidad
+&& Representación de la rugosidad
+&& Acabados superficiales
+& Uniones mecánicas
+&& Uniones roscadas
+&& Uniones remachadas
+&& Uniones soldadas
+&& Lengüetas, chavetas y pasadores
+&& Unión por pegadura (adhesivos)
+& Conjuntos mecánicos
+&& Representación de elementos mecánicos estandarizados
+&& Representación de bujes y rodamientos
+&& Representación de elementos para la transmisión de torque
+&& Especificación de conjuntos mecánicos
+&& Planos de fabricación
+& Instalaciones electromecánicas
+&& Instalaciones eléctricas
+&& Instalaciones de transporte y almacenamiento de fluidos
+&& Instalaciones mecánico-sanitarias
+&& Instalaciones de climatización (HVAC: Heating, Ventilation, and Air Conditioning)
+"
+FPH0701,"
+& El estudio de proyectos
+&& Introducción histórica de la administración de proyectos
+&& Definición y características de un proyecto
+&& Generación de ideas de proyecto
+&& Tipología de los proyectos (público-privado-académico)
+&& Toma de decisiones asociadas a un proyecto
+&& Establecimiento de antecedentes – problema – justificación – objetivos - metodología
+& Oportunidades de negocio e investigación
+&& El proceso de identificación de oportunidades de negocio e investigación
+&& Análisis del contexto local y del contexto internacional
+&& Modelo de negocio
+&& Estrategias de implementación
+& Presupuestos electromecánicos
+&& Construcción de presupuestos electromecánicos
+&& Elaboración de herramientas para desarrollar presupuestos
+&& Casos de estudio de presupuestos
+& Alcances del estudio de proyectos
+&& Perfil, prefactibilidad, factibilidad
+&& Estudios de viabilidad de un proyecto
+&& Técnicas de proyección del mercado: métodos cualitativos y modelos causales
+& Evaluación financiera de proyectos
+&& Estimación de costos asociados a un proyecto
+&&	Estimación de capital de trabajo
+&&	Construcción de flujos de caja
+&&	Estimación de horizontes de evaluación
+&&	Estimación de tasas de descuento para proyectos
+&&	Determinación de puntos de equilibrio
+&&	Criterios financieros de evaluación de proyectos
+& Fundamentos de la gestión de proyectos
+&& Ciclo de vida de un proyecto
+&& Integración de proyectos con el plan estratégico
+& Estimación de costos y tiempos del proyecto
+&& Lineamientos por seguir en la estimación de costos, tiempos y recursos
+&& Estimación ascendente/descendente y métodos para cálculo de costos y tiempos del proyecto
+& Construcción de redes de proyectos
+&& Desarrollo de la red para el proyecto
+&& Construcción de una red de proyecto
+&& Proceso de cálculo de la red de proyecto
+& Nuevas tendencias en formulación y administración de proyectos
+&& Metodologías tradicionales versus metodologías ágiles
+&& Gestión remota de proyectos
+&& Programas computacionales para la gestión de proyectos
+"
+IEE0702,"
+& Sistema monofásico
+&& Cargas resistivas, inductivas y capacitivas 
+&& Cálculo de la corriente en el neutro
+& Sistemas trifásicos
+&& Principio de generación 
+&& Tensiones trifásicas balanceadas 
+&& Tipos de circuitos trifásicos 
+&& Generador trifásico en estrella 
+&& Tensiones de línea y de fase 
+&& Desfase entre línea y fase 
+&& Secuencia de fase 
+&& Corrientes de línea y fase 
+&& Conexiones en cargas balanceadas y desbalanceadas
+& Potencia monofásica y trifásica
+&& Sistemas balanceados y desbalanceados
+&& Potencia activa, reactiva y aparente (triángulo de potencias) 
+&& Medición del factor de potencia
+&& Mejoramiento de factor de potencia
+& Estructuras ferromagnéticas excitadas en corriente directa
+&& Propiedades de los materiales ferromagnéticos
+&& Teoría de los dominios ferromagnéticos
+&& Curvas de magnetización
+&& Lazo de histéresis, flujo residual y fuerza coercitiva
+&& El concepto del circuito magnético, fuerza magnetomotriz, reluctancia y permeancia magnética
+&& Métodos de análisis de circuitos ferromagnéticos
+&& Entrehierros en circuitos ferromagnéticos
+&& Estructuras ferromagnéticas, con varias bobinas de excitación
+&& Circuitos magnéticos, con saturación magnética
+& Estructuras ferromagnéticas excitadas en corriente alterna
+&& Ley de inducción electromagnética de Faraday
+&& Relaciones entre tensión aplicada, tensión inducida y flujo magnético
+&& Forma de onda de la corriente de excitación
+&& Energía almacenada en el núcleo ferromagnético
+&& Pérdida de energía en el núcleo ferromagnético
+&& Modelo de la corriente de excitación no senoidal, armónicas impares
+&& Cálculo de los parámetros de un reactor con núcleo ferromagnético
+& Transformadores monofásicos
+&& Tipos de transformadores de distribución aéreos, subterráneos, sumergibles, convencionales y de pedestal
+&& El transformador ideal
+&& Polaridad de los transformadores
+&& Transformadores aditivos y sustractivos
+&& El transformador real: núcleos laminados, flujos de dispersión, y pérdidas en el núcleo
+&& Circuito del transformador real y diagramas fasoriales
+&& Cálculo de parámetros del transformador real
+&& Regulación de tensión del transformador
+&& Eficiencia, y eficiencia máxima del transformador
+&& Sistema en por unidad
+&& Datos de placa
+&& Autotransformador
+&& Conexión en paralelo de transformadores Intercambiador de derivaciones (tomas regulables bajo carga
+& Transformadores trifásicos
+&& Conexiones simétricas: estrella-estrella, delta-delta, delta-estrella, estrella-delta, estrella-zigzag
+&& Conexión en paralelo Índice horario
+&& Conexiones asimétricas: estrella renca - delta abierta, conexión en T, conexión de Scott
+&& Datos de placa
+&& Autotransformador
+&& Transformadores de tres devanados
+& Motor trifásico de inducción
+&& Principio de funcionamiento
+&& Ley de Ampere
+&& Ley de Faraday-Lenz
+&& Fuerza de Lorentz
+&& Construcción de las partes principales de una máquina eléctrica rotativa
+&& Velocidad del campo magnético rotatorio, velocidad mecánica, deslizamiento y frecuencia en el rotor
+&& Circuito equivalente
+&& Par desarrollado en función del deslizamiento
+&& Curva característica: arranque directo
+&& Descripción de datos de la placa característica
+&& Métodos de arranque por resistencias estatóricas, estrella-delta, devanado partido, auto transformador, resistencia rotórica y arranque suave
+&& Métodos de control de velocidad y variador de frecuencia
+&& Pérdidas eléctricas, mecánicas, magnéticas y eficiencia
+& Motor monofásico de inducción
+&& Construcción y modelado dinámico de la máquina
+&& Principio de funcionamiento (doble campo magnético rotatorio):
+&& Tipos de motores:
+&& Fase partida
+&& Capacitor de arranque
+&& Capacitor permanente
+&& Doble capacitor
+&& Polos sombreados
+& Generador de inducción trifásico, auto-excitado
+&& Tipos de generadores de inducción
+&& Circuito equivalente
+&& Capacitor de excitación
+&& Desempeño del generador, conectado a una red de potencia infinita
+&& Desempeño del generador, conectado en forma aislada
+"
+IEE0703,"
+& Circuito monofásico trifilar
+& Medición de potencia: conexión en estrella balanceada y desbalanceada
+& Medición de potencia: conexión en delta balanceada y desbalanceada
+& Mejoramiento del factor de potencia en redes trifásicas
+& Transformador monofásico: corto circuito, circuito abierto, polaridad y saturación
+& Transformador monofásico: regulación de tensión
+& Autotransformadores: pruebas de corto circuito y circuito abierto
+& Conexiones trifásicas de transformadores
+& Conexión de devanados estatóricos
+& Motor trifásico de jaula de ardilla y rotor devanado
+& Control de velocidad con variadores de frecuencia
+& Motores monofásicos de inducción con doble capacitor
+& Pruebas de rotor bloqueado en motor trifásico de inducción
+& Generador asincrónico
+"
+AUT0704,"
+& Introducción a los sistemas de control 
+&& Conceptos básicos: Lazo abierto, Lazo cerrado, Realimentación, Estabilidad
+&& Objetivos: Análisis de sistemas y Diseño de controladores
+&& Ejemplos de sistemas de control 
+&& Definición de dominios de frecuencia y tiempo
+& Análisis de sistemas en el dominio temporal 
+&& Entradas del sistema  
+&& Sistemas de primer orden 
+&& Sistemas de segundo orden 
+&& Sistemas de orden superior  
+&& Tipo de sistemas 
+&& Estabilidad 
+&& Diseño de controladores en el dominio temporal 
+&& Diseño de controladores mediante el lugar de raíces
+&& Compensación de adelanto
+&& Compensación de retraso
+&& Compensación de retraso-adelanto
+& Análisis de sistemas en el dominio de la frecuencia 
+&& Representación de Funciones de Transferencia en el Dominio de la frecuencia
+&& Diagrama de Bode
+&& Diagrama Polar
+&& Lugar de las raíces 
+&& Criterio de Estabilidad de Nyquist
+&& Estabilidad Relativa: márgenes de fase y de ganancia
+&& Especificaciones en frecuencia de los sistemas: ancho de banda, resonancia
+&& Sistemas de segundo orden Relación respuesta temporal y en frecuencia
+&& Respuesta en frecuencia en Lazo Cerrado Diagrama de Nichols
+&& Determinación Experimental de Funciones de Transferencia: método, casos especiales, consideraciones prácticas
+& El controlador PID 
+&& Estructura del controlador: Elementos básicos, propiedades y diferentes representaciones
+&& Controlador Proporcional, definición, usos y propiedades
+&& Controlador Integral, definición, usos y propiedades
+&& Controlador Derivativo, definición, usos y propiedades
+&& Controladores PI, PD, PID, definición, usos y propiedades
+&& Implementación Digital
+&& Forma incremental
+&& Errores de cuantización
+&& Utilización del PID
+&& PIDs comerciales
+&& Métodos de sintonía experimentales y analíticos
+& Análisis y diseño de sistemas de control  en el espacio de estados
+&& Representaciòn en espacion de estado
+&& Transformación de modelos 
+&& Controlabilidad y Observabilidad
+&& Diseño de controladores en espacio de estados
+&& Diseño de servo sistemas en espacio de estados
+&& Observadores de estado
+&& Diseño de reguladores y controladores con observadores
+& Implementación real de los sistemas de control 
+&& Control Analógico: circuitos electrónicos de control, filtrado analógico de ruido
+&& Transformada z
+&& Control Digital: estructura, discretización del controlador, periodo de muestreo, aliasing, filtrado digital del ruido
+&& Diseño de sistemas de control en tiempo discreto con métodos convencionales
+"
+AUT0705,"
+& Introducción a los microcontroladores
+&& Arquitectura básica: CPU, memoria, periféricos
+&& Familias de microcontroladores: diferencias entre arquitecturas de 8, 16 y 32 bits
+&& Herramientas de desarrollo: compiladores, IDEs, simuladores, y depuradores
+&& Enfoque en la configuración de registros: ¿Qué son los registros y cómo se usan para controlar el hardware?
+& Programación en lenguaje C para microcontroladores
+&& Sintaxis básica y estructuras de control
+&& Variables: declaración, tipos de datos (int, char, float, entre otros), alcance (local y global), y modificadores (const, volatile)
+&& Uso de punteros y direcciones de memoria para acceder a registros
+&& Manipulación de bits: operaciones AND, OR, XOR, y desplazamientos
+& GPIO (Entradas y Salidas Digitales)
+&& Configuración de registros para definir pines como entrada o salida
+&& Lectura y escritura de pines GPIO
+&& Uso de resistencias pull-up y pull-down
+& Interrupciones
+&& Configuración de registros para habilitar interrupciones
+&& Manejo de vectores de interrupción
+& Temporizadores (timers) y contadores (counters)
+&& Configuración de registros para temporizadores y contadores
+&& Uso de temporizadores para generar retardos y medición de tiempo
+&& Uso de contadores para eventos externos
+& Comunicación serial
+&& Configuración de registros para comunicación UART, SPI e I2C
+&& Transmisión y recepción de datos en UART: Ejemplo práctico de comunicación entre microcontrolador y PC
+&& Transmisión de datos en SPI
+&& Transmisión de datos en I2C
+& Conversión Analógica-Digital (ADC) y Digital-Analógica (DAC)
+&& Configuración de registros para el módulo ADC
+&& Lectura de valores analógicos y su conversión a valores digitales
+&& Configuración de registros para el módulo DAC
+&& Generación de señales analógicas a partir de valores digitales
+& Modulación por Ancho de Pulso (PWM)
+&& Configuración de registros para generar señales PWM
+&& Control de motores DC y servomotores
+& Memoria
+&& Tipos de memoria en microcontroladores: Flash, RAM, EEPROM
+&& Configuración y manejo de memoria Flash y EEPROM
+& Reloj en Tiempo Real (RTC)
+&& Configuración de registros para el módulo RTC
+&& Uso del RTC para medición de tiempo y fechas
+& Acceso Directo a Memoria (DMA)
+&& Configuración de registros para el módulo DMA
+&& Uso del DMA para transferencias de datos sin intervención de la CPU
+& Watchdog Timer
+&& Configuración de registros para el Watchdog Timer
+&& Uso del Watchdog Timer para prevenir bloqueos del sistema
+"
+IMM0706,"
+& Introducción al diseño en Ingeniería Mecánica 
+&& Fases e interacciones del proceso de diseño
+&& Economía, seguridad, estándares y códigos
+&& Incertidumbre, factor de diseño y de seguridad
+&& Confiabilidad y probabilidad de falla
+&& Dimensiones y tolerancias
+& Materiales de ingeniería y su caracterización
+&& Resistencia y rigidez del material
+&& Deformación plástica y trabajo en frío
+&& Dureza, resistencia al impacto
+&& Tratamiento térmico del acero 
+&& Aceros aleados e inoxidables
+&& Metales no ferrosos
+&& Materiales poliméricos
+&& Materiales compuestos
+& Análisis de esfuerzo y deformación, 
+&& Fuerza cortante y momentos flectores en vigas
+&& Esfuerzo, componentes cartesianos del esfuerzo
+&& Círculo de Mohr de esfuerzo plano
+&& Esfuerzo tridimensional general
+&& Esfuerzo normales y cortantes en vigas a flexión
+&& Torsión
+&& Concentración del esfuerzo
+& Deflexión y rigidez
+&& Índices de resorte
+&& Tensión, compresión y torsión
+&& Deflexión debida a flexión
+&& Métodos de deflexión en vigas (superposición, funciones de singularidad)
+&& Energía de deformación
+&& Teorema de Castigliano
+& Falla resultante por carga estática 
+&& Teoría de esfuerzo cortante máximo para materiales dúctiles
+&& Teoría de la energía de distorsión de materiales dúctiles
+&& Teoría de Mohr-Coulomb de materiales dúctiles
+&& Teoría del esfuerzo normal máximo de materiales frágiles
+&& Modificaciones de la teoría de Mohr para materiales frágiles 
+& Fallas por fatiga debidas a cargas variables
+&& Formación y propagación de grietas
+&& Métodos de fatiga-vida 
+&& Método de mecánica de la fractura lineal elástica
+&& Método de deformación-vida 
+&& El método esfuerzo-vida y el diagrama S-N
+&& Diagrama S-N idealizado para aceros
+&& Concentración del esfuerzo y sensibilidad a la muesca
+&& Caracterización y diagramas de esfuerzos fluctuantes
+&& Curvas de vida constante
+&& Criterios de falla por fatiga   
+& Diseño de ejes y sus componentes
+&& Materiales y disposición del eje
+&&  Diseño de ejes para esfuerzo
+&& Consideraciones sobre deflexión
+&& Velocidades críticas de ejes
+&& Diversos componentes de los ejes
+&& Límites y ajustes 
+& Rodamientos de contacto rodante
+&& Tipos de cojinetes
+&& Tiempo de vida de un cojinete
+&& Vida útil de la carga de los cojinetes a confiabilidad nominal
+&& Confiabilidad contra tiempo de vida: distribución de Weibull
+&& Relación entre carga, tiempo de vida y confiabilidad
+&& Carga radial y de empuje combinadas y carga variable
+&& Selección de cojinetes de contacto rodante, lubricación, montaje y cubierta
+& Rodamientos de contacto deslizante y lubricación
+&& Tipos de lubricación
+&& Viscosidad
+&& Ecuación de Petroff
+&& Lubricación estable y  de película gruesa
+&& Teoría hidrodinámica
+&& Holgura
+&& Cargas y materiales
+&& Tipos de cojinetes
+&& Cojinetes lisos cargados dinámicamente
+&& Cojinetes de lubricación límite
+& Engranajes descripción general y trenes de engranajes
+&& Tipos, nomenclatura, acción conjugada, involuta
+&& Interferencia, manufactura
+&& Engranajes cónicos rectos
+&& Engranajes helicoidales paralelos
+&& Engranajes de tornillo sinfín
+&& Sistemas de dientes
+&& Trenes de engranajes
+& Tornillos, sujetadores y diseño de juntas no permanentes
+&& Estándares y definiciones de roscas
+&& Mecánica de los tornillos de potencia
+&& Sujetadores roscados
+&& Uniones: rigidez de los sujetadores
+&& Uniones: rigidez del miembro
+&& Resistencia del perno
+&& Uniones en tracción: la carga externa
+&& Relación del par del perno con la tracción del perno
+&& Unión en tracción cargada estáticamente con precarga
+&& Uniones con empaquetadura
+&& Carga de fatiga sobre las uniones en tracción
+&& Uniones atornilladas y remachadas  cargadas en cortante
+& Soldadura, adhesión y diseño de uniones permanentes
+&& Símbolos de soldadura
+&& Soldaduras a tope y de filete
+&& Esfuerzos en uniones soldadas sujetas a torsión
+&& Esfuerzos en uniones soldadas sujetas a flexión
+&& Resistencia de las uniones soldadas
+&& Carga estática
+&& Carga por fatiga
+&& Soldadura por resistencia
+&& Uniones con adhesivo 
+& Resortes mecánicos
+&& Esfuerzos en resortes helicoidales
+&& Efecto de curvatura
+&& Deflexión de resortes helicoidales
+&& Resortes de compresión
+&& Estabilidad
+&& Materiales para fabricar resortes
+&& Diseño de un resorte de compresión helicoidal para servicio estático
+&& Frecuencia crítica de los resortes helicoidales
+&& Carga de fatiga de resortes de compresión helicoidales
+&& Diseño de resortes de compresión helicoidal para carga por fatiga
+&& Resortes de extensión
+&& Resortes de torsión helicoidales
+&& Resortes Belleville
+&& Resortes diversos
+& Elementos mecánicos flexibles
+&& Bandas
+&& Transmisiones por banda plana  y redonda
+&& Bandas en V
+&& Bandas dentadas
+&& Cadena de rodillos
+&& Cables metálicos
+&& Flechas flexibles
+"
+IMM0707,"
+& Fundamentos de termodinámica y transferencia de calor 
+&& Principios básicos de la termodinámica
+&& Mecanismos de transferencia de calor
+& Propiedades de los fluidos y mecánica de fluidos aplicada 
+&& Propiedades de los fluidos y ecuaciones de estado 
+&& Análisis de flujo de fluidos en sistemas térmicos
+& Sistemas de ventilación y aire comprimido 
+&& Principios de ventilación y diseño de sistemas 
+&& Aplicaciones en la industria y la construcción
+& Sistemas de refrigeración y aire acondicionado 
+&& Ciclos de refrigeración y termodinámica aplicada 
+&& Diseño de sistemas de refrigeración 
+&& Diseño de sistemas de aire acondicionado
+& Modelado y Simulación de sistemas térmicos
+&& Herramientas de modelado computacional
+&& Simulaciones para optimización de diseños
+& Evaluación de eficiencia energética en sistemas electromecánicos 
+&& Criterios de eficiencia y análisis energético 
+&& Estrategias de optimización energética
+"
+IMM0708,"
+Introducción a la metrología térmica e instrumentos de medición
+Determinación de propiedades termodinámicas de sustancias
+Evaluación experimental de ciclos termodinámicos simples
+Transferencia de calor: conducción, convección y radiación
+Determinación del coeficiente de transferencia de calor
+Evaluación de intercambiadores de calor
+Uso de software para análisis térmico
+"
+IEE0802,"
+& Alternador sincrónico
+&& Principio de funcionamiento
+&& Construcción de las partes principales
+&& Tipos de rotor
+&& Sistemas de control de máquinas sincrónicas
+&& Excitación de alternadores (con escobillas, sin escobillas)
+&& Principios de funcionamiento y curva de magnetización
+&& Modelo en régimen permanente y diagramas fasoriales
+&& Ecuaciones para modelado
+&& Inductancias propias de la máquina sincrónica
+&& Transformación de Park
+&& Diagramas fasoriales
+&& Ecuaciones de potencia activa y reactiva
+&& Límites de estabilidad
+&& Sistema pu de la máquina sincrónica
+&& Alternador en funcionamiento aislado
+&& Regulación de tensión y factor de potencia
+&& Saturación de la máquina sincrónica
+&& Características de saturación de circuito abierto
+&& Características de saturación del entrehierro y cortocircuito
+&& Pérdidas eléctricas, mecánicas, magnéticas y eficiencia
+&& Modelado de saturación en sistemas de potencia (S10 y S12)
+&& Curva de capacidad de la máquina
+&& Generadores operando en paralelo de forma aislada
+&& Generador en funcionamiento en una red de potencia infinita
+&& Análisis de generadores considerando: efecto del gobernador y efecto de la excitación
+&& Operación del generador conectada a una barra infinita
+& Motor Sincrónico
+&& Principio de funcionamiento
+&& Modelo en régimen permanente y diagramas fasoriales
+&& Par desarrollado
+&& Curvas V y control del factor de potencia
+&& Pérdidas eléctricas, mecánicas, magnéticas y eficiencia
+&& Datos de placa
+&& Condensador sincrónico
+& Máquinas de corriente directa
+&& Principio de funcionamiento
+&& Partes constructivas (estator, rotor, colector, escobillas, etc)
+&& Modelo matemático de flujos y corrientes de devanados
+&& Tensión inducida en una espira giratoria
+&& Par inducido por una espira giratoria
+&& El proceso de conmutación
+&& Problemas de conmutación
+&& Desplazamiento de escobillas, interpolos y devanados de compensación
+& Generador de corriente directa
+&& Construcción
+&& Principio de funcionamiento
+&& Generación en una espira
+&& Generación en una armadura
+&& Conmutación
+&& Reacción de armadura
+&& Métodos para disminuir la reacción de armadura
+&& Desplazamiento de escobillas
+&& Polos de conmutación
+&& Bobinados de compensación
+&& Método de excitación de campo
+&& Generador excitación independiente
+&& Características
+&& Generador auto excitadas
+&& Conexión shunt
+&& Conexión serie
+&& Conexión compuesto-acumulativa
+&& Conexión compuesto-diferencial
+&& Eficiencia
+&& Datos de placa
+&& Escobillas
+& Motores de corriente directa
+&& Principio de funcionamiento
+&& Producción de par y circuito equivalente
+&& Motor excitación independiente
+&& Motor excitación paralela (Shunt)
+&& Motor excitación serie
+&& Motor excitación compuesta acumulativa
+&& Motor excitación compuesta diferencial
+&& Eficiencia
+&& Control de velocidad
+&& Datos de placa
+& Maquinas eléctricas especiales
+&& Motor universal
+&& Servomotores
+&& Motor a pasos
+&& Motores lineales
+& Fundamentos y convertidores de electrónica de potencia
+&& Introducción a la electrónica de potencia y su importancia en la conversión de energía
+&& Principio de funcionamiento y aplicaciones de variadores de velocidad
+&& Convertidores AC/DC (rectificadores): funcionamiento, tipos y aplicaciones
+&& Convertidores DC/DC (choppers): clasificación, regulación de tensión y aplicaciones
+& Convertidores avanzados y aplicaciones
+&& Convertidores DC/AC (inversores): tipos, control y aplicaciones en energías renovables
+&& Convertidores AC/AC: cicloconvertidores y reguladores de tensión
+&& Selección y análisis de dispositivos de conmutación en convertidores de potencia
+&& Aplicaciones prácticas y tendencias en electrónica de potencia
+"
+IEE0803,"
+& Alternadores sincrónicos aislados
+& Pruebas de la máquina sincrónica (reactancia y resistencia armadura)
+& Curva de capacidad del alternador
+& Alternador sincrónico en RED
+& Motores sincrónicos curvas en V
+& Motor sincrónico condensador sincrónico
+& Generador corriente directa: conexión shunt e independiente
+& Generador corriente directa: conexión compuesta
+& Motor corriente directa: conexión shunt
+& Motor corriente directa: conexión compuesta
+& Motor corriente directa: métodos de control de velocidad
+& Motor a pasos
+& Servomotor
+& Motor universal
+"
+AUT0804,"
+& Introducción a los sistemas de eventos discretos
+&& Conceptos básicos de sistemas de eventos discretos
+&& Comparación con sistemas continuos
+&& Aplicaciones y ejemplos prácticos
+& Modelado con máquinas de estados
+&& Definición y tipos de máquinas de estados
+&& Diagramas de estados y transiciones
+& Redes de colas
+&& Introducción a las redes de colas
+&& Modelado y análisis de sistemas de colas
+&& Aplicaciones en sistemas de control y automatización
+& Máquinas de estado
+&& Introducción a máquinas de estado
+&& Integración de máquinas de estado utilizando Stateflow de Simulink
+&& Generación de código
+& Redes de Petri
+&& Introducción a las redes de Petri
+&& Propiedades dinámicas y estáticas de las redes de Petri 
+&& Ecuación característica y matriz de transición
+&& Modelado y análisis de sistemas con redes de Petri
+& Especificación de controladores según norma IEC 60848
+&& Levantamiento de requerimientos
+&& Estructuras de control
+&& Especificación de entradas y salidas
+&& Jerarquías
+& Lenguajes estandarizados de programación según IEC 61131-3
+&& Texto estructurado
+&& Nemotécnico
+&& Diagramas de escalera
+&& Bloque de funciones
+&& Sequential function chart (GRAFCET)
+&& Implementación de los lenguajes en PLCs
+& Implementación de lenguajes de programación
+&& Implementación de controladores en PLCs
+&& Implementación de controladores en microcontroladores
+"
+AUT0805,"
+& Programación de PLC con IEC 61131 con lenguajes escalera
+& Programación de PLC con IEC 61131 con SFC
+& Configuración de PLC, buses de campo, AS-i, Profibus
+& Sintonización de PID en PLCs
+& Implementación de controladores PID en microcontroladores 
+& Diseño de controladores con lugar geométrico de las raíces y SISOTOOL
+& Diseño de compensadores por medio análisis de respuesta en frecuencia
+& Diseño de controladores con modelo de control predictivo (MPC)
+"
+INS0801,"
+& Introducción
+&& Introducción al análisis de los sistemas eléctricos de potencia
+&& Perspectivas generales de los sistemas de transmisión y distribución de energía eléctrica 
+&& Desafíos y oportunidades
+& Elementos de modelado de sistemas eléctricos de potencia
+&& Centrales eléctricas 
+&& Generador sincrónico: modelo y parámetros
+&& Transformador de potencia: modelo y parámetros
+&& Elementos de compensación de potencia reactiva
+&& Subestaciones eléctricas
+&& Cargas estáticas y dinámicas
+&& Sistema pu
+& Elementos estáticos de las redes eléctricas
+&& Líneas aéreas
+&& Líneas subterráneas
+&& Resistencia, inductancia, capacitancia y conductancia de la línea de transmisión
+&& Modelado de la línea de transmisión 
+& Modelado de las líneas de transmisión
+&& Modelo de la línea corta
+&& Modelo de la línea media
+&& Modelo de la línea larga
+& Modelado de componentes de los sistemas de distribución
+&& Líneas eléctricas aéreas y subterráneas
+&& Transformadores 
+&& Demanda 
+&& Generación distribuida e inversores 
+&& Sistemas de almacenamiento 
+&& Vehículos eléctricos  
+& Métodos de análsis de flujos de potencia
+&& Planteamiento del problema de flujo de potencia
+&& Aplicación de Gauss Seidel
+&& Aplicación de Newton Rapson
+&& Aplicación de Desacoplado rápido
+&& Aplicación de Flujo de potencia DC
+&& Reconocimiento y programación en software de simulación
+& Análisis de fallas y estudio de cortocircuito
+&& Planteamiento del problema de cortocircuito
+&& Componentes simétricos 
+&& Síntesis de vectores desequilibrados a partir de componentes simétricos
+&& Operadores, componentes simétricos de vectores asimétricos
+&& Potencia en función de los componentes simétricos
+&& Impedancias de secuencia y redes de secuencia
+&& Fallas no simétricas 
+&& Análisis de fallas monofásicas, bifásicas y trifásicas
+&& Interpretación de las redes de secuencia interconectadas
+&& Análisis de fallas asimétricas utilizando la matriz de impedancias de barras
+& Operación de sistemas de redes inteligentes de distribución
+&& Sistemas avanzados para la gestión de la distribución 
+&& Flujos de potencia y el estimador de estados 
+&& Control de tensión y potencia reactiva 
+&& Análisis de cortocircuito simétrico y asimétrico
+&& Esquemas de protección y gestión de fallas
+&& Coordinación de recursos energéticos distribuidos
+&& Coordinación operativa entre transmisión y distribución
+& Análisis de condiciones anormales en la red
+&& Sobretensiones por descargas atmosféricas 
+&& Origen de las descargas atmosféricas
+&& Variaciones del campo eléctrico y formación de rayos
+&& Pararrayos y zonas de protección, y modelo electro-geométrico
+&& Parámetros eléctricos de las descargas y energía descargada
+&& Blindaje
+&& Sobretensiones por maniobra
+&& Sobretensiones temporales y sobretensiones de frente lento
+&& Sobretensiones de frente rápido y sobretensiones de frente muy rápido
+&& Mecanismos de protección y perturbaciones de baja frecuencia
+&& Perturbaciones de alta frecuencia y problemas por baja tensión
+& Conceptos y aplicaciones de las redes inteligentes
+&& Comunicaciones eléctricas y ciberseguridad  
+&& Manejo de demanda dinámica y medidores inteligentes 
+&& Automatización de sistemas de distribución 
+&& Sistemas de almacenamiento y electrónica de potencia
+"
+INS0806,"
+& Tipos de instalaciones eléctricas en baja tensión
+&& Circuito monofásico trifilar 
+&& Circuitos trifásicos 
+& Selección de conductores
+&& Según su aplicación
+&& Según su ampacidad
+&& Según la caída de voltaje
+&& Según la temperatura de operación y temperatura ambiente
+&& Según el número de conductores
+&& Según se encuentre al aire libre o en canalizaciones
+&& Otros criterios
+& Cálculo de circuitos ramales para diferentes tipos de cargas eléctricas
+&& Selección de conductores vivos, neutros y conductores de puesta a tierra
+&& Factores de demanda
+&& Selección de protecciones térmicas y termomagnéticas
+& Seguridad en instalaciones eléctricas y puesta a tierra
+&& Tolerancia del ser humano a la electricidad, tiempo y niveles máximos de exposición, el tiempo máximo permitido para el funcionamiento de las protecciones
+&& Puesta a tierra y operación de las protecciones
+&& Puesta a tierra y neutro, conexión según CEN
+&& Cálculo del conductor de puesta a tierra y del conductor del electrodo de puesta a tierra
+&& Diferentes sistemas de puesta a tierra
+& Dimensionamiento de alimentadores y acometidas para diferentes tipos de cargas eléctricas
+&& Conceptos de carga instalada, carga demandada, factor de carga y manejo de carga
+&& Factores de simultaneidad y diversidad
+&& Dimensionamiento de acometidas (áreas y subterráneas) y transformadores
+&& Selección de conductores vivos, neutros y conductores de puesta a tierra
+&& Selección de protecciones térmicas y termomagnéticas
+&& Dimensionamiento del transformador y su cargabilidad según normas
+&& Protección de Transformadores
+& Corrección del factor de potencia
+&& Importancia
+&& Opciones de corrección (instalación de un banco capacitores o capacitor)
+& Estudio de corto circuito (cálculo manual)
+&& Teoría de la corriente simétrica y asimétrica al corto circuito
+&& Corto circuito en baja tensión: Método de la impedancia equivalente
+&& Corto circuito en baja tensión: Método de los KVA´s equivalentes
+& Coordinación de protecciones
+&& Teoría y conceptos de la respuesta selectiva de las protecciones
+&& Curvas características de las protecciones eléctricas
+& Principios de luminotecnia y diseño de sistemas de iluminación
+&& Teoría y conceptos de luminotecnia
+&& Tipos de luminarias y sus datos técnicos
+&& Métodos de diseño de iluminación:
+&& Lúmenes
+&& Cavidades zonales
+&& Punto por punto
+& Calidad de la energía eléctrica
+&& Niveles de calidad normados por la Autoridad Reguladora de los Servicios Públicos (ARESEP) en voltaje, corriente, frecuencia, distorsión armónica, etc
+&& Distorsión armónica, transitorios y métodos de mitigación de sus efectos
+& Planos y especificaciones
+&& Simbología
+&& Normativa
+&& Conformación de los planos
+"
+INS0807,"
+& Sistemas de Aire Comprimido
+&& Tipos de compresores: funcionamiento, enfriadores, purgadores y mantenimiento
+&& Dispositivos e instrumentación de redes de aire comprimido
+&& Cálculo y diseño de sistemas de aire comprimido
+&& Normativa aplicable (ISO 8573, OSHA, NFPA 99, ASME PTC 9)
+&& Eficiencia energética y sostenibilidad
+&& Mantenimiento de sistemas de aire comprimido
+& Sistemas de Ventilación
+&& Ventiladores: Tipos, funcionamiento, curvas características
+&& Dispositivos e instrumentación de redes de sistemas de ventilación
+&& Cálculo y diseño de sistemas de ventilación mecánica
+&& Sistemas de extracción de contaminantes y control de calidad del aire
+&& Normativa aplicable (ASHRAE 621, NFPA 90A, ISO 14644, EN 16798-3)
+&& Eficiencia energética y sostenibilidad
+&& Mantenimiento de sistemas de aire comprimido
+"
+INS0808,"
+& Introducción al mantenimiento industrial
+&& Evolución del mantenimiento: correctivo, preventivo, predictivo y proactivo
+&& Importancia de la gestión del mantenimiento en la industria
+&& Relación con la productividad y seguridad
+& Normativas y estándares internacionales en mantenimiento
+&& ISO 17359: Mantenimiento basado en condición
+&& Otras normativas relevantes (ISO 55000, IEC 60034, ISO 20816)
+&& Cumplimiento regulatorio y mejores prácticas
+& Conceptos y principios del mantenimiento basado en condición (CBM)
+&& Beneficios del CBM frente a estrategias tradicionales
+&& Proceso de implementación en entornos industriales
+&& Integración con mantenimiento predictivo y prescriptivo
+& Análisis de vibraciones en equipos rotativos
+&& Fundamentos del análisis de vibraciones
+&& Tipos de fallos detectables mediante vibraciones
+&& Uso de sensores y software de análisis
+&& Gráficos de tendencia, determinación de alarmas con base en la norma ISO 20816
+&& Forma de onda y espectros, diferencia, FFT, parámetros de configuración
+&& Patrones de vibración: desbalance, desalineamiento, engranajes, motores eléctricos y otros
+& Termografía aplicada al mantenimiento predictivo
+&& Principios de la termografía infrarroja
+&& Identificación de fallos en componentes eléctricos y mecánicos
+&& Interpretación de imágenes térmicas y toma de decisiones
+& Ultrasonido y otras técnicas de monitoreo predictivo
+&& Aplicaciones del ultrasonido en mantenimiento
+&& Detección de fugas, lubricación y fallos en rodamientos
+& Tribología y análisis de aceites
+&& Pruebas físicas, químicas y dieléctricas
+&& Cromatografía de gases
+& Pruebas de diagnóstico eléctrico
+&& Pruebas de alta tensión
+&& Pruebas de baja tensión
+"
+INS0901,"
+& Introducción a las energías renovables y no renovables
+&& Contexto nacional internacional
+&& Tipos de energías renovables y no renovables
+&& Importancia del almacenamiento de energía
+&& Marco regulatorio
+& Energías renovables: tecnologías e integración a la red
+&& Generación hidroeléctrica 
+&& Generación geotérmica 
+&& Generación solar fotovoltaica 
+&& Generación eólica 
+&& Generación por biomasa 
+&& Generación por energía de las olas 
+& Energías no renovables 
+&& Fundamentos de la energía no renovable
+&& Tecnologías de las energías no renovables
+&& Integración a la red de las energías no renovables
+& Almacenamiento de energía: baterías electroquímicas 
+&& Tipos de baterías y sus aplicaciones
+&& Diseño y dimensionamiento de sistemas de baterías
+&& Ciclo de vida y reciclaje
+&& Integración a la red eléctrica
+& Almacenamiento de energía: hidrógeno y combustibles sintéticos 
+&& Producción y almacenamiento de hidrógeno
+&& Aplicaciones de combustibles sintéticos
+&& Integración a la red eléctrica
+& Otros tipos de almacenamiento de energía 
+&& Principios de funcionamiento del almacenamiento mecánico, químico, térmico, eléctrico   
+&& Aplicaciones prácticas y alternativas modernas de almacenamiento
+&& Comparación con otras tecnologías
+& Operación económica de la generación de electricidad 
+&& Costos y beneficios de la generación de electricidad 
+&& Distribución de cargas entre unidades de una misma central
+&& Pérdidas de transmisión en función de la producción, cálculo de los coeficientes de pérdidas, distribución de la carga entre centrales, factores de penalización
+&& Despacho económico de la generación
+& Integración de sistemas de generación y almacenamiento al sistema de potencia 
+&& Modelado y simulación de sistemas integrados
+&& Análisis de estabilidad, el problema de estabilidad
+&& Estabilidad en régimen permanente y estabilidad en régimen transitorio
+&& Ecuación de oscilación
+&& Principios de regulación de tensión y frecuencia en un sistema interconectado
+&& Estrategias de control y regulación
+&& Casos de estudio
+"
+INS0903,"
+& Fundamentos de la refrigeración y aire acondicionado
+&& Evolución de los sistemas de refrigeración y climatización
+&& Principios termodinámicos básicos
+&& Aplicaciones industriales y comerciales
+& Fundamentos termodinámicos y ciclos de refrigeración
+&& Primer y segundo principio de la termodinámica aplicados a la refrigeración
+&& Ciclo ideal de refrigeración por compresión de vapor
+&& Coeficiente de rendimiento (COP) y eficiencia de los sistemas
+& Refrigerantes y su impacto ambiental
+&& Propiedades y clasificación de los refrigerantes
+&& Impacto ambiental: ODP (ozone depletion potential) y GWP (global warming potential)
+&& Regulaciones nacionales e internacionales (protocolo de Montreal, normativa ASHRAE, etc)
+&& Refrigerantes naturales y alternativas sustentables
+& Componentes de un sistema de refrigeración
+&& Compresores: tipos y aplicaciones
+&& Condensadores: funcionamiento y clasificación
+&& Evaporadores y dispositivos de expansión
+&& Intercambiadores de calor en sistemas de refrigeración
+& Psicrometría y procesos de aire acondicionado
+&& Propiedades del aire húmedo y diagrama psicrométrico
+&& Procesos psicrométricos en acondicionamiento de aire
+&& Control de temperatura y humedad
+& Cargas térmicas en sistemas de aire acondicionado
+&& Cálculo de carga térmica sensible y latente
+&& Métodos de estimación de cargas térmicas
+&& Factores que influyen en la carga térmica (ubicación, materiales, ocupación, etc)
+&& Cálculo de diversidad
+& Selección de equipos de aire acondicionado (sistemas de expansión directa)
+&& Tipos de sistemas de aire acondicionado (paquetes, split, VRF (volumen variable de refrigerante))
+&& Selección de equipos según necesidades de climatización
+&& Parámetros de eficiencia energética en selección de sistemas
+& Selección de equipos de aire acondicionado (sistemas de agua helada)
+&& Chillers enfriados por aire vs chillers enfriados por agua
+&& Criterios de selección según aplicación y clima
+& Selección y dimensionamiento de chillers
+&& Criterios de selección según demanda térmica
+&& Análisis del coeficiente de desempeño (COP) y eficiencia energética (EER, IPLV, NPLV)
+&& Capacidad y redundancia en sistemas de grandes edificios
+& Diseño del circuito de agua helada
+&& Esquemas de distribución (primario constante, primario – secundario, primario – variable)
+&& Diseño de redes de tuberías y cálculo de pérdidas de carga
+&& Selección de bombas y su control (velocidad variable, VFD)
+&& Torres de enfriamiento: funcionamiento, clasificación y selección
+& Aplicaciones especiales de la refrigeración y climatización
+&& Refrigeración industrial (procesos, almacenamiento de alimentos)
+&& Climatización en hospitales, laboratorios y cuartos limpios
+"
+INS0904,"
+& Componentes básicos de un sistema de refrigeración real
+& Funcionamiento y fallas principales de compresores de pistón y tornillo
+& Ajuste de controles de presión y temperatura
+& Procedimientos para hacer vacío y cargar refrigerante por el lado de baja
+& Aplicación práctica de carga de refrigerante en sistemas reales
+& Operación y medición de parámetros en paneles de refrigeración
+& Simulación de fallas en sistemas de refrigeración y análisis de parámetros
+& Procedimientos de recuperación de refrigerante y normativa ambiental
+& Diagnóstico y solución de fallas en sistemas comerciales e industriales
+& Laboratorio de aire acondicionado: diagnóstico y medición de desempeño
+& Mantenimiento preventivo y correctivo en sistemas de refrigeración y aire acondicionado
+& Estudio de casos sobre fallas en refrigeración y aire acondicionado
+& Optimización del rendimiento energético en sistemas de refrigeración
+& Evaluación del desempeño de un sistema de agua helada
+"
+INS0905,"
+& Introducción a la investigación en ingeniería
+&& ¿Qué es la investigación en ingeniería?
+&& Diferencia entre investigación científica y aplicada
+&& El papel del ingeniero-investigador
+& El proceso de investigación
+&& Definición de problema
+&& Planteamiento de hipótesis
+&& Objetivos de la investigación
+& Revisión bibliográfica y búsqueda de información técnica
+&& Estrategias de búsqueda
+&& Fuentes confiables y bases de datos académicas
+&& Cómo hacer una revisión de literatura
+& Diseño de proyectos de investigación
+&& Selección del tema
+&& Justificación y delimitación del problema
+&& Diseño metodológico: cualitativo, cuantitativo o mixto
+& Ética en la investigación
+&& Principios éticos
+&& Plagio y citación adecuada
+&& Derechos de autor y propiedad intelectual
+& Metodología cuantitativa y cualitativa
+&& Métodos de recolección de datos
+&& Diseño experimental
+&& Validación y confiabilidad
+& Análisis de datos
+&& Métodos estadísticos básicos
+&& Interpretación de resultados
+&& Herramientas para análisis
+& Redacción técnica y presentación de proyectos
+&& Estructura de informes técnicos
+&& Uso adecuado de tablas, gráficas y figuras
+&& Preparación para la defensa oral del proyecto
+& Gestión de proyectos de investigación
+&& Cronograma y planificación
+&& Evaluación de riesgos
+&& Indicadores de avance y control
+& Presentación del anteproyecto de graduación
+&& Lineamientos institucionales
+&& Retroalimentación de pares
+&& Ajustes finales al anteproyecto
+"
+INS0906,"
+& Fundamentos de instalaciones mecánico-sanitarias
+&& Bombas Centrífugas: curvas características, funcionamiento, partes principales, mantenimiento
+&& Bombas desplazamiento positivo: tipos, funcionamiento, partes principales, mantenimiento
+&& Fundamentos para proyección de sistemas suministro agua
+&& Normativa costarricense para la proyección de instalaciones hidráulicas y sanitarias en edificaciones
+&& Introducción al análisis de costos y viabilidad económica del perfil del proyecto mecánico sanitario
+& Diseño de sistemas de agua potable e hidrónico
+&& Demanda de agua
+&& Redes de distribución
+&& Movimiento del agua en tuberías a presión
+&& Método para la estimación de caudal
+&& Método para estimación de diámetro de las tuberías
+&& Métodos para proporcionar presión independiente y la determinación de las presiones de trabajo y los niveles de agua en el tanque hidroneumático 
+&& Normativa costarricense e internacional
+&& Especificación técnica y planos constructivos
+& Diseño de sistemas de aguas servidas
+&& Caudales de diseño de recolección de aguas servidas
+&& Redes de distribución
+&& Movimiento del agua en tuberías a presión
+&& Método para la estimación de caudal
+&& Método para estimación de diámetro de las tuberías
+&& Sistemas de bombeo para aguas servidas
+&& Normativa costarricense e internacional
+&& Especificación técnica y planos constructivos
+& Sistemas contra incendios
+&& Introducción a tipos de sistemas contra incendios
+&& Sistemas de supresión por agua
+&& Normativa costarricense e internacional
+& Estrategias de eficiencia energética en instalaciones sanitarias
+&& Optimización de consumo de agua y bombeo
+&& Tecnologías emergentes para la sostenibilidad
+"
+INS0907,"
+& Curvas características típicas de bombas
+&& Definición y clasificación de bombas
+&& Cálculo de potencia de entrada y salida
+&& Cálculo de eficiencia de una bomba
+&& Desarme y análisis de funcionamiento de diferentes tipos de bombas
+& Compresores reciprocantes y rotativos
+&& Evaluación del rendimiento de compresores de pistón, tornillo y paletas
+&& Cálculo de caudal, potencia y eficiencia en compresores
+&& Desarme y ensamblaje de compresores para análisis de sus componentes
+& Ventiladores y turbinas
+&& Caracterización experimental de ventiladores centrífugos y axiales
+&& Análisis de eficiencia de turbinas Francis y de acción mediante ensayos
+&& Cálculo de potencia de entrada y salida en sistemas de generación hidráulica
+& Válvulas y dispositivos auxiliares
+&& Principio de funcionamiento y experimentación con válvulas de control de flujo
+&& Evaluación de reguladores de presión y dispositivos de filtración
+&& Análisis de comportamiento de sistemas con diferentes configuraciones de válvulas
+"
+INS0908,"
+& Introducción a sistemas de vapor
+&& Propiedades de sustancias puras
+&& La importancia del vapor en la industria
+&& Componentes del sistema de vapor
+& Combustibles y combustión
+&& Funcionamiento de la combustión y su eficiencia
+&& Medición de la eficiencia y diseño de chimeneas
+& Calderas y distribución de vapor
+&& Tipos de calderas y su funcionamiento
+&& Selección y mantenimiento de calderas
+&& Dimensionamiento de tuberías para distribución de vapor
+&& Especificación técnica y planos constructivos 
+& Tipos de usuarios de vapor
+&& Operación de turbinas de vapor
+&& Selección de usuarios de vapor
+&& Sistemas de calentamiento
+&& Instrumentación y control de temperatura
+& Tratamiento de aguas de calderas
+&& Parámetros, métodos y equipos para el tratamiento del agua
+&& Eficiencia térmica del sistema de vapor y prevención de corrosión
+&& Especificación técnica y planos constructivos 
+& Sistemas de recuperación de condensados
+&& Tipos de trampas de vapor
+&& Selección de trampas de vapor
+&& Dimensionamiento de tuberías de retorno de condensados
+&& Cálculo de pérdidas y recuperación de energía
+&& Especificación técnica y planos constructivos 
+& Ahorro de energía en sistemas de vapor y proyectos en vapor
+&& Estrategias para la optimización de la eficiencia de sistemas de vapor
+&& Evaluación de costos y mejora de eficiencia
+"
+INS0909,"
+& Métodos de medición de temperatura en sistemas de vapor
+&& Termómetros de vidrio y mercurio
+&& Termómetro de bulbo y capilar
+&& Termómetro de resistencia
+&& Termistores y termopares
+& Medición de eficiencia en sistemas de combustión y generación de vapor
+&& Parámetros de combustión
+&& Medición del exceso de aire
+&& Evaluación visual de la llama
+&& Instrumentación para análisis de gases de combustión
+& Reconocimiento y funcionamiento de calderas
+&& Partes y funcionamiento de una caldera pirotubular
+&& Partes y funcionamiento de una caldera acuotubular
+&& Controles eléctricos y de seguridad en calderas
+& Quemadores y control de combustión
+&& Tipos de quemadores: vapor atomizante, aire atomizante, mecánicos
+&& Métodos de regulación de la combustión
+&& Análisis del desempeño térmico de un quemador
+& Trampas de vapor: identificación y evaluación de eficiencia
+&& Clasificación de trampas de vapor (termostáticas, mecánicas y termodinámicas)
+&& Métodos de detección de fallas en trampas de vapor
+&& Evaluación de eficiencia en trampas mediante medición de temperatura y flujo
+& Análisis de calidad del agua en calderas
+&& Medición de dureza del agua
+&& Evaluación del pH del agua en sistemas de vapor
+&& Métodos de tratamiento y acondicionamiento del agua para calderas
+& Inspección y pruebas de seguridad en calderas
+&& Revisión del Reglamento Nacional de Calderas
+&& Prueba en frío y prueba hidrostática
+&& Inspección operativa y análisis de eficiencia térmica
+& Diagnóstico de sistemas de vapor en aplicaciones industriales
+&& Diagnóstico de fallas en sistemas de vapor
+&& Análisis de pérdida de energía en líneas de distribución
+&& Técnicas para la optimización del consumo de vapor en procesos
+& Turbinas de vapor: reconocimiento y evaluación de eficiencia
+&& Identificación de partes de una turbina de vapor
+&& Procedimientos de encendido y apagado de turbinas
+&& Evaluación del flujo de condensado y desempeño energético
+"
+INS1003,"
+& Introducción a la Gestión de la Energía
+&& Contexto global y tendencias
+&& Fundamentos de eficiencia energética
+&& Conceptos de energía útil, primaria, final y neta
+&& Legislación energética y ambiental
+&& Incentivos y políticas públicas
+&& Responsabilidad corporativa y sostenibilidad
+& Modelos de gestión de energía
+&& Gestión basada en ciclo de mejora continua (PDCA)
+&& Políticas energéticas institucionales
+&& Norma ISO 50001 – requisitos del sistema de gestión
+&& Ejemplos de implementación industrial
+& Auditorías energéticas
+&& Tipos de auditoría
+&& Etapas, instrumentos y metodologías
+&& Norma ISO 50002 – auditorías energéticas
+& Balances de energía
+&& Principios del balance energético
+&& Mapas de flujo de energía (Energy Flow Diagram)
+&& Eficiencia y pérdidas por proceso
+& Balance de masa y análisis energético
+&& Aplicación en procesos térmicos e industriales
+&& Identificación de puntos críticos de mejora
+& Indicadores energéticos (EnPIs)
+&& Tipos de indicadores (intensidad, productividad)
+&& Línea base energética (EnB)
+&& Uso de regresión estadística y normalización
+&& Norma ISO 50006 – indicadores energéticos
+& Oportunidades de conservación de energía (OCES)
+&& Tecnologías de eficiencia energética
+&& Evaluación técnica y económica
+&& Casos de estudio por sector (industrial, edificaciones, transporte)
+& Energías renovables
+&& Solar térmica y fotovoltaica
+&& Eólica y minihidráulica
+&& Biomasa y biogás
+&& Almacenamiento energético
+&& Integración con redes (smart grids, microrredes)
+&& Tendencias futuras
+& Huella de carbono y gestión de emisiones
+&& Cálculo de emisiones (alcances 1, 2 y 3)
+&& Metodologías GHG Protocol e ISO 14064
+&& Carbono neutralidad
+& Huella hídrica
+&& Componentes (azul, verde, gris)
+&& Cálculo y estrategias de reducción
+"
+INS1005,"
+& Aplicación de conocimientos del área ciencias básicas
+& Aplicación de conocimientos del área de formación profesional y habilidades interpersonales 
+& Aplicación de conocimientos del área comunicación y dibujo
+& Aplicación de conocimientos del área ingeniería mecánica y de materiales
+& Aplicación de conocimientos del área ingeniería eléctrica y electrónica
+& Aplicación de conocimientos del área automática
+& Aplicación de conocimientos del área análisis de datos
+& Aplicación de conocimientos del énfasis
+&& Instalaciones electromecánicas
+&& Aeronáutica 
+&& Sistemas ciberfísicos
+"
+INS1006,"
+& Introducción y fundamentos
+&& Concepto de ciclo de vida de instalaciones electromecánicas
+&& Etapas del ciclo de vida de un activo
+&& Importancia de la gestión del ciclo de vida en ingeniería
+& Auditorías de mantenimiento
+&& Tipos de auditoría de mantenimiento
+&& Planificación, ejecución y seguimiento
+&& Herramientas de diagnóstico y mejora continua
+& Modelos de gestión de mantenimiento
+&& Estructura de un modelo de gestión de mantenimiento
+&& Norma ISO 55000 sobre gestión de activos y su integración con el ciclo de vida del activo
+&& Indicadores clave de desempeño (KPIs)
+&& Cuadro de mando integral
+& Análisis del costo del ciclo de vida
+&& Introducción al LCCA (Life Cycle Cost Analysis)
+&& Componentes del costo del ciclo de vida
+&& Metodologías de cálculo (método del valor presente neto, tasa interna de retorno, retorno de inversión, Woodward)
+&& Norma IEC 60300-3-3: guía de aplicación del cálculo del costo del ciclo de vida útil
+& Enfoque INCOSE y pensamiento sistémico
+&& Introducción a INCOSE y su relevancia en sistemas complejos
+&& Principios del enfoque de sistemas aplicados al ciclo de vida
+&& Relación entre ingeniería de sistemas y gestión de activos
+& Transformación digital y mantenimiento
+&& Transformación digital y su impacto en el mantenimiento
+&& Internet de las Cosas (IoT) y mantenimiento inteligente
+&& Big Data y analítica aplicada a la gestión de activos
+& Toma de decisiones basada en datos
+&& Métodos de análisis de datos en mantenimiento
+&& Indicadores clave de desempeño (KPIs) en mantenimiento
+&& Uso de inteligencia artificial y machine learning en pronóstico de fallos
+& Metodologías de diagnóstico de fallos en equipos industriales
+&& Identificación de modos de falla y efectos (FMEA)
+&& Métodos cualitativos y cuantitativos para el diagnóstico
+&& Herramientas de monitoreo y detección temprana de fallos
+& Modelos de pronóstico y estimación de vida útil de equipos
+&& Algoritmos de pronóstico de fallos
+&& Enfoques estadísticos y modelos de predicción
+&& Aplicación de redes neuronales y machine learning
+& Optimización del mantenimiento a partir del análisis de datos
+&& Uso de software de simulación y modelado predictivo
+&& Optimización de planes de mantenimiento basados en datos
+&& Estudios de caso y aplicación en la industria
+& Análisis causa raíz (RCA)
+&& Fundamentos del análisis causa raíz según la norma UNE-EN 62740
+&& Herramientas empleadas para el desarrollo de un RCA
+&& Aplicación en fallos recurrentes en instalaciones electromecánicas
+& Gestión del riesgo
+&& Identificación, evaluación y mitigación del riesgo
+&& Desarrollo de matrices de riesgo
+&& Integración con la gestión del mantenimiento y del ciclo de vida
+"
+INS1007,"
+& Introducción y Fundamentos
+&& Introducción a los sistemas neumáticos y oleohidráulicos
+&& Historia y evolución de estos sistemas
+&& Principios físicos básicos: presión, flujo y fuerza
+&& Comparación entre sistemas neumáticos y oleohidráulicos
+&& Identificación de componentes y herramientas básicas
+&& Montaje de un circuito neumático simple
+&& Medición de presión y flujo en el circuito
+&& Análisis de fallos comunes y soluciones básicas
+& Válvulas y actuadores
+&& Tipos de válvulas direccionales y su funcionamiento
+&& Actuadores neumáticos y oleohidráulicos: cilindros, motores, pinzas, ventozas, mezas giratorias, etc
+&& Selección de válvulas y actuadores según la aplicación
+&& Cálculo de fuerzas y velocidades en actuadores
+&& Diseño y montaje de circuitos con válvulas y actuadores
+&& Ajuste de velocidades y fuerzas en actuadores
+&& Pruebas de funcionamiento y eficiencia
+& Electroválvulas y Detectores de Proximidad
+&& Principios de funcionamiento de las electroválvulas 2 y 3 vias
+&& Tipos de detectores de proximidad: inductivos, capacitivos, fotoeléctricos, etc 
+&& Integración de electroválvulas y detectores en sistemas automatizados
+&& Normativas de seguridad en sistemas con electroválvulas
+&& Implementación de sistemas con electroválvulas y detectores
+&& Programación básica de controladores para electroválvulas
+&& Pruebas de detección y respuesta en sistemas automatizados
+& Métodos de diseño circuitos neumáticos
+&& Interpretación de diagramas de secuencia
+&& Métodos empíricos de diseño
+&& Métodos formales de diseño
+&& Herramientas de software para la simulación de secuencias
+&& Mandos neumáticos y electroneumáticos: secuenciadores, PLC
+&& Integración de mandos electroneumáticos en sistemas automatizados
+&& Normativas y estándares de seguridad en mandos neumáticos
+&& Creación de diagramas de secuencia para aplicaciones específicas
+&& Simulación de secuencias en software especializado
+&& Implementación de secuencias en sistemas reales
+&& Programación de controladores para mandos electroneumáticos
+&& Análisis y optimización de secuencias para mejorar la eficiencia
+& Neumática proporcional y aplicaciones
+&& Principios de la neumática proporcional
+&& Componentes y funcionamiento de sistemas de neumática proporcional
+&& Aplicaciones industriales de la neumática proporcional
+&& Ventajas y desventajas de la neumática proporcional
+&& Implementación de sistemas de neumática proporcional
+&& Ajuste y calibración de componentes proporcionales
+&& Pruebas de precisión y respuesta en sistemas proporcionales
+&& Diagnóstico y solución de problemas en sistemas de neumática proporcional
+& Sistemas Oleohidráulicos
+&& Principios y aplicaciones de sistemas oleohidráulicos
+&& Tipos de fluidos hidráulicos y sus propiedades
+&& Componentes de un sistema oleohidráulico: bombas, válvulas y actuadores
+&& Técnicas de diseño de sistemas oleohidráulicos
+&& Simulación de sistemas oleohidráulicos
+&& Normativas y estándares de seguridad en sistemas oleohidráulicos
+&& Montaje de circuitos oleohidráulicos
+&& Pruebas de funcionamiento y ajuste de sistemas oleohidráulicos
+&& Mantenimiento preventivo y correctivo de sistemas oleohidráulicos
+&& Diagnóstico y solución de problemas en sistemas oleohidráulicos
+"
+INS1201,"
+& Introducción a los sistemas de Protección y Puesta a Tierra
+&& Importancia de los sistemas de protección de puesta a tierra
+&& Aspectos de Seguridad Eléctrica
+& Conceptos básicos y base normativa 
+&& NEC, IEEE 142, IEEE 1100, IEEE 80
+&& Electrodos de puesta a tierra permitidos, características mínimas exigidas
+&& Cálculo del conductor según corriente de cortocircuito
+&& Corriente tolerable y valores máximos de tensión que soporta el ser humano
+& Resistividad 
+&& Medición de resistividad, método Wenner
+&& Interpretación de resistividad aparente, uso de Carta Maestra según IEEE Std 80 y programas de cómputo
+& Diseño de electrodos de puesta a tierra 
+&& Ecuaciones empíricas IEEE 142, IEEE 80
+&& Tensiones generadas producto de la corriente de cortocircuito conducida por tierra (GPR, Tensiones de Toque y Paso, Tensión Transferida)
+&& Diseño de Mallas de puesta a tierra, IEEE 80, Elemento Finito
+&& Sustitución de terreno
+&& Corrosión, protección catódica
+& Pruebas realizadas a los Electrodos de Puesta a Tierra 
+&& Resistencia
+&& Integridad
+&& Tensiones de toque y paso
+&& Ubicación de Conductore
+&& Equipos, procedimientos, protocolos
+& Puesta a tierra de Equipos 
+&& Tierra Aislada
+&& Equipo Sensible
+&& Equipo de Telecomunicaciones
+& Mantenimiento 
+&& Valoración de sistemas construidos
+&& Plan de Mantenimiento de sistemas de puesta a tierra
+&& Errores frecuentes
+&& Casos de estudio
+"
+INS1202,"
+& Introducción a los sistemas contra incendios
+&& Generalidades y clasificación de sistemas (activos, pasivos, detección, supresión)
+&& Normativa general y marco regulatorio (NFPA, códigos locales)
+& Fundamentos del fuego y su comportamiento
+&& Teoría del fuego y triángulo del fuego
+&& Métodos de extinción y tipos de agentes
+& Sistemas de detección y alarma contra incendios
+&& Tipos de detectores (humo, calor, llama)
+&& Diseño e instalación según NFPA 72
+& Sistemas de bombeo para protección contra incendios
+&& Tipos de bombas y sus aplicaciones
+&& Diseño, selección y pruebas (NFPA 20)
+&& Tanques de almacenamiento de agua
+&& Tipos de almacenamiento y diseño
+&& Normativa NFPA 22
+& Redes de tuberías y distribución de agua
+&& Tipos de tuberías y accesorios
+&& Cálculo hidráulico y diseño
+& Sistemas de tuberías verticales y mangueras
+&& Sistemas montantes y gabinetes
+&& Diseño y mantenimiento
+& Hidrantes y protección exterior
+&& Tipos de hidrantes
+&& Inspección, pruebas y mantenimiento
+& Sistemas de rociadores automáticos
+&& Tipos, diseño y cálculo (NFPA 13)
+&& Aplicaciones y limitaciones
+& Sistemas de pulverización de agua
+&& Tipos de boquillas y aplicaciones
+&& Normativa NFPA 15
+& Sistemas de espumas contra incendios
+&& Tipos de espuma y agentes
+&& Diseño, instalación y pruebas
+& Inspección, pruebas y mantenimiento
+&& Normativa NFPA 25
+&& Planes de mantenimiento y documentación
+& Integración con sistemas electromecánicos
+&& Automatización, control y monitoreo
+&& Interacción con sistemas HVAC, eléctricos y de seguridad
+"
+INS1203,"
+& Fundamentos de los edificios inteligentes y normativa 
+&& Conceptos clave y evolución de los edificios inteligentes
+&& Normativas y estándares (ISO, ANSI, ASHRAE, IEC)
+&& Sostenibilidad, eficiencia energética y certificaciones (Leadership in Energy and Environmental Design LEED, Building Research Establishment Environmental Assessment Method BREEAM)
+&& Introducción a la integración de sistemas y plataformas BMS
+& Sistemas de control de acceso y flujo de personas
+&& Tecnologías de control de acceso: biometría, tarjetas, reconocimiento facial
+&& Gestión de ascensores y escaleras mecánicas: integración y optimización
+&& Sistemas de guiado y señalización inteligente
+&& Análisis de flujos de personas y simulación de rutas de evacuación
+& Seguridad electrónica y ciberseguridad 
+&& Sistemas de detección de intrusiones y alarmas
+&& Video vigilancia inteligente: analítica de video y reconocimiento de objetos
+&& Sistemas de detección y extinción de incendios
+&& Ciberseguridad en edificios inteligentes: protocolos y protección de datos
+& Infraestructura de cableado y redes de comunicación 
+&& Diseño e implementación de cableado estructurado: fibra óptica y Ethernet
+&& Redes LAN y WAN: configuración y administración
+&& Protocolos de comunicación: TCP/IP, BACnet, Modbus, MQTT, Matter
+&& Redes inalámbricas: Wi-Fi, Zigbee, Bluetooth, KNX y LoRaWAN
+& Control de ambiente y eficiencia energética 
+&& Sistemas HVAC inteligentes: optimización y control predictivo
+&& Iluminación inteligente: sensores de ocupación y control de luz natural
+&& Gestión de agua y energía: monitoreo y reducción del consumo
+&& Automatización de persianas y toldos: integración con sistemas de control
+& Plataformas BMS y monitoreo integrado 
+&& Configuración y uso de plataformas BMS
+&& Integración de sensores y actuadores inteligentes
+&& Visualización y análisis de datos: dashboards y reportes
+&& Mantenimiento predictivo: detección de fallas y optimización del rendimiento
+& Integración de sistemas y tecnologías emergentes 
+&& Integración de sistemas de terceros: IoT, cloud computing y APIs
+&& Inteligencia artificial y aprendizaje automático: aplicaciones en edificios inteligentes
+&& Edificios como plataformas de servicios: aplicaciones y modelos de negocio
+&& Tendencias futuras: gemelos digitales en edificios y realidad aumentada
+"
+AER0801,"
+& Introducción a los sistemas de la aeronave
+&& Definición y clasificación de los sistemas aeronáuticos
+&& Principales sistemas a bordo
+&& Interdependencia entre sistemas 
+& Sistemas eléctricos y electrónicos en aeronaves
+&& Componentes principales y funcionamiento
+&& Fuentes de energía: generadores, baterías, alternadores
+&& Distribución y protección eléctrica
+&& Sistemas de control eléctrico
+& Sistemas neumáticos de la aeronave
+&& Principios del aire comprimido en aeronaves
+&& Componentes: compresores, válvulas, ductos
+&& Aplicaciones: frenos, instrumentos, sistemas de control
+& Sistema hidráulico de la aeronave
+&& Principios de hidráulica aplicados en la aeronave
+&& Bombas, actuadores, acumuladores
+&& Tipos de fluidos hidráulicos
+&& Aplicaciones: tren de aterrizaje, frenos, control de superficies
+&& Mantenimiento y detección de fallas
+&& Seguridad y redundancia
+& Sistema de combustión y combustible para aeronaves
+&& Tipos de combustible aeronáutico
+&& Sistema de almacenamiento y suministro de combustible
+&& Bombas, válvulas, sensores
+&& Combustión en motores de aviación
+&& Inyección, encendido, mezcla aire-combustible
+&& Control y monitoreo del sistema
+& Sistema de aire acondicionado y presurización para aeronaves
+&& Control ambiental en cabina
+&& Ciclo de aire acondicionado
+&& Intercambiadores de calor, ventiladores, compresores
+&& Sistema de presurización
+&& Control de temperatura y presión
+&& Riesgos por pérdida de presurización
+& Sistemas de protección y seguridad en aeronaves
+&& Alarmas, sistemas de detección de fuego y humo
+&& Extinción de incendios
+&& Detección de hielo y sistemas antihielo
+&& Evacuación y oxígeno de emergencia
+&& Sistemas de monitoreo y control de fallas
+&& Caja negra y registro de datos
+& Integración de sistemas en la aeronave
+&& Ejemplos de integración: fly-by-wire, buses de datos
+&& Consideraciones de diseño y mantenimiento integrado
+&& Diagnóstico de fallas multicomponente
+&& Casos reales de fallos en sistemas
+&& Análisis de causas raíz
+&& Evaluación de impacto operacional
+"
+AER0807,"
+& Introducción a los materiales aeronáuticos
+&& Clasificación y propiedades mecánicas, térmicas y químicas
+&& Comportamiento frente a esfuerzos: tracción, compresión, flexión y torsión
+&& Factores de selección de materiales en aeronaves
+&& Normas y certificaciones aplicables en la industria aeronáutica
+& Materiales metálicos ferrosos y no ferrosos
+&& Aceros: tipos, nomenclatura y tratamientos térmicos
+&& Ensayos mecánicos: tracción, fatiga, dureza (Brinell, Vickers, Rockwell, Shore)
+&& Aleaciones de aluminio, magnesio, titanio, cobre, níquel y superaleaciones
+&& Ensayos de materiales no ferrosos y comparación de desempeño
+& Materiales compuestos y no metálicos
+&& Clasificación: plásticos, cerámicos, compuestos, sellantes y adhesivos
+&& Propiedades mecánicas y térmicas de compuestos utilizados en aeronáutica
+&& Técnicas de inspección: detección y tipos de defectos
+&& Modelado de fallas en materiales compuestos
+&& Estrategias de reparación y solución de problemas
+& Corrosión en materiales aeronáuticos
+&& Fundamentos electroquímicos y ambientales
+&& Tipos de corrosión: galvánica, microbiológica, por presión, entre otras
+&& Análisis de causas y prevención en estructuras aeronáuticas
+&& Modelado del deterioro por corrosión en materiales críticos
+& Dispositivos de fijación en estructuras aeronáuticas
+&& Elementos roscados: tornillos, tuercas, espárragos y pasadores
+&& Nomenclatura, tolerancias y normalización internacional
+&& Roblones y dispositivos de bloqueo: tipos y aplicación
+&& Ensayos de esfuerzo y simulación de uniones mecánicas
+& Transmisiones mecánicas en aeronaves
+&& Tipos de engranajes y relaciones de transmisión
+&& Transmisión por correas, poleas, cadenas y ruedas dentadas
+&& Análisis de carga en sistemas de transmisión
+&& Simulación del funcionamiento en sistemas de ala rotativa y fija
+& Sistemas de mando mecánico
+&& Cables de mando, poleas, tensores y conexiones mecánicas
+&& Sistemas flexibles: cable tipo Bowden
+&& Análisis de esfuerzo y deformación en componentes de mando
+& Materiales en sistemas eléctricos de aeronaves
+&& Cables, conectores y terminales: tipos y aplicaciones
+&& Comportamiento térmico y mecánico de cables especializados
+&& Modelado de fallas eléctricas por degradación de materiales
+& Otros elementos mecánicos en aeronáutica
+&& Resortes: tipos, materiales, vida útil y aplicaciones
+&& Cojinetes y rodamientos: clasificación, selección y análisis de desgaste
+"
+AER0808,"
+& Fundamentos de la metrología aeronáutica
+&& Trazabilidad, exactitud, precisión, repetibilidad e incertidumbre de medición
+&& Sistemas internacionales de referencia y patrones (NIST, BIPM, OACI)
+&& Normativas aplicables (RTCA DO-160, ISO 10012, ISO 17025, AS9100)
+& Medición geométrica aplicada a aeronaves
+&& Herramientas de medición dimensional: calibradores, micrómetros, comparadores, relojes, rugosímetros
+&& Verificación de parámetros geométricos: planeidad, perpendicularidad, paralelismo, concentricidad, entre otros
+&& Técnicas avanzadas: máquinas de coordenadas (CMM), escaneo 3D, fotogrametría
+& Medición de variables eléctricas en aeronáutica
+&& Instrumentos de medición eléctrica: voltímetro, amperímetro, ohmímetro, megóhmetro
+&& Verificación de sensores y transductores: presión, nivel, posición, temperatura
+&& Calibración de equipos eléctricos embarcados
+& Termometría y pirometría aeronáutica
+&& Medición de temperatura con RTD, termopares y sensores NTC
+&& Uso de pirómetros ópticos e infrarrojos
+&& Aplicación en motores, sistemas de escape y climatización
+& Metrología de fluidos en sistemas aeronáuticos
+&& Medición de presión, caudal, viscosidad y densidad
+&& Instrumentos para sistemas hidráulicos, neumáticos y de combustible
+&& Verificación y ajuste de sensores de presión y caudal
+& Metrología de vibraciones y dinámica
+&& Medición de vibraciones con acelerómetros y sensores dinámicos
+&& Análisis modal y diagnóstico de desequilibrios
+&& Aplicación en motores, hélices y estructuras
+& Medición óptica y de alineación
+&& Uso de colimadores, teodolitos, sistemas láser y de interferometría
+&& Alineación de componentes y verificación óptica de geometría
+&& Aplicaciones en navegación visual y sistemas estructurales
+& Medición de condiciones ambientales
+&& Sensores de presión barométrica, temperatura, humedad y altitud
+&& Influencia ambiental en instrumentos de cabina y navegación
+&& Evaluación y calibración de sensores ambientales
+& Medición de tiempo y frecuencia
+&& Osciladores, relojes de precisión y generadores de pulso
+&& Sincronización de sistemas electrónicos y de navegación
+&& Verificación y ajuste de instrumentos dependientes del tiempo
+& Gestión metrológica y documentación técnica
+&& Elaboración de rutinas de calibración con trazabilidad
+&& Lectura e interpretación de certificados de calibración
+&& Integración de la metrología con procesos de mantenimiento aeronáutico
+"
+AER0901,"
+& Introducción a la Aviónica
+&& Historia y evolución de la aviónica
+&& Conceptos básicos de electricidad y electrónica
+& Sistemas de Generación y Distribución de Energía
+&& Generadores y alternadores
+&& Barras colectoras, disyuntores y fusibles
+&& Sistema de baterías
+& Sistemas de iluminación
+&& Iluminación de aeronaves (navegación, aterrizaje, cabina, emergencia)
+& Sistemas  de comunicación
+&& Sistemas de comunicación aire-tierra e interna
+& Sistemas de Navegación por Satélite
+&& GPS, GLONASS y Galileo
+&& Integración con el Sistema de Gestión de Vuelo (FMS)
+& Sistemas de referencia inercial y navegación inercial
+&& Sistema de referencia inercial (IRS)
+&& Sistema de navegación inercial (INS)
+& Sistemas de navegación basados en radio
+&& VOR (VHF Omnidirectional Range)
+&& DME (Distance Measuring Equipment)
+&& NDB (Non-Directional Beacon)
+& Sistema de Gestión de Vuelo (FMS)
+&& Funciones y componentes del FMS
+&& Planificación y gestión de rutas
+& Sistemas de Control de Vuelo Primarios
+&& Alerones (Roll)
+&& Elevador o estabilizador (Pitch)
+&& Timón (Yaw)
+& Sistemas de Control de Vuelo Secundarios
+&& Flaps y spoilers
+&& Dispositivos de borde de ataque
+&& Sistemas de ajuste (trim)
+& Sistemas automáticos de estabilización de vuelo
+&& Piloto automático (Autopilot)
+&& Sistema de control de estabilidad (SAS)
+&& Sistema de control de vuelo por cable (Fly-by-Wire)
+& Sistemas de Monitoreo y Diagnóstico
+&& Monitoreo de motores y sistemas críticos
+&& Técnicas de diagnóstico y mantenimiento
+& Normativas y Regulaciones Internacionales
+&& RTCA DO-160G y EUROCAE ED-14G
+&& Regulaciones de la FAA y EASA
+"
+AER0902,"
+& Introducción a la aerodinámica
+&& Definición y principios fundamentales
+&& Aplicaciones en la aviación
+& Dinámica de fluidos aplicada a aeronaves
+&& Ecuaciones de movimiento de los fluidos
+&& Modelos de flujo aerodinámico
+& Flujo compresible e incompresible
+&& Principios de la mecánica de fluidos en aerodinámica
+&& Aplicaciones en vuelos subsónicos y supersónicos
+& Principios de sustentación y arrastre
+&& Fuerzas aerodinámicas fundamentales
+&& Coeficientes aerodinámicos y su interpretación
+& Perfiles aerodinámicos y sus características
+&& Diseño y clasificación de perfiles
+&& Factores que afectan el rendimiento aerodinámico
+& Propulsión aeronáutica y eficiencia energética
+&& Tipos de sistemas de propulsión
+&& Relación entre aerodinámica y propulsión
+& Interacción aerodinámica-propulsión
+&& Evaluación del rendimiento del sistema
+&& Optimización del consumo energético
+& Aplicaciones computacionales en aerodinámica
+&& Simulación numérica de flujo aerodinámico
+&& Software y herramientas de modelado
+& Optimización aerodinámica
+&& Métodos de diseño y optimización
+&& Factores de mejora en eficiencia aerodinámica
+& Análisis de casos en aerodinámica aplicada
+&& Estudios de casos reales
+&& Implementación de mejoras aerodinámicas en aeronaves
+"
+AER0903,"
+& Introducción a dinámica de vuelo
+&& Consideraciones generales 
+&& Cualidades de vuelo maniobrabilidad
+&& Ecuaciones de movimiento del avión
+&& Aerodinámica
+&& Simulación
+& Sistemas de referencia y notación
+&& Ejes de referencia terrestres
+&& Fuselaje del avión y ejes de referencia fijos
+&& Ángulos de Euler y actitud de la aeronave
+&& Transformaciones de los ejes
+&& Geometría de referencia del avión
+& Equilibrio estático y ajuste
+&& Equilibrio de ajuste
+&& Estabilidad estática longitudinal, lateral y direccional
+&& Cálculo de condición de ajuste de la aeronave
+& Ecuaciones de movimiento
+&& Ecuaciones de movimiento de aeronaves rígidas simétricas
+&& Ecuaciones linealizadas de movimiento
+&& Formas alternativas de ecuaciones de movimiento
+& Métodos de solución para las ecuaciones de movimiento 
+&& Métodos de solución
+&& Regla de Cramer
+&& Funciones de transferencia de la respuesta de la aeronave
+&& Respuesta a controles
+&& Funciones de transferencia a respuestas de aceleración
+&& Método de estado espacio
+& Dinámica longitudinal, lateral y direccional
+&& Respuesta a controles
+&& Modos de estabilidad dinámica
+&& Modelos de orden reducida
+&& Respuesta de frecuencia
+&& Cualidades de vuelo maniobrabilidad
+&& Modo de excitación
+& Maniobrabilidad 
+&& Principios de maniobrabilidad
+&& Dinámica de la aeronave y maniobrabilidad
+& Estabilidad
+&& Principios de Estabilidad
+&& Interpretación gráfica de estabilidad
+& Modelado de aerodinámica 
+"
+AER0906,"
+& Introducción a la teoría de elasticidad
+&& Teoría básica de elasticidad
+&& Problemas de elasticidad en 2D
+&& Torsión de secciones sólidas
+&& Flexión de platos delgados
+& Inestabilidad Estructural
+&& Pandeo elástico (Euler) e inelástico de columnas
+&& Pandeo elástico (Euler) e inelástico de platos delgados
+&& Inestabilidad local y de paneles rígidos
+&& Esfuerzos de falla de platos delgados y paneles rígidos
+& Introducción al análisis matricial
+&& Análisis estructural clásico, matricial y de elemento finito
+&& Clasificación de las estructuras de marco
+&& Métodos analíticos
+&& Relaciones fundamentales del análisis estructural
+&& Análisis lineal vs. análisis no lineal
+& Cargas típicas de aeronaves
+&& Cargas en vuelo
+&& Cargas en tierra
+& Estructuras de aeronaves 
+&& Principios de construcción de estructuras forradas
+&& Flexión, cortante y torsión de vigas de pared delgada
+&& Análisis de componentes de la aeronave
+"
+AER0908,"
+& Conceptos Fundamentales
+&& Definiciones de seguridad aeronáutica y aeronavegabilidad.
+&& Marco legal y normativo nacional e internacional.
+& Gestión de la Seguridad
+&& Sistemas de gestión de seguridad operacional (SMS).
+&& Identificación y gestión de riesgos en aviación.
+&& Factores humanos y culturales en seguridad.
+& Aeronavegabilidad
+&& Certificación inicial y continua de aeronaves.
+&& Procedimientos de inspección y mantenimiento aeronáutico.
+&& Documentación técnica y registros de mantenimiento.
+& Investigación de Accidentes e Incidentes
+&& Técnicas y procedimientos de investigación.
+&& Análisis de factores humanos en accidentes.
+&& Elaboración de informes técnicos.
+& Mercancías Peligrosas
+&& Clasificación y manejo de mercancías peligrosas.
+&& Procedimientos operacionales y emergencias.
+& Protección Ambiental
+&& Normativa sobre ruido y emisiones de motores aeronáuticos.
+&& Gestión ambiental en operaciones aéreas.
+& Seguridad Física de la Aviación
+&& Prevención y control de actos de interferencia ilícita.
+&& Procedimientos de seguridad aeroportuaria.
+& Auditoría y Supervisión
+&& Auditorías internas y externas en aviación.
+&& Supervisión continua del cumplimiento normativo.
+"
+AER1001,"
+& Introducción a la gestión del ciclo de vida de la aeronave
+&& Concepto de ciclo de vida de la aeronave
+&& Etapas del ciclo de vida de la aeronave
+&& Importancia en la seguridad y operatividad
+& Estrategias de mantenimiento aeronáutico
+&& Tipos de mantenimiento: preventivo, correctivo y predictivo
+&& Programación de revisiones y recursos
+&& Estrategias de planificación eficiente
+&& Optimización de procesos de mantenimiento
+& Normativas y regulaciones en la gestión de aeronaves
+&& Legislación nacional e internacional
+&& Certificación y estándares de mantenimiento
+& Análisis del costo del ciclo de vida
+&& Introducción al LCCA (Life Cycle Cost Analysis)
+&& Componentes del costo del ciclo de vida
+&& Metodologías de cálculo (método del valor presente neto, tasa interna de retorno, retorno de inversión, Woodward)
+&& Norma IEC 60300-3-3: guía de aplicación del cálculo del costo del ciclo de vida útil
+& Enfoque INCOSE y pensamiento sistémico
+&& Introducción a INCOSE y su relevancia en sistemas complejos
+&& Principios del enfoque de sistemas aplicados al ciclo de vida
+&& Relación entre ingeniería de sistemas y gestión del ciclo de vida
+& Aplicación de tecnologías en la optimización del mantenimiento
+&& Digitalización y mantenimiento basado en datos
+&& Uso de software especializado en mantenimiento aeronáutico
+& Herramientas computacionales en la gestión de aeronaves
+&& Software de simulación y análisis
+&& Aplicaciones en la planificación y control de mantenimiento
+& Estudio de casos en mantenimiento y operación de aeronaves
+&& Casos reales de optimización de mantenimiento
+&& Aplicación de estrategias exitosas
+"
+AER1002,"
+& Introducción de los sistemas de propulsión
+&& El principio de la propulsión a chorro
+&& Impulso de fluidos y fuerza de reacción
+&& Cohetes
+&& Hélices
+&& Motores turbojet, turbofan y ramjet
+& Mecánica y termodinámica del flujo de fluidos
+&& Ecuaciones fundamentales
+&& Termodinámica de gases
+&& Termodinámica de combustión en equilibrio, reacciones químicas
+& Etapas de compresión de aire
+&& Principio de la compresión en turbinas 
+&& Relación compresión-propulsión 
+&& Etapas de ingreso y compresión de aire
+& Enfriamiento de la turbina 
+&& Sistemas de enfriamiento convencionales 
+&& Casos específicos 
+&& Fallas en sistema de enfriamiento y caza fallas 
+& Combustión en turbinas 
+&& Principio de combustión 
+&& Sistema de combustión en aeronaves 
+&& Ejemplos de combustión en motores básicos 
+& Sistema de control de combustible de las turbinas 
+&& Bomba de combustible
+&& Generalidades y partes básicas 
+& Montaje y conexiones del motor con el avión
+&& Soportes e ingeniería de fijación de la turbina 
+&& Conexiones eléctricas 
+&& Drenajes 
+& Lectura de hojas de especificaciones técnicas 
+&& General Electric 
+&& SNECMA 
+&& Boeing 
+&& Embraer 
+"
+AER1003,"
+& Introducción al control automático de vuelo
+&& Historia y evolución del control automático de vuelo
+&& Conceptos básicos y terminología
+&& Familiarización con el entorno de simulación (MATLAB/Simulink)
+& Modelado dinámico de aeronaves
+&& Ecuaciones de movimiento
+&& Modelado de sistemas lineales y no lineales
+&& Implementación de modelos dinámicos básicos en simulación
+& Análisis de estabilidad y control
+&& Estabilidad estática y dinámica
+&& Análisis de modos de movimiento (longitudinal y lateral-direccional)
+&& Simulación de respuestas a perturbaciones
+& Diseño de controladores automáticos
+&& Controladores PID
+&& Control con LQR (Regulador Cuadrático Lineal)
+&& Conceptos de control robusto
+&& Introducción al control no lineal
+&& Principios del control adaptativo
+& Control de trayectoria
+&& Principios del control de trayectoria
+&& Algoritmos de seguimiento de trayectorias
+&& Simulación de trayectorias de vuelo
+& Planificación de Trayectorias
+&& Métodos de planificación de trayectorias
+&& Optimización de rutas y evitación de obstáculos
+&& Implementación de algoritmos de planificación de trayectorias
+& Aeronavegabilidad y normativas
+&& Conceptos de aeronavegabilidad
+&& Normativas y regulaciones para UAVs
+&& Análisis de casos de estudio y cumplimiento normativo
+& Sistemas GPS y Navegación
+&& Teoría de sistemas GPS y navegación
+&& Principios de funcionamiento del GPS
+&& Integración de sistemas GPS en UAVs
+&& Implementación de navegación basada en GPS
+& Comunicación entre UAVs y aviones
+&& Protocolos de comunicación y enlace de datos
+&& Coordinación y control de múltiples UAVs
+&& Simulación de comunicación y coordinación entre UAVs
+& Pruebas y Validación
+&& Métodos de prueba y validación de sistemas de control
+&& Análisis de datos y evaluación de desempeño
+&& Realización de pruebas experimentales
+"
+AER1201,"
+& Introducción a la infraestructura y servicios aeroportuarios
+&& Definición y alcance del curso
+&& Importancia de la infraestructura en la aviación
+& Componentes de la infraestructura aeroportuaria
+&& Pistas, calles de rodaje y plataformas
+&& Terminales de pasajeros y carga
+& Normativas y regulaciones aeroportuarias
+&& Normativa nacional e internacional
+&& Certificación y cumplimiento normativo
+& Seguridad y sostenibilidad en la operación aeroportuaria
+&& Gestión de riesgos y seguridad operacional
+&& Estrategias para aeropuertos sostenibles
+& Planificación y gestión de aeropuertos
+&& Modelos de planificación aeroportuaria
+&& Estrategias de gestión de capacidad
+& Sistemas de navegación y control del tráfico aéreo
+&& Equipos y tecnología de navegación aérea
+&& Procedimientos de control de tráfico
+& Evaluación de la eficiencia en la operación aeroportuaria
+&& Indicadores clave de desempeño aeroportuario
+&& Análisis de congestión y tiempos de espera
+& Optimización del diseño de aeropuertos
+&& Modelos de diseño de terminales
+&& Factores de confort y accesibilidad
+& Tecnologías emergentes en la infraestructura aeroportuaria
+&& Innovaciones en gestión de aeropuertos
+&& Automatización y digitalización de procesos
+& Análisis de casos en planificación y gestión aeroportuaria
+&& Estudio de aeropuertos internacionales
+&& Implementación de mejores prácticas
+"
+AER1202,"
+& Panorama general de las comunicaciones aeronáuticas
+&& Rol estratégico de las comunicaciones en la aviación.
+&& Historia de la radio y telecomunicaciones en aeronáutica.
+&& Tipos de comunicación: aire-aire, aire-tierra, tierra-tierra.
+&& Ejemplos ilustrativos: control de tráfico aéreo, transmisiones satelitales, UAVs.
+& Fundamentos físicos y conceptuales de la comunicación
+&& Conceptos esenciales: señal, frecuencia, modulación (visión cualitativa).
+&& El espectro electromagnético en aviación.
+&& Ruido, interferencia y confiabilidad de la señal.
+&& Nociones de multiplexación, ancho de banda y latencia.
+& Estructura general de un sistema de telemetría
+&& Concepto de telemetría en aviación: monitoreo remoto de parámetros.
+&& Flujo de información: adquisición – transmisión – recepción – almacenamiento.
+&& Esquema conceptual de una trama (frame): cabecera, datos, control de errores.
+&& Topologías comunes: centralizada, distribuida.
+& Protocolos y normas en aviación
+&& Introducción general a ARINC 429, MIL-STD-1553, CAN-Aerospace.
+&& Importancia del diseño determinista y la redundancia.
+&& Regulaciones y entidades: ICAO, RTCA, EASA, FAA.
+&& DO-178C, DO-160G, DO-254 (enfoque conceptual).
+& Comunicación y aviónica moderna
+&& Arquitectura conceptual de un sistema aviónico.
+&& Tendencias: aviónica modular integrada (IMA), sistemas abiertos.
+&& Interoperabilidad, ciberseguridad, mantenimiento basado en datos.
+&& Enlaces satelitales, ADS-B, integración con GNSS.
+& Nuevas tecnologías y desafíos
+&& Comunicaciones en UAVs y sistemas autónomos.
+&& Gestión de datos en tiempo real.
+&& Convergencia entre comunicaciones aeronáuticas y comerciales.
+&& Impacto de la inteligencia artificial en la gestión de comunicaciones.
+"
+AER1203,"
+& Administración Industrial en procesos aeroespaciales
+&& Programación de la producción y secuenciamiento
+&& Gestión de capacidad productiva y balanceo de planta
+&& Administración de cuellos de botella (Teoría de restricciones)
+&& Lean Manufacturing: técnicas de mejora continua (5S, Kaizen, SMED, TPM, Kanban)
+& Sistemas de gestión de calidad aeroespacial
+&& Normativas AS9100, AS9110 y AS9120
+&& Certificaciones NADCAP para procesos especiales
+&& Herramientas básicas de calidad: SPC, gráficos de control, FMEA
+& Requisitos regulatorios en manufactura aeroespacial
+&& Alcance de regulaciones DGAC, FAA, EASA
+&& Análisis y gestión de requisitos ITAR y EAR
+&& Trazabilidad y gestión documental electrónica (PLM/ERP)
+& Gestión de proyectos bajo estándares aeroespaciales
+&& Metodología AS9102: Primera Inspección del Artículo (FAI)
+&& Planificación avanzada de calidad del producto (AS9145 - APQP)
+&& Gestión integrada de proyectos con ERP/PLM
+"
+SCF0801,"
+& Introducción a la Ingeniería de Sistemas
+&& Conceptos fundamentales de la ingeniería de sistemas
+&& Ciclo de vida del desarrollo de sistemas
+&& Enfoque sistémico y pensamiento complejo en la resolución de problemas
+& Trabajo colaborativo en equipos multidisciplinarios
+&& Definición de roles
+&& Estrategias de trabajo en equipos multidisciplinarios
+&& Gestión de la información y la toma de decisiones
+&& Planificación del trabajo y gestión de tareas
+&& Control de versiones
+& Definición y análisis de requisitos
+&& Identificación de interesados y sus expectativas
+&& Técnicas para la recopilación y análisis de requisitos
+&& Diferentes niveles de requisitos y su relación con la arquitectura del sistema
+&& Modelado de requisitos y especificaciones funcionales
+& Diseño de la arquitectura 
+&& Principios y enfoques para el diseño de la arquitectura del sistema
+&& Metodologías de evaluación de configuraciones del sistema (trade-off)
+&& Gestión de interfaces y compatibilidad de sistemas
+&& Estrategias para la integración de subsistemas en un sistema coherente
+& Modelado, simulación y verificación del Diseño
+&& Métodos de modelado para la representación de sistemas
+&& Desarrollo de representaciones funcionales del sistema
+&& Evaluación de desempeño y optimización de sistemas
+&& Análisis de sensibilidad y pruebas iterativas en entornos virtuales
+&& Verificación del sistema en escenarios simulados
+&& Validación de requisitos
+"
+SCF0806,"
+& Introducción a mecanismos
+&& Introducción
+&& Análisis y síntesis
+&& Ciencia de la mecánica
+&& Terminología, definiciones y suposiciones
+&& Mecanismos planos, esféricos y espaciales
+&& Movilidad
+&& Características de los mecanismos
+&& Inversión cinemática
+&& Ley de Grashof
+&& Ventaja mecánica
+& Posición, postura y desplazamiento
+&& Postura de un cuerpo rígido
+&& Ecuaciones de cierre de bucle
+&& Álgebra polar compleja
+& Velocidad
+&& Definición de velocidad
+&& Rotación de un cuerpo rígido
+&& Diferencia de velocidad entre puntos de un cuerpo rígido
+&& Polígonos de velocidad; imágenes de velocidad
+&& Velocidad aparente de un punto en un sistema de coordenadas en movimiento
+&& Velocidad angular aparente
+&& Contacto directo y contacto rodante
+&& Estrategia sistemática para el análisis de velocidad
+&& Análisis algebraico complejo de velocidad
+&& Método de coeficientes cinemáticos
+&& Centros instantáneos de velocidad
+&& Teorema de Aronhold-Kennedy de tres centros
+&& Localización de centros instantáneos de velocidad
+&& Análisis de velocidad usando centros instantáneos
+& Aceleración
+&& Definición de aceleración
+&& Aceleración angular
+&& Diferencia de aceleración entre puntos de un cuerpo rígido
+&& Polígonos de aceleración; imágenes de aceleración
+&& Aceleración aparente de un punto en un sistema de coordenadas en movimiento
+&& Aceleración angular aparente
+&& Contacto directo y contacto rodante
+&& Estrategia sistemática para el análisis de aceleración
+& Análisis de fuerzas estáticas
+&& Introducción
+&& Leyes de newton
+&& Sistemas de unidades
+&& Fuerzas aplicadas y de restricción
+&& Diagramas de cuerpo libre
+&& Condiciones para el equilibrio
+&& Miembros de dos y tres fuerzas
+&& Miembros de cuatro o más fuerzas
+&& Modelos de fuerzas de fricción
+&& Análisis de fuerzas con fricción
+& Análisis de fuerzas dinámicas
+&& Introducción
+&& Centroide y centro de masa
+&& Momentos de masa y productos de inercia
+&& Fuerzas de inercia y principio de d’Alembert
+&& Principio de superposición
+& Diseño de levas
+&& Introducción
+&& Clasificación de levas y seguidores
+&& Diagramas de desplazamiento
+&& Diseño gráfico de perfiles de levas
+&& Coeficientes cinemáticos del seguidor
+&& Levas de alta velocidad
+&& Movimientos estándar de levas
+&& Emparejamiento de derivadas de diagramas de desplazamiento
+&& Leva de placa con seguidor de cara plana reciprocante
+&& Leva de placa con seguidor de rodillo reciprocante
+& Engranajes rectos
+&& Terminología y definiciones
+&& Ley fundamental del engranaje dentado
+&& Propiedades de la evolvente
+&& Engranajes intercambiables: normas AGMA
+&& Fundamentos de la acción del diente del engranaje
+&& Fabricación de dientes de engranaje
+&& Interferencia y recorte
+&& Relación de contacto
+&& Variación de la distancia entre centros
+&& Dientes de engranaje no estándar
+&& Análisis de trenes de engranajes epicíclicos por fórmula
+&& Análisis tabular de trenes de engranajes epicíclicos
+& Sistemas espaciales y robótica
+&& Programas informáticos de análisis de mecanismos generalizados
+"
+SCF0807,"
+& Introducción a sistemas embebidos
+&& Arquitectura de microcontroladores ARM Cortex-M
+&& Arquitectura de FPGAs
+&& Comparación entre sistemas embebidos y sistemas generales
+&& Aplicaciones modernas de sistemas embebidos: IoT, automatización, y sistemas ciberfísicos
+& Programación en C++ para Sistemas Embebidos
+&& Introducción a C++ para sistemas embebidos
+&& Uso de clases, herencia, y polimorfismo en sistemas con recursos limitados
+&& Patrones de diseño para sistemas embebidos (Singleton, State, Observer)
+&& Manejo de memoria dinámica y optimización de código
+& Periféricos en ARM Cortex-M
+&& Configuración y uso de DMA para transferencias de datos eficientes
+&& Uso de RTC (Reloj en Tiempo Real) para aplicaciones de temporización
+&& Implementación de Watchdog Timer para sistemas robustos
+&& Configuración de periféricos como DAC, PWM, y comunicación serial (UART, SPI, I2C)
+&& Configuración de protocolos de comunicación avanzados (CAN, Modbus, Ethernet)
+& Comunicación inalámbrica y IoT
+&& Integración de módulos Wi-Fi y Bluetooth en sistemas embebidos
+&& Protocolos de comunicación IoT (MQTT, CoAP, HTTP)
+&& Implementación de sistemas embebidos conectados a la nube
+& Sistemas Operativos en Tiempo Real (RTOS)
+&& Introducción a RTOS: FreeRTOS, Zephyr, y otros
+&& Gestión de tareas, colas, y semáforos en RTOS
+&& Implementación de sistemas multitarea en microcontroladores ARM
+& Aplicaciones Embebidas Basadas en FPGA
+&& Introducción a aplicaciones embebidas completamente basadas en FPGA
+&& Diseño de sistemas de control en FPGA (control de motores paso a paso o servomotores)
+&& Implementación de procesamiento de señales digitales (DSP) en FPGA (filtrado, transformadas, etc.)
+&& Aplicaciones de FPGA en sistemas ciberfísicos
+"
+SCF0808,"
+& Introducción a la ciberseguridad
+&& Historia y evolución de la ciberseguridad
+&& Principios básicos de ciberseguridad
+&& Importancia de la ciberseguridad en el mundo actual
+& Redes y protocolos
+&& Tipos de redes (LAN, WAN, MAN)
+&& Protocolos de comunicación (TCP/IP, HTTP, HTTPS, MQTT)
+&& Seguridad en redes: firewalls y sistemas de detección de intrusos (IDS/IPS)
+& Programación para la ciberseguridad
+&& Scripts y automatización para la seguridad informática
+&& Ejercicios prácticos de programación para detectar y mitigar vulnerabilidades
+& Amenazas y vulnerabilidades
+&& Tipos de amenazas (malware, phishing, ataques DDoS)
+&& Análisis de vulnerabilidades y gestión de parches
+&& Uso de software antivirus y antimalware
+& Criptografía
+&& Fundamentos de criptografía (simétrica y asimétrica)
+&& Aplicaciones prácticas del cifrado en la protección de datos
+&& Implementación de técnicas de cifrado en proyectos prácticos
+& Seguridad en redes
+&& Configuración y gestión de firewalls
+&& Seguridad en redes inalámbricas (WPA2, WPA3)
+&& Control de acceso y autenticación multifactor (MFA)
+& Seguridad en aplicaciones
+&& Desarrollo seguro de software (principios y prácticas)
+&& Pruebas de penetración y análisis de seguridad en aplicaciones web
+&& Herramientas y técnicas para asegurar aplicaciones
+& Gestión de incidentes
+&& Respuesta a incidentes de ciberseguridad
+&& Recuperación y análisis forense
+&& Estudios de caso de incidentes reales y lecciones aprendidas
+& Cumplimiento y normativas
+&& Normativas y estándares de ciberseguridad (ISO 27001, GDPR)
+&& Políticas de seguridad y su implementación
+&& Evaluación de cumplimiento y auditorías de seguridad
+"
+SCF0901,"
+& Introducción al modelado computacional
+&& Rol del modelado en la ingeniería
+&& Tipos de modelos: algebraicos, diferenciales, empíricos
+&& Relación con el curso de Métodos Numéricos: repaso breve de discretización, errores, estabilidad
+& Modelado con ecuaciones diferenciales ordinarias (ODEs)
+&& Modelos dinámicos de primer y segundo orden
+&& Sistemas acoplados de ODEs
+&& Condiciones iniciales y resolución numérica en el dominio temporal
+&& Estudio de la estabilidad de soluciones y sensibilidad a parámetros
+& Introducción a ecuaciones en derivadas parciales (PDEs)
+&& Clasificación de PDEs: elípticas, parabólicas, hiperbólicas
+&& Aplicaciones típicas: transferencia de calor, vibraciones, difusiones
+&& Condiciones de frontera: Dirichlet, Neumann, mixtas
+&& Formulación del problema físico completo
+& Simulación numérica por elementos y volúmenes discretos
+&& Concepto de malla y discretización espacial
+&& Análisis de convergencia y refinamiento
+&& Simulación de fenómenos acoplados: térmico-mecánico, fluido-estructura
+&& Interpretación de resultados y validación contra modelos teóricos o experimentales
+& Casos de estudio
+&& Microbombas y microfluidos: modelado de flujos en microcanales
+&& Simulación del calentamiento en sistemas electrónicos embebidos
+&& Dinámica de fluidos y transferencia de calor en sistemas de refrigeración
+&& Modelado termomecánico de transformadores eléctricos
+"
+SCF0902,"
+& Introducción a los circuitos integrados con componentes comerciales salidos del estante (COTS)
+&& Clasificación funcional de COTS: potencia, señal, sensado, comunicación, etc.
+&& Análisis e interpretación de hojas de datos
+&& Lectura y comprensión de esquemáticos típicos
+&& Asignación de pines (pin assignment) y funciones especiales
+&& Recomendaciones para la distribución de elementos (layout) y circuitos de aplicación típica
+&& Uso de aplicación notes como guía de diseño
+& Regulación y distribución de energía
+&& Reguladores lineales (LDOs): selección y estabilidad
+&& Convertidores DC-DC integrados (buck, boost, buck-boost)
+&& Secuenciadores, eFuses y protección contra sobrevoltaje/sobrecorriente
+&& Interruptores de carga (Load switches) y manejo de encendido/apagado de subsistemas
+& Manejo de señales analógicas
+&& Amplificadores operacionales: rail-to-rail, bajo ruido, bajo offset, fully differential
+&& Amplificadores de instrumentación y para sensores como termopares
+&& Comparadores integrados y su aplicación en decisiones de umbral
+&& Referencias de voltaje de precisión
+& Sensado y monitoreo
+&& Amplificadores de corriente (shunt monitors)
+&& Sensores integrados de temperatura y voltaje
+&& Supervisores de sistema: detección de caída de tensión, reinicio, watchdog
+&& ADCs y DACs autónomos para adquisición y generación de señales
+& Controladores y drivers
+&& Drivers para servomotores, motores DC y stepper
+&& Drivers para MOSFETs (low-side, high-side, half-bridge, full-bridge)
+&& Controladores de LEDs de alta potencia
+&& Controladores PWM para fuentes conmutadas y otras aplicaciones
+& Interfaz y comunicación
+&& Transceptores RS-485, RS-232, CAN, LIN
+&& Conversores USB a UART
+&& Conversores de nivel lógico (level shifters)
+&& Interruptores y multiplexores analógicos
+&& Aislamiento de señales en buses de comunicación
+& Integración de sistemas
+&& Diseño modular de subsistemas usando múltiples COTS
+&& Simulación funcional con herramientas como LTspice o similares
+&& Buenas prácticas de diseño y prototipado en PCB
+&& Preparación para fabricación y depuración
+"
+SCF0903,"
+& Fundamentos de Inteligencia Artificial para sistemas ciberfísicos  
+&& Definición y evolución de la IA  
+&& Diferencias entre IA simbólica y conexionista  
+&& Relación entre IA, automatización, robótica y CPS  
+&& Aplicaciones de IA en la industria y sistemas embebidos  
+& Representación del conocimiento y toma de decisiones  
+&& Lógica proposicional y de primer orden  
+&& Sistemas expertos basados en reglas  
+&& Razonamiento simbólico y basado en casos  
+&& Planificación automatizada de tareas  
+&& Agentes inteligentes y entornos dinámicos  
+& Control Inteligente y sistemas Difusos  
+&& Conceptos de lógica difusa  
+&& Diseño de controladores difusos  
+&& Aplicaciones en sistemas de control adaptativo y confort ambiental  
+&& Comparación con control clásico  
+& Algoritmos evolutivos y optimización inteligente  
+&& Introducción a la computación evolutiva  
+&& Algoritmos genéticos y evolución diferencial  
+&& Aplicaciones en diseño de sistemas y optimización de recursos  
+&& Casos prácticos: asignación de tareas, ajuste de parámetros  
+& Aprendizaje Automático en Sistemas Ciberfísicos  
+&& Tipos de aprendizaje: supervisado, no supervisado, por refuerzo  
+&& Preprocesamiento y análisis de datos de sensores  
+&& Clasificación, regresión y clustering en señales reales  
+&& Métricas y validación de modelos  
+& Redes neuronales y Aprendizaje Profundo  
+&& Perceptrones y redes multicapa (MLP)  
+&& Redes convolucionales (CNN) para visión artificial  
+&& Redes recurrentes (RNN/LSTM) para series temporales  
+&& Limitaciones, overfitting y estrategias de regularización  
+& Implementación de IA en Plataformas Embebidas  
+&& Restricciones de cómputo y consumo energético  
+&& Herramientas: TensorFlow Lite, Edge Impulse, MicroPython  
+&& Inferencia en tiempo real en microcontroladores (ESP32, STM32, etc.)  
+&& Integración en sistemas IoT: monitoreo, actuadores y feedback  
+& Evaluación, Seguridad y Ética de Sistemas Inteligentes  
+&& Fiabilidad y validación de modelos en producción  
+&& Ciberseguridad en modelos integrados  
+&& Explicabilidad y transparencia en IA embebida  
+&& Riesgos éticos: autonomía, sesgos, fallos en decisiones críticas  
+&& Ética y confiabilidad en sistemas inteligentes  
+"
+SCF0906,"
+& Introducción a la Robótica Industrial
+&& Historia y evolución
+&& Tipos de robots industriales
+&& Preliminares matemáticos
+& Cinemática directa
+&& Modelado de robots
+&& Matrices de transformación homogénea
+& Cinemática inversa
+&& Solución de ecuaciones cinemáticas
+&& Métodos numéricos y analíticos
+& Dinámica de robots
+&& Ecuaciones de movimiento
+&& Control de trayectoria
+&& Planeación de rutas
+& Programación de robots
+&& Lenguajes de programación
+&& Simulación y pruebas
+& Sensores y Actuadores
+&& Tipos y aplicaciones
+&& Integración en sistemas robóticos
+& Control Automático en Robótica
+&& Control de posición 
+&& Control de movimiento
+&& Control de Secuencia y rutas
+"
+SCF0907,"
+& Introducción a la Digitalización Industrial
+&& Conceptos y beneficios de la digitalización
+&& Industria 4.0 y sus componentes
+&& Casos de estudio en digitalización industrial
+&& Norma IEC 62541 (OPC UA): Comunicación de datos y interoperabilidad en sistemas industriales1
+& Redes Industriales
+&& Tipos de redes industriales (Ethernet/IP, Modbus, Profibus, Profinet, AS-i,  etc.)
+&& Diseño e implementación de redes industriales
+&& Seguridad en redes industriales
+&& Norma IEC 61784: Redes de comunicación industrial
+&& Norma IEC 62443: Ciberseguridad en sistemas de automatización y control industrial2
+& Supervisión, Control y Adquisición de Datos (SCADA)
+&& Introducción a los sistemas SCADA
+&& Componentes y arquitectura de SCADA
+&& Configuración y programación básica de SCADA
+&& Norma IEC 61131: Controladores lógicos programables (PLCs)
+& Integración de Sistemas SCADA
+&& Integración de SCADA con PLCs y otros dispositivos
+&& Protocolos de comunicación en SCADA
+&& Monitoreo y control remoto
+&& Norma IEC 62541 (OPC UA): Integración y comunicación en sistemas SCADA1
+& Análisis de Datos en Sistemas Industriales
+&& Recolección y almacenamiento de datos
+&& Técnicas de análisis de datos
+&& Aplicaciones de Big Data en la industria
+&& Norma IEC 62264: Integración de sistemas de control y gestión de la producción2
+& Internet de las Cosas (IoT) Industrial
+&& Conceptos y aplicaciones del IoT en la industria
+&& Arquitectura de IoT industrial
+&& Integración de IoT con SCADA y otros sistemas
+&& Norma IEC 62541 (OPC UA): Interoperabilidad y comunicación en IoT industrial1
+& Ciberseguridad en Sistemas Industriales
+&& Amenazas y vulnerabilidades en sistemas industriales
+&& Estrategias de ciberseguridad para redes y SCADA
+&& Implementación de medidas de seguridad
+&& Norma IEC 62443: Ciberseguridad en sistemas de automatización y control industrial2
+& Aplicaciones Avanzadas
+&& Tendencias futuras en digitalización y automatización industrial
+&& Norma IEC 61499: Arquitectura de sistemas distribuidos y programación de aplicaciones de automatización
+"
+SCF1001,"
+& Fase de planificación del proyecto
+&& Definición del problema
+&& Recolección de requerimientos
+&& Revisión de tecnologías disponibles
+& Diseño del sistema
+&& Arquitectura funcional de un sistema ciberfísico
+&& Selección de componentes (sensores, actuadores, microcontroladores, integrados)
+&& Diseño de controladores (PID, lógicos, discretos)
+&& Diseño de comunicación (bus, protocolos, sincronización)
+& Implementación
+&& Desarrollo de circuitos electrónicos y su integración
+&& Programación de sistemas embebidos
+&& Integración con sistemas de supervisión (interfaces HMI, visualización, adquisición)
+& Pruebas y validación
+&& Planificación de pruebas
+&& Evaluación de desempeño
+&& Ajustes y mejoras
+& Documentación del sistema
+&& Documento de control de interfases (ICD)
+&& Documento de ensamblaje
+&& Documento de validación
+&& Manual de usuario
+"
+SCF1002,"
+& Introducción a la interacción humano-computadora (HCI)
+&& Historia y evolución del diseño de interfases
+&& Principios de usabilidad: eficiencia, seguridad, satisfacción del usuario
+& Diseño centrado en el usuario
+&& Etapas del proceso de diseño iterativo
+&& Participación del usuario y evaluación temprana
+&& Identificación de necesidades y perfiles de usuario
+& Modelos de interacción y diseño conceptual
+&& Modelos mentales y estructuras de tareas
+&& Diseño de flujos de interacción y navegación
+&& Metáforas y consistencia en la interfaz
+& Diseño de controles y dispositivos de entrada/salida
+&& Tipos de entrada: táctil, teclado, voz, sensores
+&& Principios de diseño de controles físicos y virtuales
+&& Retroalimentación visual, auditiva y háptica
+& Diseño de interfaces gráficas y móviles
+&& Componentes de GUI: botones, menús, formularios
+&& Diseño adaptativo y responsivo para distintos dispositivos
+&& Buenas prácticas visuales y jerarquía de información
+& Evaluación de usabilidad
+&& Métodos heurísticos y pruebas con usuarios
+&& Métricas de evaluación: eficiencia, errores, satisfacción
+&& Análisis e iteración del diseño basado en retroalimentación
+& Interacción en sistemas ciberfísicos
+&& Integración de HMI con sistemas embebidos
+&& Consideraciones de tiempo real, latencia y robustez
+&& Comunicación con sensores, actuadores y redes locales
+& Aspectos humanos, sociales y éticos
+&& Accesibilidad para usuarios con diversidad funcional
+&& Inclusividad, privacidad y ética en el diseño de interfases
+&& Responsabilidad social del diseñador de sistemas interactivos
+"
+SCF1007,"
+& Introducción a la Visión de Máquina
+&& Conceptos básicos y aplicaciones
+&& Historia y evolución de la visión artificial
+& Fundamentos del procesamiento de imágenes
+&& Técnicas de filtrado (filtros espaciales y frecuenciales)
+&& Análisis espectral (transformada de Fourier y wavelets)
+& Morfología Matemática
+&& Operaciones morfológicas básicas (erosión, dilatación, apertura, cierre)
+&& Aplicaciones de la morfología en la segmentación de imágenes
+& Detección de bordes y análisis de formas
+&& Técnicas de detección de bordes (Sobel, Canny, Laplaciano)
+&& Análisis de contornos y formas
+& Detección y clasificación de objetos
+&& Algoritmos de detección de objetos (HOG, SIFT, SURF)
+&& Redes neuronales y aprendizaje profundo para clasificación
+& Herramientas y tecnologías de Visión de Máquina
+&& Introducción a OpenCV y TensorFlow
+&& Ejercicios prácticos con Python
+& Casos de estudio y aplicaciones avanzadas 
+&& Análisis de casos reales en la industria
+&& Desarrollo de soluciones innovadoras
+"
+SCF1201,"
+& Fundamentos de sistemas inteligentes
+&& Tipos de inteligencia en sistemas embebidos
+&& Conceptos de autonomía, adaptabilidad y aprendizaje
+&& Arquitectura básica de sistemas inteligentes distribuidos
+& Modelos de Agentes Inteligentes
+&& Modelos deliberativos, reactivos y BDI
+&& Estados internos, percepciones y acciones
+&& Ciclo de razonamiento de un agente
+&& Implementación básica de un agente
+& Sistemas multiagente (MAS)
+&& Coordinación y cooperación entre agentes
+&& Organización jerárquica vs distribuida
+&& Protocolos de comunicación (KQML, ACL)
+&& Casos de estudio: robótica distribuida, simulación
+& Razonamiento simbólico y planificación
+&& Lógica proposicional y modal en agentes
+&& Planificación automática (STRIPS, Graphplan)
+&& Resolución de conflictos y metas múltiples
+&& Planificación multiagente
+& Aprendizaje Autónomo y Adaptación
+&& Introducción al aprendizaje en línea
+&& Redes neuronales recurrentes y adaptativas
+&& Control adaptativo y modelos supervisados
+&& Aplicaciones en sistemas dinámicos y robótica
+& Modelado Inteligente en tiempo real
+&& Modelado basado en datos
+&& Inferencia difusa y lógica difusa adaptativa
+&& Algoritmos genéticos para ajuste dinámico
+&& Casos prácticos con sistemas COTS
+& Integración en sistemas ciberfísicos
+&& Diseño de una red de agentes inteligentes
+&& Interoperabilidad entre sensores, actuadores y agentes
+&& Consideraciones de robustez, latencia y escalabilidad
+"
+SCF1202,"
+& Conceptos básicos de series temporales
+&& Características básicas
+&& Clasificación de series temporales
+&& Análisis de series temporales
+&& Deficiencias en datos de series temporales
+& Herramientas básicas de predicción
+&& Herramientas gráficas Herramientas numéricas
+&& Medida de los errores de predicción
+&& Intervalos de predicción 
+&& Transformaciones y ajustes 
+& Descomposición de series temporales
+&& Principios de descomposición 
+&& Medias móviles 
+&& Suavizado por regresión local 
+&& Descomposición clásica 
+&& Método Census 
+&& Descomposición STL 
+&& Utilidad en predicción 
+& Métodos de suavizado 
+&& Métodos de promediado 
+&& Suavizado exponencial 
+&& Comparación de modelos 
+& Metodología ARIMA 
+&& Correlaciones en series temporales 
+&& Examinando la estacionareidad 
+&& Modelos AR y ARMA 
+&& Identificación y estimación de parámetros del modelo
+&& Re-identificación
+&& Análisis de residuos
+&& Predicción con modelos ARIMA 
+& Modelos basados en redes neuronales artificiales 
+&& La neurona artificial 
+&& Entrenamiento de redes neuronales
+&& Tipos de redes neuronales usadas en modelos de predicción
+&& Mapas auto-organizados
+&& Modelos híbridos Software neurosolutions 
+& Integración en sistemas ciberfísicos
+&& Conceptos básicos de sistemas ciberfísicos
+&& Implementación de modelos predictivos en sistemas ciberfísicos
+&& Evaluación y mejora de modelos
+&& Técnicas de evaluación de rendimiento
+&& Ajustes y mejoras para precisión
+"
+SCF1203,"
+& Introducción a sistemas software críticos
+&& Clasificación de aplicaciones críticas
+&& Ciclo de vida del software en sistemas embebidos
+& Modelado y especificación de requisitos
+&& Requisitos funcionales y no funcionales
+&& Lenguajes de especificación formal
+& Arquitecturas y diseño seguro
+&& Principios de modularidad, aislamiento y redundancia
+&& Patrones de diseño seguros
+& Programación robusta
+&& Técnicas de programación defensiva
+&& Control de errores y fallos
+& Sistemas operativos en tiempo real (RTOS)
+&& Planificación, sincronización y manejo de recursos
+&& Implementación de tareas periódicas y esporádicas
+& Verificación, validación y pruebas
+&& Pruebas unitarias, de integración y de sistema
+&& Pruebas en hardware-in-the-loop (HIL)
+&& Cobertura de código y análisis estático
+& Normativas y certificación
+&& ISO 26262 (automotriz)
+&& DO-178C (aeroespacial)
+&& IEC 61508 (industrial)
+& Ciclo de certificación y documentación
+&& Casos de estudio 
+& Sistemas de control de vuelo (autopilotos, gestión de potencia)
+& Sistemas médicos embebidos (bombas de infusión, marcapasos)
+& Sistemas automotrices seguros (ADAS, frenos ABS)
+& Automatización industrial con redundancia y diagnóstico
+& Análisis de fallas y mitigación: estudio de fallos históricos (Therac-25, Ariane 5, Toyota)
+"

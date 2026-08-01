@@ -1,0 +1,343 @@
+id,consecutivo,metodologia
+CYD0107,1,Recibirán instrucción sobre los fundamentos del dibujo técnico para ingeniería.
+CYD0107,2,Desarrollarán habilidades técnicas en el contexto del dibujo técnico normado.
+CYD0107,3,Validarán planos contra estándares y normas establecidas.
+CYD0107,4,Utilizarán herramientas computacionales para el modelado y representación gráfica de una parte de un producto con el fin de generar un plano técnico que responda a las normas de dibujo.
+FPH0108,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre temas introductorios de la ingeniería electromecánica.
+FPH0108,2,"Realizarán juegos, analogías y experimentos controlados con modelos sencillos, para hacer que los conceptos sean más tangibles y atractivos."
+FPH0108,3,Analizarán la evolución y el impacto de la ingeniería electromecánica en la industria y la sociedad.
+FPH0108,4,"Conocerán los principios de mecánica, termodinámica, mecánica de fluidos y transferencia de calor en sistemas electromecánicos."
+FPH0108,5,Conocerán las normativas y protocolos de seguridad en entornos industriales.
+FPH0108,6,"Conocerán sobre circuitos eléctricos, máquinas eléctricas, sistemas electrónicos de control y componentes electromecánicos en software especializado."
+FPH0108,7,"Explorarán aplicaciones en aeronáutica, transporte eléctrico, generación de energía, compararán tecnologías emergentes en automatización, sistemas ciberfísicos y transformación digital."
+FPH0108,8,"Entenderán conceptos sobre eficiencia energética y sostenibilidad, innovaciones tecnológicas y tendencias en el sector."
+FPH0108,9,Realizarán giras donde se complementen los conceptos desarrollados del curso.
+IMM0207,1,Recibirán instrucción sobre los fundamentos de la mecánica clásica para el análisis de sistemas físicos en equilibrio estático.
+IMM0207,2,"Analizarán situaciones reales o hipotéticas de sistemas mecánicos, en los cuales se puede asumir la condición de cuerpo rígido, para extraer aprendizajes aplicables a contextos similares."
+IMM0207,3,"Evaluarán múltiples soluciones a un problema mecánico para evaluar, de forma comparativa, la mejor opción."
+IMM0207,4,Diseñarán y ejecutarán experimentos en condiciones controladas para validar conceptos fundamentales teóricos de la mecánica de cuerpos rígidos.
+IMM0207,5,"Trabajarán en proyectos prácticos para desarrollar habilidades técnicas, de investigación, prototipado, trabajo en equipo y resolución de problemas en un contexto aplicado a la mecánica de cuerpos rígidos."
+IMM0207,6,Usarán herramientas computacionales para modelar sistemas mecánicos y estimar fuerzas y pares en los mismos.
+IEE0303,1,"Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos fundamentales de circuitos eléctricos en corriente directa, abarcando tanto el comportamiento en estado estacionario como el análisis de las respuestas transitorias."
+IEE0303,2,Resolverán problemas; y validarán sus resultados utilizando simulaciones.
+IEE0304,1,Realizarán experimentos para comprobar los conceptos de circuitos eléctricos en corriente directa
+IEE0304,2,Redactarán reportes de los experimentos realizados en cada una de las sesiones de laboratorios.
+IEE0305,1,Recibirán instrucción sobre los principios físicos que gobiernan el comportamiento de los transductores.
+IEE0305,2,Analizarán alternativas para seleccionar el transductor adecuado de acuerdo con cada aplicación vista en los estudios de caso.
+IMM0307,1,Recibirán instrucción sobre los fundamentos de la mecánica clásica para el análisis de sistemas físicos en movimiento.
+IMM0307,2,"Analizarán situaciones reales o hipotéticas de sistemas mecánicos, en los cuales se puede asumir la condición de cuerpo rígido, para extraer aprendizajes aplicables a contextos similares."
+IMM0307,3,"Trabajarán en proyectos prácticos para desarrollar habilidades técnicas, de investigación, prototipado, trabajo en equipo y resolución de problemas en un contexto aplicado a la mecánica de cuerpos rígidos."
+IMM0307,4,"Usarán herramientas computacionales para modelar sistemas mecánicos y estimar fuerzas, pares, velocidades y aceleraciones en los mismos."
+IEE0403,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos fundamentales de circuitos eléctricos monofásicos en corriente alterna.
+IEE0403,2,Resolverán problemas; y validarán sus resultados utilizando simulaciones.
+IEE0404,1,Realizarán experimentos para comprobar los conceptos de circuitos eléctricos en corriente alterna.
+IEE0404,2,Redactarán reportes de los experimentos realizados en cada una de las sesiones de laboratorios.
+IEE0405,1,Recibirán instrucción sobre la integración de diferentes componentes en un sistema de adquisición de datos y sobre los componentes de un instrumento virtual.
+IEE0405,2,"Integrarán instrumentos virtuales, transductores, dispositivos de adquisición de datos y microcontroladores para crear sistemas de instrumentación a la medida según la aplicación vista en los casos de estudio."
+IEE0405,3,Calibrarán sistemas de instrumentación y determinarán su incertidumbre.
+IMM0407,1,Analizarán y definirán los requisitos del sistema térmico.
+IMM0407,2,Evaluarán distintas configuraciones de sistemas térmicos y su impacto en la eficiencia energética.
+IMM0407,3,Implementarán soluciones de optimización térmica en aplicaciones reales.
+IEE0503,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos fundamentales de circuitos electrónicos analógicos.
+IEE0503,2,"Analizarán y definirán los requisitos del sistema, estableciendo el mejor circuito que solucione el problema planteado."
+IEE0503,3,Evaluarán distintos circuitos y los compararán con el fin de determinar cuál es la mejor alternativa que negocie entre complejidad y error deseado.
+IEE0503,4,Aplicarán herramientas de simulación para verificar el funcionamiento de la solución planteada.
+AUT0504,1,"Analizarán y definirán los requisitos del sistema, estableciendo el mejor modelo que lo representa e identificando las herramientas de simulación."
+AUT0504,2,Evaluarán distintos modelos y los compararán con el fin de determinar cuál es la mejor alternativa que negocie entre complejidad y error deseado.
+AUT0504,3,Aplicarán herramientas computacionales para la solución del modelo.
+IMM0507,1,Recibirán instrucción sobre los procesos de manufactura utilizados en la ingeniería electromecánica.
+IMM0507,2,Analizarán un caso detallado de manufactura para extraer aprendizajes aplicables a contextos similares.
+IMM0507,3,Compararán múltiples soluciones de manufactura para un mismo problema con el fin de realizar una evaluación comparativa para la elección del proceso de manufactura óptimo.
+IMM0507,4,"Desarrollarán un proyecto para especificar la cadena de manufactura de un producto o prototipo con el fin de desarrollar habilidades técnicas, de investigación y resolución de problemas en un contexto aplicado y de trabajo en equipo."
+IMM0507,5,Realizarán una investigación de campo y observación directa de un proceso de manufactura con el fin de recolectar datos del proceso para su posterior análisis.
+IMM0507,6,"Evaluarán el impacto ambiental, económico y social de un proceso de manufactura específico."
+IMM0508,1,Desarrollarán experimentos en condiciones controladas para probar hipótesis derivadas de la teoría de manufactura y validarán los resultados.
+IMM0508,2,Analizarán casos detallados de manufactura para extraer aprendizajes aplicables a contextos similares.
+IMM0508,3,Compararán múltiples soluciones de manufactura para un mismo problema con el fin de realizar una evaluación comparativa para la elección del proceso de manufactura óptimo.
+IMM0508,4,Usarán simuladores computacionales de procesos de manufactura con el fin de validar y optimizar el funcionamiento del equipo antes de su puesta en marcha.
+IMM0508,5,Evaluarán el impacto ambiental y social de un proceso de manufactura desarrollado en el laboratorio.
+ADD0602,1,Aplicarán herramientas estadísticas para evaluar la confiabilidad de un sistema.
+ADD0602,2,Aplicarán herramientas como el FMEA para priorizar fallos y proponer acciones preventivas.
+ADD0602,3,Diseñarán estrategias de mantenimiento alineadas con la optimización de disponibilidad y costos.
+ADD0602,4,Modelarán el impacto de fallos en la disponibilidad de un sistema en serie y en paralelo.
+IEE0604,1,"Analizarán y definirán los requisitos del sistema, estableciendo el mejor circuito que solucione el problema planteado."
+IEE0604,2,Contrastarán distintos circuitos con el fin de determinar cuál es la mejor alternativa que equilibre la complejidad y el margen de error aceptable.
+IEE0604,3,Aplicarán herramientas de simulación para verificar el funcionamiento de la solución planteada.
+IMM0605,1,Recibirán instrucción sobre los fundamentos de la mecánica de materiales para el análisis de problemas de ingeniería mecánica.
+IMM0605,2,Analizarán situaciones reales o hipotéticas de sistemas mecánicos para extraer aprendizajes aplicables a contextos similares.
+IMM0605,3,"Evaluarán el comportamiento mecánico de múltiples materiales bajo un mismo escenario de carga para evaluar, de forma comparativa, la mejor opción para un diseño específico."
+IMM0605,4,"Trabajarán en proyectos prácticos para desarrollar habilidades técnicas, de investigación, prototipado, trabajo en equipo y resolución de problemas en un contexto aplicado a la mecánica de cuerpos rígidos."
+IMM0605,5,Usarán herramientas computacionales básicas para modelar materiales y estimar esfuerzos y deformaciones en los mismos.
+IMM0607,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de mecánica de fluidos.
+IMM0607,2,Analizarán los requisitos del sistema de flujo.
+IMM0607,3,Evaluarán distintas configuraciones de sistemas hidráulicos.
+IMM0607,4,Implementarán herramientas computacionales para la simulación de flujos de fluidos.
+IMM0608,1,Realizarán mediciones experimentales en sistemas de fluidos.
+IMM0608,2,Evaluarán distintas configuraciones de sistemas hidráulicos.
+IMM0608,3,Analizarán y representarán gráficamente los resultados obtenidos.
+IMM0608,4,Elaborarán informes técnicos de los resultados.
+CYD0609,1,Recibirán instrucción sobre los fundamentos del dibujo técnico para aplicaciones industriales en ingeniería electromecánica.
+CYD0609,2,Desarrollarán prácticas guiadas dentro de la clase para poner en práctica los conceptos teóricos aprendidos.
+CYD0609,3,Realizarán proyectos fuera de clase para desarrollar habilidades técnicas en el contexto del dibujo técnico normado.
+CYD0609,4,Validarán planos contra estándares y normas establecidas.
+CYD0609,5,Recopilarán planos utilizados en la industria para su respectiva interpretación y valoración de su calidad gráfica y técnica.
+CYD0609,6,"Utilizarán herramientas CAD para modelar y representar gráficamente componentes mecánicos, máquinas e instalaciones electromecánicas, con el propósito de generar planos técnicos detallados que cumplan con las normas de dibujo establecidas."
+FPH0701,1,"Recibirán clases magistrales donde se demostrará, mediante ejemplos, videos y software especializado, la aplicación de herramientas de administración de proyectos."
+FPH0701,2,Analizarán y definirán los requerimientos de los proyectos para su correcta formulación.
+FPH0701,3,Evaluarán la viabilidad técnica y financiera de los proyectos.
+FPH0701,4,Asumirán roles dentro del proyecto con el fin de emular el trabajo en entornos reales.
+FPH0701,5,Compararán las características de las diferentes metodologías para la administración ágil de proyectos.
+IEE0702,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de máquinas eléctricas.
+IEE0702,2,Resolverán problemas; y validarán sus resultados utilizando simulaciones.
+IEE0703,1,"Realizarán experimentos para comprobar los conceptos de sistemas trifásicos, transformadores y motores de inducción."
+IEE0703,2,Redactarán reportes de los experimentos realizados en cada una de las sesiones de laboratorio.
+AUT0704,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de control automático.
+AUT0704,2,Desarrollarán sistemas de control automático en tiempo continuo o discreto
+AUT0705,1,"Recibirán instrucción sobre la arquitectura, la programación y la configuración de periféricos en microcontroladores."
+AUT0705,2,"Realizarán prácticas en clase donde configurarán y utilizarán periféricos como GPIO, ADC, DAC, PWM, temporizadores, y comunicación serial (UART, SPI, I2C)."
+AUT0705,3,"Desarrollarán un proyecto integrador que combine múltiples periféricos y técnicas avanzadas, como el uso de interrupciones, watchdog timer, y DMA, para resolver un problema real."
+IMM0706,1,"Recibirán instrucción sobre los fundamentos del diseño de elementos de máquinas, para la selección, evaluación y diseño de componentes mecánicos."
+IMM0706,2,"Analizarán componentes mecánicos reales bajo cargas estáticas o dinámicas, para extraer aprendizajes aplicables a contextos similares."
+IMM0706,3,"Evaluarán diferentes diseños mecánicos bajo un mismo escenario de carga para evaluar, de forma comparativa, la mejor opción de diseño."
+IMM0706,4,"Trabajarán en proyectos prácticos de diseño y manufactura de componentes mecánicos, para desarrollar habilidades técnicas, de investigación, prototipado, trabajo en equipo y resolución de problemas en un contexto aplicado al diseño de componentes mecánicos."
+IMM0706,5,"Usarán herramientas computacionales para modelar partes de máquinas y estimar esfuerzos, deformaciones, vida esperada y factores de seguridad en las mismas."
+IMM0707,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de sistemas térmicos.
+IMM0707,2,Analizarán los requisitos del sistema térmico.
+IMM0707,3,Evaluarán distintas configuraciones del sistema para mejorar su eficiencia.
+IMM0707,4,Aplicarán herramientas de modelado y simulación en el diseño y optimización de sistemas térmicos.
+IMM0708,1,Realizarán experimentos para comprobar los conceptos de sistemas térmicos.
+IMM0708,2,Redactarán reportes de los experimentos realizados en cada una de las sesiones de laboratorios.
+IEE0802,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de máquinas eléctricas.
+IEE0802,2,Resolverán problemas; y validarán sus resultados utilizando simulaciones.
+IEE0803,1,Realizarán experimentos para comprobar los conceptos de máquinas eléctricas sincrónicas y máquinas de corriente directa.
+IEE0803,2,Redactarán reportes de los experimentos realizados en cada una de las sesiones de laboratorios.
+AUT0804,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de control por eventos discretos.
+AUT0804,2,Analizarán y definirán los requisitos requerimientos del sistema.
+AUT0804,3,"Diseñarán distintas propuestas de diseño de sistemas de control y, a través de una evaluación, seleccionarán la mejor."
+AUT0804,4,Demostrarán el funcionamiento de su sistema de control.
+AUT0804,5,Asumirán roles dentro del proyecto con el fin de emular el trabajo en equipo en entornos reales.
+AUT0805,1,Realizarán experimentos para comprobar los conceptos de sistemas de control automático y control por eventos discretos.
+AUT0805,2,Redactarán reportes de los experimentos realizados en cada una de las sesiones de laboratorio.
+INS0801,1,Analizarán casos de estudio sobre la estructura y operación de los sistemas de transmisión y distribución de energía eléctrica.
+INS0801,2,Modelarán componentes de los sistemas eléctricos de potencia utilizando software de simulación.
+INS0801,3,Resolverán problemas numéricos de flujos de potencia y cortocircuito aplicando diferentes métodos de análisis.
+INS0801,4,Examinarán fallas en la red mediante la interpretación de redes de secuencia y análisis de condiciones anormales.
+INS0801,5,Interpretarán resultados de estudios eléctricos para proponer estrategias de mejora en la operación del sistema.
+INS0801,6,Comparararán diferentes modelos de líneas de transmisión y distribución para identificar sus ventajas y limitaciones.
+INS0801,7,"Investigarán tendencias actuales en tecnologías de transmisión, distribución y automatización de redes eléctricas."
+INS0801,8,Presentarán informes técnicos sobre los resultados obtenidos en las simulaciones y análisis realizados.
+INS0806,1,"Desarrollarán cálculos de acometidas, circuitos ramales, centros de carga, conductores, etc., para distintas cargas eléctricas."
+INS0806,2,"Abordarán la seguridad en instalaciones eléctricas y puesta a tierra mediante clases teóricas y análisis de normativas, complementado con simulaciones de sistemas de puesta a tierra y protecciones."
+INS0806,3,Realizarán estudios de corto circuito aplicando métodos de cálculo manual y resolución de problemas para la determinación de corrientes de falla y evaluación de protecciones.
+INS0806,4,"Estudiarán los aspectos de calidad de energía mediante el análisis de normativas, evaluación de distorsión armónica, transitorios y métodos de mitigación de efectos adversos."
+INS0806,5,"Elaborarán e interpretarán planos eléctricos aplicando simbología y normativas vigentes, con ejercicios prácticos de diseño de instalaciones."
+INS0807,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de sistemas de ventilación y aire comprimido.
+INS0807,1,Analizarán los requisitos del sistema de ventilación y aire comprimido.
+INS0807,2,Evaluarán distintas configuraciones de los sistemas y su impacto en la eficiencia energética.
+INS0807,3,Diseñaran soluciones conforme a normativa nacional e internacional.
+INS0808,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de mantenimiento electromecánico.
+INS0808,2,Evaluarán casos reales de aplicación de mantenimiento predictivo en la industria.
+INS0808,3,Interpretarán señales y datos para detectar fallos en maquinaria rotativa a través del análisis de vibraciones.
+INS0808,4,Aplicarán termografía infrarroja para evaluar el estado de componentes eléctricos y mecánicos.
+INS0808,5,"Evaluarán la condición de equipos, lubricantes y máquinas con base en análisis de aceites y pruebas de diagnóstico eléctrico."
+INS0901,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de sistemas de generación y almacenamiento de energía.
+INS0901,2,"Realizarán exposiciones teóricas, combinadas con ejercicios prácticos y simulaciones de la generación de electricidad renovable y no renovable, y se analizarán la integración a la red eléctrica de transmisión y distribución. Se hará análisis de tecnologías mediante estudios de caso y evaluación de impacto ambiental."
+INS0901,3,Realizarán cálculos de costos y optimización del despacho económico con ejercicios prácticos con la finalidad de determinar las unidades más económicas. 
+INS0901,4,"Utilizarán herramientas de modelado y simulación para analizar estabilidad y estrategias de control ante una presencia de energías renovables y no renovables, almacenamiento y su interacción con los otros elementos del sistema de potencia."
+INS0903,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de refrigeración y aire acondicionado.
+INS0903,2,Analizarán los requisitos de sistemas de refrigeración y aire acondicionado.
+INS0903,3,Evaluarán distintas configuraciones del sistema y su impacto en la eficiencia energética.
+INS0903,4,Implementarán soluciones para optimizar el rendimiento y reducir el impacto ambiental de los sistemas.
+INS0904,1,Analizarán el ciclo de refrigeración en sistemas reales y didácticos.
+INS0904,2,Evaluarán el desempeño de los componentes principales de un sistema de refrigeración y aire acondicionado.
+INS0904,3,"Diagnosticarán fallas en compresores, controles de presión y temperatura, y tuberías."
+INS0904,4,"Aplicarán procedimientos de carga, recuperación y mantenimiento de refrigerantes."
+INS0905,1,"Recibirán orientación teórica y práctica sobre las etapas del proceso de investigación científica aplicada a la ingeniería, mediante sesiones magistrales, discusiones dirigidas y análisis de casos."
+INS0905,2,"Desarrollarán su anteproyecto de investigación de forma progresiva a lo largo del curso, con acompañamiento docente y retroalimentación continua."
+INS0905,3,"Aplicarán técnicas de búsqueda, análisis y citación de fuentes académicas mediante actividades prácticas individuales y en grupo."
+INS0905,4,"Definirán el problema de investigación, objetivos y justificación de su proyecto, cumpliendo con los criterios técnicos y metodológicos establecidos."
+INS0905,5,"Participarán en talleres de redacción técnica y presentación oral, con el fin de preparar el documento final y su defensa ante un jurado académico."
+INS0905,6,"Elaborarán un cronograma detallado de ejecución y planificación de recursos, como parte de la gestión de su proyecto de graduación."
+INS0906,1,Recibirán instrucción sobre los fundamentos del diseño de instalaciones mecánico-sanitarias.
+INS0906,2,Analizarán los requisitos y requerimientos de diseño de instalaciones mecánico-sanitarias.
+INS0906,3,"Evaluarán distintas configuraciones del sistema para determinar, de forma comparativa, la mejor opción de diseño."
+INS0906,4,Trabajarán en proyectos prácticos de diseño de instalaciones mecánico-sanitarias para desarrollar habilidades técnicas y de aplicación de la normativa nacional e internacional vigente.
+INS0907,1,Realizarán experimentos para caracterizar el desempeño de sistemas de fluidos.
+INS0907,2,Aplicarán procedimientos de medición y análisis de datos experimentales.
+INS0907,3,Elaborarán informes técnicos fundamentados en resultados experimentales.
+INS0907,4,Participarán en actividades de desmontaje y montaje de equipos para conocer su funcionamiento y mantenimiento.
+INS0908,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de sistemas de vapor.
+INS0908,2,Analizarán y definirán los requisitos del sistema de generación y distribución de vapor.
+INS0908,3,Evaluarán distintas configuraciones del sistema y su impacto en la eficiencia energética.
+INS0908,4,Utilizarán herramientas en línea y software especializado para la selección de componentes del sistema de vapor y estudiar su comportamiento.
+INS0908,5,Implementarán soluciones para mejorar la eficiencia de los sistemas de vapor y reducir costos operativos.
+INS0909,1,Realizarán mediciones experimentales en sistemas de vapor.
+INS0909,2,Evaluarán la eficiencia de calderas y trampas de vapor.
+INS0909,3,Analizarán los resultados obtenidos.
+INS0909,4,Elaborarán informes técnicos sobre el desempeño y diagnóstico de equipos en sistemas de vapor.
+INS1003,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de gestión de energía.
+INS1003,2,"Analizan estudios de caso sobre sistemas de gestión energética implementados en organizaciones reales, para comprender su estructura, resultados y desafíos."
+INS1003,3,"Aplican herramientas como balances de energía, cálculos de indicadores (EnPIs) y auditorías, en ejercicios prácticos y simulaciones guiadas."
+INS1003,3,"Debaten en sesiones colaborativas temas como sostenibilidad energética, impacto ambiental y responsabilidad institucional, fomentando el pensamiento crítico."
+INS1003,3,"Elaboran propuestas de mejora en la eficiencia energética de sistemas electromecánicos, integrando criterios técnicos, normativos y ambientales."
+INS1005,1,"Aplicarán los conocimientos adquiridos durante su formación académica en el desarrollo del Trabajo Final de Graduación (TFG), en cualquiera de las modalidades reconocidas por el TEC, con base en la realidad contextual del entorno del proyecto."
+INS1005,2,"Entregarán avances parciales del TFG, recibiendo retroalimentación del profesor tutor para asegurar el cumplimiento de los objetivos y la calidad técnica del trabajo."
+INS1005,3,Desarrollarán habilidades de comunicación oral y escrita mediante la redacción de informes técnicos intermedios y la preparación para la defensa final del proyecto.
+INS1005,4,"Reflexionarán de forma crítica sobre los aspectos éticos, técnicos y sociales que surgen durante el desarrollo del TFG, integrando esa reflexión en la toma de decisiones del proyecto."
+INS1006,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de gestión del ciclo de vida de instalaciones electromecánicas
+INS1006,2,"Analizarán un caso real o simulado de una instalación electromecánica, aplicando técnicas de LCCA para evaluar la viabilidad de distintas alternativas de inversión, operación o mantenimiento."
+INS1006,3,"Construirán un mapa detallado de las fases del ciclo de vida de un sistema, incorporando principios de ingeniería de sistemas según INCOSE."
+INS1006,4,"Asumirán roles (auditores, responsables técnicos, etc.) y realizarán una auditoría simulada basada en un checklist técnico, análisis de KPIs y prácticas organizacionales."
+INS1006,5,Diseñarán modelos de gestión de mantenimiento para su aplicación en la industria.
+INS1006,6,Emplearán herramientas digitales o software de modelado para simular la implementación de mantenimiento basado en condición.
+INS1006,7,Evaluarán el impacto al negocio de la aplicación del mantenimiento basado en condición a través del uso de herramientas de simulación y modelado predictivo.
+INS1007,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de neumática y oleohidráulica.
+INS1007,2,Simularán circuitos neumáticos y oleohidráulicos utilizando herramientas de software especializadas.
+INS1007,3,Implementarán y probarán sistemas neumáticos y oleohidráulicos en un entorno de laboratorio.
+INS1007,4,Evaluarán y resolverán problemas comunes en sistemas neumáticos y oleohidráulicos.
+INS1007,5,"Aplicarán normativas y estándares de seguridad en el diseño, implementación y mantenimiento de sistemas neumáticos y oleohidráulicos."
+INS1201,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de sistemas de puesta a tierra.
+INS1201,2,"Revisarán normativas NEC, IEEE 142, IEEE 1100 e IEEE 80 para el diseño de puesta a tierra."
+INS1201,3,Medirán la resistividad del suelo con el método Wenner e interpretará los resultados con la Carta Maestra IEEE Std 80.
+INS1201,4,"Diseñarán electrodos de puesta a tierra aplicando IEEE 142 e IEEE 80, considerando tensiones generadas y protección contra corrosión."
+INS1201,5,"Realizarán pruebas de resistencia, integridad y tensiones de toque y paso para evaluar el sistema."
+INS1201,6,"Implementarán puesta a tierra en equipos sensibles, telecomunicaciones y tierra aislada."
+INS1201,7,Evaluarán sistemas existentes y establecerá planes de mantenimiento preventivo.
+INS1201,8,"Elaborarán un informe técnico que documente el diseño, pruebas y mantenimiento del sistema de puesta a tierra, incluyendo análisis de resultados y recomendaciones."
+INS1202,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de sistemas contra incendios.
+INS1202,2,Analizarán los requisitos de los sistemas contra incendios.
+INS1202,3,Evaluarán distintas configuraciones y su impacto en la seguridad y eficiencia.
+INS1202,4,Implementarán soluciones conforme a normativa nacional e internacional.
+INS1203,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de edificios inteligentes.
+INS1203,2,Usará herramientas de software para la correcta gestión y desarrollo de un proyecto final que integre todos los conocimientos adquiridos durante el curso.
+INS1203,3,"Realizará presentaciones y defensa del proyecto ante el grupo, con retroalimentación de los compañeros y el instructor."
+INS1203,4,"Aplicará una evaluación continua a través de pruebas, tareas y exámenes parciales."
+AER0801,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de sistemas de la aeronave.
+AER0801,2,Analizarán los requisitos del sistema de una aeronave en función de su ciclo de vida.
+AER0801,3,Evaluarán distintas configuraciones de sistemas para optimizar el rendimiento y seguridad.
+AER0801,4,Aplicarán metodologías de gestión de mantenimiento para aeronaves.
+AER0801,5,Desarrollarán estrategias para la optimización de costos operativos y mantenimiento.
+AER0807,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de materiales en aeronáutica.
+AER0807,2,"Resolverán ejercicios aplicados sobre el comportamiento de materiales en componentes aeronáuticos, utilizando principios de la mecánica y datos técnicos para analizar propiedades como resistencia, fatiga o deformación."
+AER0807,3,"Desarrollarán proyectos en los que modelarán situaciones estructurales o funcionales relacionadas con materiales aeronáuticos, integrando herramientas de simulación para predecir su respuesta ante condiciones de carga y ambiente."
+AER0807,4,"Analizarán estudios de caso sobre fallas o decisiones de selección de materiales en aeronaves reales, aplicando criterios normativos y fundamentos técnicos para sustentar propuestas de mejora o diagnóstico."
+AER0808,1,Aplicarán procedimientos de medición y calibración según estándares internacionales y requerimientos aeronáuticos.
+AER0808,2,Utilizarán instrumentos manuales y digitales para verificar variables físicas en componentes estructurales y sistemas a bordo.
+AER0808,3,"Interpretarán resultados de medición, certificados de calibración y documentación técnica relevante."
+AER0808,4,Elaborarán rutinas de calibración y registros técnicos con trazabilidad y criterios de aceptación definidos.
+AER0901,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de aviónica.
+AER0901,1,"Identificarán la ubicación física de los sistemas aviónicos en distintas zonas de la aeronave utilizando esquemas, diagramas y modelos tridimensionales."
+AER0901,1,"Estudiarán el funcionamiento de los sistemas de navegación y control automático de vuelo, incluyendo fallas comunes y normativas internacionales asociadas."
+AER0901,1,Evaluarán sistemas de gestión y control de vuelo considerando sus funciones operativas y procedimientos de mantenimiento.
+AER0902,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de aerodinámica.
+AER0902,2,Evaluarán configuraciones de flujo y eficiencia de sistemas aerodinámicos.
+AER0902,3,Simularán fenómenos aerodinámicos con herramientas computacionales.
+AER0902,4,Aplicarán principios aerodinámicos en el diseño de aeronaves.
+AER0903,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de sistemas de dinámica de vuelo.
+AER0903,2,"Analizarán sistemas de referencia y ángulos de Euler mediante ejercicios gráficos y simulaciones, para comprender la actitud de la aeronave en el espacio tridimensional."
+AER0903,3,"Estudiarán las condiciones de equilibrio y estabilidad estática a partir del análisis del trimado y las fuerzas aerodinámicas, aplicando estos conceptos en casos prácticos."
+AER0903,4,"Resolverán problemas utilizando ecuaciones de movimiento en modelos completos y simplificados de aeronaves, mediante funciones de transferencia y representación en espacio de estados."
+AER0903,5,"Simularán la dinámica longitudinal, lateral y direccional en distintos escenarios operativos, evaluando la respuesta de la aeronave y sus cualidades de maniobrabilidad."
+AER0906,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de análisis mecánico de estructuras de la aeronave.
+AER0906,2,"Analizarán situaciones reales o hipotéticas de estructuras de la aeronave bajo cargas típicas de la aviación, para extraer aprendizajes aplicables a contextos similares."
+AER0906,3,"Evaluarán diferentes diseños mecánicos bajo un mismo escenario de carga para evaluar, de forma comparativa, la mejor opción de diseño."
+AER0906,4,"Trabajarán en proyectos de modelado y simulación computacional para comprender el comportamiento de estructuras específicas de la aeronave, esto con el fin de desarrollar habilidades técnicas, de investigación, trabajo en equipo y resolución de problemas."
+AER0908,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de seguridad aeronáutica y aeronavegabilidad.
+AER0908,2,"Realizarán estudios de caso analizando accidentes e incidentes aeronáuticos históricos y contemporáneos para identificar causas, factores contribuyentes y recomendaciones preventivas."
+AER0908,3,Desarrollarán ejercicios prácticos y simulaciones sobre inspecciones técnicas y procedimientos operacionales relacionados con la aeronavegabilidad y manejo de mercancías peligrosas.
+AER0908,4,"Participarán en proyectos colaborativos para implementar y evaluar sistemas de gestión de seguridad operacional (SMS), fortaleciendo competencias técnicas, analíticas, de trabajo en equipo y resolución de problemas."
+AER1001,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de gestión del ciclo de vida de aeronaves
+AER1001,2,Analizarán los requisitos del sistema de mantenimiento aeronáutico.
+AER1001,3,Evaluarán distintas configuraciones y estrategias de mantenimiento.
+AER1001,4,Aplicarán normativas aeronáuticas en la planificación de mantenimiento.
+AER1001,5,Optimizarán la eficiencia operativa de aeronaves mediante herramientas de gestión.
+AER1002,1,Recibirán instrucción sobre los fundamentos que rigen la propulsión en aeronaves y los componentes mecánicos relacionados.
+AER1002,2,Analizarán diferentes principios aerodinámicos y termodinámicos con el fin de comprender su aplicabilidad en la propulsión de aeronaves.
+AER1002,3,Evaluarán diferentes sistemas de propulsión con el fin de determinar configuraciones óptimas según necesidades o requerimientos planteados.
+AER1002,4,"Trabajarán en proyectos de investigación de sistemas de propulsión para desarrollar habilidades técnicas, de investigación, trabajo en equipo y resolución de problemas."
+AER1003,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de control automático de vuelo
+AER1003,2,Diseñaran y simularán sistemas de control automático de vuelo.
+AER1201,1,Recibirán instrucción sobre los fundamentos que rigen la propulsión en aeronaves y los componentes mecánicos relacionados.
+AER1201,2,Analizarán los requisitos de infraestructura aeroportuaria.
+AER1201,3,Evaluarán distintas configuraciones de diseño y gestión aeroportuaria.
+AER1201,4,Aplicarán normativas internacionales en la planificación aeroportuaria.
+AER1201,5,Diseñarán estrategias para la optimización de los servicios aeroportuarios.
+AER1202,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de telemetría y comunicaciones aeronáuticas.
+AER1202,2,"Participarán en discusiones orientadas al análisis de normativas internacionales, protocolos de comunicación y su papel en la operación segura de aeronaves."
+AER1202,3,"Analizarán grupalmente casos documentados sobre incidentes aeronáuticos asociados a fallas en comunicación, enfocados en la comprensión sistémica del problema."
+AER1202,4,"Desarrollarán síntesis argumentadas de artículos técnicos y extractos normativos, con énfasis en el análisis estructurado y la integración de múltiples perspectivas regulatorias y tecnológicas."
+AER1202,5,"Explorarán tendencias tecnológicas mediante el estudio de documentos especializados y presentaciones temáticas, discutiendo su impacto estratégico en el futuro de los sistemas aeronáuticos."
+AER1203,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre las particularidades de la manufactura en la cadena de valor aeroespacial.
+AER1203,2,"Desarrollarán ejercicios prácticos de programación de producción, análisis de capacidad y secuenciamiento de procesos."
+AER1203,3,"Implementarán actividades prácticas para aplicar conceptos de Lean Manufacturing, gestión de calidad y aseguramiento de procesos según estándares AS9100, AS9110, AS9120 y NADCAP."
+AER1203,4,"Realizarán trabajos en equipo sobre casos integradores que incluyan análisis de requisitos regulatorios (DGAC, FAA, EASA, ITAR, EAR), elaboración de documentos de calidad (FAI-AS9102, APQP-AS9145) y propuestas de mejora continua."
+AER1203,5,"Presentarán informes técnicos y exposiciones orales para demostrar el dominio integral del contenido del curso, con énfasis en la aplicación efectiva de la gestión industrial, calidad y regulaciones específicas del sector aeroespacial."
+SCF0801,1,"Seleccionarán un sistema de interés, conformarán un grupo de trabajo para su desarrollo y asumirán roles específicos dentro de las disciplinas de la ingeniería electromecánica dentro del grupo."
+SCF0801,2,Definirán y analizarán los requisitos del sistema en diferentes niveles.
+SCF0801,3,"Establecerán la arquitectura del sistema y evaluarán distintas configuraciones considerando costos, desempeño y factibilidad técnica."
+SCF0801,4,Aplicarán herramientas de modelado para desarrollar representaciones funcionales del sistema ya integrado y realizar pruebas en entornos simulados que permitan evaluar su desempeño y cumplimiento de requisitos.
+SCF0806,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de máquinas y mecanismos
+SCF0806,2,Analizarán situaciones reales o hipotéticas de mecanismos para extraer aprendizajes aplicables a contextos similares.
+SCF0806,3,"Trabajarán en proyectos prácticos de diseño y manufactura de mecanismos simples para desarrollar habilidades técnicas, de investigación, prototipado, trabajo en equipo y resolución de problemas en un contexto aplicado al diseño de máquinas."
+SCF0806,4,Usarán herramientas computacionales para modelar y simular mecanismos y realizar análisis dinámicos de éstos.
+SCF0807,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre aplicaciones de sistemas embebidos
+SCF0807,2,Programarán y configurarán los periféricos de microcontroladores basados en ARM
+SCF0807,3,Utilizarán sistemas operativos en tiempo real (RTOS) para gestionar tareas y recursos en sistemas embebidos
+SCF0807,4,Sintetizarán aplicaciones de sistemas embebidos sencillas basadas en FPGAs
+SCF0807,5,Desarrollarán un proyecto integrador que combine microcontroladores y FPGAs para resolver un problema real
+SCF0808,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos fundamentales de ciberseguridad.
+SCF0808,2,"Desarrollarán proyectos integradores que fomenten la colaboración y el aprendizaje interdisciplinario, permitiéndoles trabajar en equipos para abordar problemas complejos e integrar conocimientos de diferentes áreas de la ciberseguridad."
+SCF0808,3,"Resolverán ejercicios de diagnóstico y autoevaluación relacionados con vulnerabilidades, criptografía y cumplimiento normativo, para monitorear su progreso en la identificación de amenazas, el uso de técnicas de cifrado y la aplicación de estándares de seguridad."
+SCF0808,4,"Realizarán pruebas de penetración controladas sobre aplicaciones y servicios simulados, con el fin de identificar vulnerabilidades, aplicar técnicas de análisis y proponer soluciones basadas en buenas prácticas de desarrollo seguro."
+SCF0808,5,"Llevarán a cabo actividades de investigación orientadas a fomentar el pensamiento crítico y la capacidad de análisis, investigando nuevas amenazas y técnicas de ciberseguridad para mantenerse actualizados con las últimas tendencias del sector."
+SCF0901,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de modelado nmérico y simulación computacional
+SCF0901,2,Desarrollarán prácticas en laboratorio implementando métodos numéricos específicos para resolver ODEs y PDEs aplicados a problemas reales.
+SCF0901,3,"Analizarán estudios de caso específicos que integran aspectos térmicos, mecánicos y eléctricos."
+SCF0901,4,Compararán resultados numéricos con soluciones analíticas o datos experimentales para validar modelos desarrollados.
+SCF0902,1,Recibirán instrucción sobre el uso y aplicación de circuitos integrados comerciales (COTS) en el diseño de sistemas.
+SCF0902,2,"Analizarán hojas de datos, notas de aplicación y esquemáticos típicos para comprender el funcionamiento de circuitos integrados."
+SCF0902,3,"Seleccionarán componentes adecuados para casos de uso específicos en áreas como potencia, sensado, señal y comunicación."
+SCF0902,4,Simularán el comportamiento de circuitos integrados utilizando herramientas de simulación.
+SCF0902,5,Diseñarán esquemáticos y ruteo de PCBs utilizando software de diseño electrónico.
+SCF0903,1,Recibirán instrucción sobre los fundamentos y aplicaciones de técnicas de inteligencia artificial simbólica y conexionista en sistemas ciberfísicos.
+SCF0903,2,Implementarán modelos inteligentes en plataformas de simulación y programación.
+SCF0903,3,"Analizarán casos de estudio reales y simulados para aplicar técnicas como lógica difusa, planificación, redes neuronales y algoritmos evolutivos."
+SCF0903,4,Evaluarán el comportamiento y desempeño de soluciones inteligentes mediante pruebas en entornos simulados o dispositivos físicos con restricciones reales.
+SCF0903,5,Integrarán modelos inteligentes en plataformas embebidas o de bajo consumo.
+SCF0906,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de robótica
+SCF0906,2,"Aprenderán a programar y operar robots industriales utilizando lenguajes de programación específicos, lo que les permitirá configurar y controlar robots en entornos reales."
+SCF0906,3,"Desarrollarán la capacidad de analizar y diseñar cadenas cinemáticas e inversas, comprendiendo cómo se mueven y funcionan los robots, lo cual es esencial para la resolución de problemas y la optimización de movimientos."
+SCF0906,4,"Aplicarán técnicas de control automático, como el control PID, en sistemas robóticos, integrando conocimientos previos y mejorando la precisión y eficiencia de los robots."
+SCF0907,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre conceptos de automatización y digitalización industrial
+SCF0907,2,"Analizarán sistemas de automatización industrial utilizando normas internacionales como IEC 60848, IEC 61499 y IEC 62061."
+SCF0907,3,"Configurarán redes industriales aplicando criterios de diseño, interoperabilidad y ciberseguridad conforme a las normas IEC 61784 y IEC 62443."
+SCF0907,4,Diseñarán e integrarán sistemas SCADA con tecnologías IoT y dispositivos industriales mediante protocolos como OPC UA (IEC 62541).
+SCF0907,5,"Implementarán estrategias de supervisión, control y protección en entornos industriales conforme a las normativas IEC 62682 e IEC 62443."
+SCF1001,1,Seleccionarán un problema de ingeniería y definirán los requerimientos técnicos del sistema ciberfísico a desarrollar.
+SCF1001,2,"Diseñarán la arquitectura del sistema, integrando hardware, software y métodos de control automático."
+SCF1001,3,"Implementarán módulos funcionales utilizando componentes COTS, sistemas embebidos y herramientas de automatización."
+SCF1001,4,Integrarán y validarán el sistema mediante pruebas técnicas y ajustes iterativos.
+SCF1001,5,Gestionarán el proyecto utilizando enfoques ágiles y presentarán el producto final junto con su documentación técnica.
+SCF1002,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre diseño de interfases humano-máquina.
+SCF1002,2,"Desarrollarán actividades prácticas en laboratorio orientadas al diseño, implementación y prueba de prototipos interactivos."
+SCF1002,3,Guiarán procesos de diseño centrado en el usuario a través de ejercicios iterativos de prototipado y retroalimentación.
+SCF1002,4,Fomentarán el trabajo colaborativo en el desarrollo de proyectos aplicados a contextos reales de sistemas ciberfísicos.
+SCF1002,5,"Promoverán el análisis crítico de casos y la discusión ética sobre accesibilidad, inclusión y responsabilidad social del diseño."
+SCF1007,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre Visión de Máquina.
+SCF1007,2,"Desarrollarán proyectos prácticos utilizando herramientas como OpenCV, TensorFlow, MATLAB o Vision Builder para resolver problemas reales."
+SCF1007,3,Implementarán algoritmos de detección y reconocimiento de objetos basados en técnicas de procesamiento de imágenes y aprendizaje automático.
+SCF1007,4,"Integrarán y evaluarán sistemas de visión de máquina con hardware y software en entornos ciberfísicos, considerando criterios de desempeño y optimización."
+SCF1201,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre sistemas autónomos y multiagente
+SCF1201,2,Diseñarán modelos de agentes autónomos considerando distintos enfoques arquitectónicos y niveles de autonomía.
+SCF1201,3,"Implementarán sistemas multiagente en entornos de simulación o prototipos físicos, integrando sensores y actuadores."
+SCF1201,4,"Aplicarán técnicas de razonamiento simbólico, planificación y aprendizaje autónomo en contextos dinámicos."
+SCF1201,5,Integrarán los componentes desarrollados en un proyecto final que combine inteligencia distribuida con control en tiempo real.
+SCF1202,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre análisis predictivo de series termporales
+SCF1202,2,"Implementarán técnicas predictivas avanzadas como ARIMA, redes neuronales y lógica difusa mediante herramientas computacionales."
+SCF1202,3,Desarrollarán prácticas de laboratorio para integrar modelos predictivos en sistemas IoT orientados a la detección de fallos.
+SCF1202,4,Analizarán resultados obtenidos mediante indicadores de desempeño para evaluar y ajustar la precisión de los modelos desarrollados.
+SCF1203,1,Recibirán clases magistrales con material audiovisual y discusión en grupo sobre desarrollo de software para aplicaciones críticas
+SCF1203,2,Desarrollarán ejercicios prácticos en laboratorio utilizando RTOS y plataformas embebidas.
+SCF1203,3,"Aplicarán técnicas de diseño robusto, programación defensiva y control de fallos."
+SCF1203,4,"Analizarán casos de estudio reales para identificar riesgos, fallos y estrategias de mitigación."
+SCF1203,5,Evaluarán el cumplimiento de estándares internacionales.
