@@ -16,6 +16,7 @@ mallas y tablas auxiliares.
 - `scripts`: generadores y procesos de mantenimiento.
 - `outputs/programas`: programas de curso generados.
 - `outputs/mallas`: malla EM, datos y exportaciones visuales.
+- `outputs/graficos`: gráficos curriculares vectoriales usados por el documento base.
 - `outputs/tablas`: tablas consolidadas generadas por los procesos.
 
 ## Instalación
@@ -63,6 +64,16 @@ python scripts/gen_malla.py
 
 Este comando produce `malla.pdf`, `mallaTRC.pdf`, `mallaINS.pdf`,
 `mallaAER.pdf` y `mallaCIB.pdf` en `outputs/mallas`.
+
+Generar los gráficos curriculares:
+
+```powershell
+python scripts/gen_graficos.py
+```
+
+Este comando usa `inputs/saberes/saberes.csv` y
+`outputs/mallas/areas.csv`, y produce `TRC.pdf`, `porcTRC.pdf`, `INS.pdf`,
+`AER.pdf`, `SCF.pdf` y `ENF.pdf` en `outputs/graficos`.
 
 Generar tablas consolidadas:
 
