@@ -1,7 +1,20 @@
 # Generación de cursos y mallas
 
-Repositorio autocontenido para mantener los datos de cursos y generar programas,
-mallas y tablas auxiliares.
+Este repositorio es la fuente de verdad para mantener actualizados los datos curriculares y los programas de curso de Ingeniería Electromecánica. Genera programas, mallas, gráficos y tablas auxiliares que alimentan el documento curricular vigente del repositorio `EIEM-TEC/base`.
+
+## Origen y propósito
+
+El repositorio `EIEM-TEC/CLIE` conserva el documento original con el que se creó la carrera. Ese documento ya fue aprobado y no debe modificarse: permanece como referencia histórica. `cursos` y `base` se mantienen por separado para reflejar la evolución del programa sin alterar el original aprobado.
+
+Los datos vigentes se modifican en `cursos`, respetando la estructura `inputs`, `scripts` y `outputs`. `base` mantiene el documento que reúne la estructura curricular actualizada. Los archivos históricos de `CLIE` y las copias de recursos de `base` no sustituyen a los insumos de `cursos` como fuente de verdad.
+
+## Alcance de cada actualización
+
+Todo cambio en un programa de curso o en la estructura curricular general debe quedar registrado aquí y reflejarse en las salidas y en las partes afectadas del documento de `base`. Esto incluye, según corresponda, contenidos, objetivos, evaluación, bibliografía, requisitos, créditos, plan de estudios, saberes, rasgos, ejes y mallas.
+
+Actualice primero los insumos de `cursos`, regenere las salidas afectadas y revise su impacto en `base`. Documente qué cambió y por qué, y distinga propuestas pendientes de cambios aprobados cuando corresponda. Modificar archivos no constituye por sí mismo una aprobación institucional.
+
+La descarga de mallas y gráficos publicados está automatizada en `base`, pero el texto y las tablas del documento todavía requieren actualización explícita. Si queda trabajo pendiente en el otro repositorio, indíquelo al entregar el cambio; no dé por sincronizado todo el documento por haber regenerado los PDF.
 
 ## Estructura
 
