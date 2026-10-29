@@ -39,7 +39,7 @@ AUT0504,5,EE0504,Modelado y simulación de sistemas,Teórico - Práctico,EE0307;
 IMM0506,5,ME2208,Ciencia de los materiales,Teórico,QU1902; FI1102,EE0507,3,3,6
 IMM0507,5,EE0507,Manufactura,Teórico,EE0307,,2,3,3
 IMM0508,5,EE0508,Laboratorio de manufactura,Teórico - Práctico,,EE0507,2,4,2
-CYD0601,6,CI3202,Inglés para mecatrónica,Teórico,,,1,3,0
+CYD0601,6,CI3202,Inglés para mecatrónica,Teórico,CI0205,,1,3,0
 ADD0602,6,EE0602,Fiabilidad y disponibilidad de sistemas electromecánicos,Teórico,PI0502,,2,3,3
 IEE0604,6,EE0604,Sistemas digitales,Teórico - Práctico,EE0503,,2,4,2
 IMM0605,6,EE0605,Resistencia de materiales,Teórico,ME2208,,3,4,5
